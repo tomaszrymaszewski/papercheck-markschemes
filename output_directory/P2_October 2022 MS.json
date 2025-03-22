@@ -1,0 +1,574 @@
+{
+    "3a(i)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "a_1 = 1/4",
+            "expected_answer": "1/4",
+            "mark_type": "B"
+        }
+    ],
+    "3a(ii)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "a_2 = 1/4",
+            "expected_answer": "1/4",
+            "mark_type": "B"
+        }
+    ],
+    "3a(iii)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "a_3 = -1",
+            "expected_answer": "-1",
+            "mark_type": "B"
+        }
+    ],
+    "3b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Correct attempt to find 50/2[2+49] (=1275) oe",
+            "expected_answer": "50/2[2+49] (=1275) oe",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct attempt to find sum from i=1 to 16 cos^2(i*pi/3) = 34 x 1 + 16 x 1/4",
+            "expected_answer": "34 x 1 + 16 x 1/4",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "1275 + 2599/2",
+            "expected_answer": "1275 + 425",
+            "mark_type": "A"
+        }
+    ],
+    "4a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "10 = -log_a 8, 4 log_a 2 = 10",
+            "expected_answer": "10 = -log_a 8, 4 log_a 2 = 10",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "a^2 = 2",
+            "expected_answer": "a^2 = 2",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "a = 2^(1/2) = 1.07177...",
+            "expected_answer": "a = 2^(1/2) = 1.07177...",
+            "mark_type": "A"
+        }
+    ],
+    "4b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "w = log_1.072 (t+5) - log_1.072 4, w = log_1.072 (t+5)/4",
+            "expected_answer": "w = log_1.072 (t+5) - log_1.072 4, w = log_1.072 (t+5)/4",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "w = log_1.072 (t+5)/4 => 1.072^w = (t+5)/4",
+            "expected_answer": "w = log_1.072 (t+5)/4 => 1.072^w = (t+5)/4",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "t = 4 x 1.072^w - 5",
+            "expected_answer": "t = 4 x 1.072^w - 5",
+            "mark_type": "A"
+        }
+    ],
+    "4c": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "t = 4 x 1.072^15 - 5 = ...",
+            "expected_answer": "t = 4 x 1.072^15 - 5 = ...",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "awrt 6.35",
+            "expected_answer": "awrt 6.35",
+            "mark_type": "A"
+        }
+    ],
+    "5a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "cos(3theta - tan theta) = 2 => cos(3theta - sin theta/cos theta) = 2 or e.g. cos(3theta(cos theta - tan theta) = 2 => cos(3theta cos^2 theta - sin theta = 2 or e.g. cos(3theta(cos theta - tan theta) = 2 => 3cos^3 theta - sin theta = 2 or e.g.",
+            "expected_answer": "cos(3theta - tan theta) = 2 => cos(3theta - sin theta/cos theta) = 2 or e.g. cos(3theta cos^2 theta - sin theta = 2 or e.g. cos(3theta cos^2 theta - sin theta = 2 or e.g.",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "3(1 - sin^2 theta) - sin theta = 2",
+            "expected_answer": "3(1 - sin^2 theta) - sin theta = 2",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "3sin^2 theta + sin theta - 1 = 0 *",
+            "expected_answer": "3sin^2 theta + sin theta - 1 = 0 *",
+            "mark_type": "A"
+        }
+    ],
+    "5b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "(sin 2x =) (-1 +- sqrt(13))/6 (or awrt 0.43 and awrt -0.76)",
+            "expected_answer": "(sin 2x =) (-1 +- sqrt(13))/6 (or awrt 0.43 and awrt -0.76)",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "2x = sin^-1(0.434...) or 2x = sin^-1(-0.77...) => x = ...",
+            "expected_answer": "2x = sin^-1(0.434...) or 2x = sin^-1(-0.77...) => x = ...",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "-1.13, -0.438, 0.225, 1.35",
+            "expected_answer": "-1.13, -0.438, 0.225, 1.35",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "-1.13, -0.438, 0.225, 1.35",
+            "expected_answer": "-1.13, -0.438, 0.225, 1.35",
+            "mark_type": "A"
+        }
+    ],
+    "6a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "h = 0.5",
+            "expected_answer": "h = 0.5",
+            "mark_type": "B"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "1/2 x 0.5 x [3 + 1.92 + 2(2.6833 + 2.4 + 2.1466)]",
+            "expected_answer": "1/2 x 0.5 x [3 + 1.92 + 2(2.6833 + 2.4 + 2.1466)]",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "4.845",
+            "expected_answer": "4.845",
+            "mark_type": "A"
+        }
+    ],
+    "6b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Integral 2 - 1/4 x^2 dx = [2x - x^3/12]_1^3 = 10/3",
+            "expected_answer": "Integral 2 - 1/4 x^2 dx = [2x - x^3/12]_1^3 = 10/3",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Integral 2 - 1/4 x^2 dx = [2x - x^3/12]_1^3 = 10/3",
+            "expected_answer": "Integral 2 - 1/4 x^2 dx = [2x - x^3/12]_1^3 = 10/3",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "\"4.845\" - \"10/3\"/8",
+            "expected_answer": "\"4.845\" - \"10/3\"/8",
+            "mark_type": "D"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "-25.2(%)",
+            "expected_answer": "-25.2(%)",
+            "mark_type": "A"
+        }
+    ],
+    "7a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "12x^3(x-7) + 14x(13x - 15)/21x^2 = 12x^4 - 84x^3 + 182x^2 - 210x/21x^2",
+            "expected_answer": "12x^3(x-7) + 14x(13x - 15)/21x^2 = 12x^4 - 84x^3 + 182x^2 - 210x/21x^2",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "4/7 x^2, -4x, +26/3, -10/x",
+            "expected_answer": "4/7 x^2, -4x, +26/3, -10/x",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "(y =) 4/7 x^2, -4x, +26/3, -10/x",
+            "expected_answer": "(y =) 4/7 x^2, -4x, +26/3, -10/x",
+            "mark_type": "A"
+        }
+    ],
+    "7b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "dy/dx = 8/7 x - 4 + 10/x^2",
+            "expected_answer": "dy/dx = 8/7 x - 4 + 10/x^2",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "dy/dx = 8/7 x - 4 + 10/x^2",
+            "expected_answer": "dy/dx = 8/7 x - 4 + 10/x^2",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "2x^3 - 10x^2 + 13x - 5 = 0 *",
+            "expected_answer": "2x^3 - 10x^2 + 13x - 5 = 0 *",
+            "mark_type": "A"
+        }
+    ],
+    "7c": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "(2x^3 - 10x^2 + 13x - 5) = (x-1)(2x^2 + ...x + ...)",
+            "expected_answer": "(2x^3 - 10x^2 + 13x - 5) = (x-1)(2x^2 + ...x + ...)",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "2x^2 - 8x + 5",
+            "expected_answer": "2x^2 - 8x + 5",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "x = (4 +- sqrt(6))/2",
+            "expected_answer": "x = (4 +- sqrt(6))/2",
+            "mark_type": "A"
+        }
+    ],
+    "8a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "3a = a/(1-r) => r = ...",
+            "expected_answer": "3a = a/(1-r) => r = ...",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "r = 2/3 *",
+            "expected_answer": "r = 2/3 *",
+            "mark_type": "A"
+        }
+    ],
+    "8b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "ar - ar^3 = 16",
+            "expected_answer": "ar - ar^3 = 16",
+            "mark_type": "B"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "10/27 a = 16 => a = ...",
+            "expected_answer": "10/27 a = 16 => a = ...",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "a = 43.2",
+            "expected_answer": "a = 43.2",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "S_10 = 43.2(1-(2/3)^10)/(1-2/3) = 127.4",
+            "expected_answer": "S_10 = 43.2(1-(2/3)^10)/(1-2/3) = 127.4",
+            "mark_type": "D"
+        },
+        {
+            "point_id": 5,
+            "marks": 1,
+            "criteria": "S_10 = 43.2(1-(2/3)^10)/(1-2/3) = 127.4",
+            "expected_answer": "S_10 = 43.2(1-(2/3)^10)/(1-2/3) = 127.4",
+            "mark_type": "A"
+        }
+    ],
+    "9a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "y = x^3 - 5x^2 + 3x + 14 => dy/dx = 3x^2 - 10x + 3 = 0",
+            "expected_answer": "y = x^3 - 5x^2 + 3x + 14 => dy/dx = 3x^2 - 10x + 3 = 0",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Roots are 3, 1/3 => when x = 3, y = \"3\"^3 - 5x\"3\"^2 + 3x\"3\" + 14 = ...",
+            "expected_answer": "Roots are 3, 1/3 => when x = 3, y = \"3\"^3 - 5x\"3\"^2 + 3x\"3\" + 14 = ...",
+            "mark_type": "D"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Centre is (3, 5)",
+            "expected_answer": "Centre is (3, 5)",
+            "mark_type": "A"
+        }
+    ],
+    "9b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "At .4 y = 8",
+            "expected_answer": "At .4 y = 8",
+            "mark_type": "B"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "r^2 = (2 - \"3\")^2 + (8 - \"5\")^2 (=10)",
+            "expected_answer": "r^2 = (2 - \"3\")^2 + (8 - \"5\")^2 (=10)",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "(x - 3)^2 + (y - 5)^2 = 10",
+            "expected_answer": "(x - 3)^2 + (y - 5)^2 = 10",
+            "mark_type": "A"
+        }
+    ],
+    "9c": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "\"8\" - \"5\" = ...",
+            "expected_answer": "\"8\" - \"5\" = ...",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "y - \"8\" = \"3\"/(x - 2)",
+            "expected_answer": "y - \"8\" = \"3\"/(x - 2)",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "y = 1/3 x + 22/3 *",
+            "expected_answer": "y = 1/3 x + 22/3 *",
+            "mark_type": "A"
+        }
+    ],
+    "9d": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Integral x^3 - 5x^2 + 3x + 14 dx = [1/4 x^4 - 5/3 x^3 + 3/2 x^2 + 14x]",
+            "expected_answer": "Integral x^3 - 5x^2 + 3x + 14 dx = [1/4 x^4 - 5/3 x^3 + 3/2 x^2 + 14x]",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "1/4 x \"3\"^4 - 5/3 x \"3\"^3 + 3/2 x \"3\"^2 + 14 x \"3\" - (1/4 x 0 + 0 + 0 + 0)",
+            "expected_answer": "1/4 x \"3\"^4 - 5/3 x \"3\"^3 + 3/2 x \"3\"^2 + 14 x \"3\" - (1/4 x 0 + 0 + 0 + 0)",
+            "mark_type": "D"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "74/3 - 46/3 = 28/3",
+            "expected_answer": "74/3 - 46/3 = 28/3",
+            "mark_type": "A"
+        }
+    ],
+    "10i(a)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "2a",
+            "expected_answer": "2a",
+            "mark_type": "B"
+        }
+    ],
+    "10i(b)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "log_3 (sqrt(3)/16) = log_3 sqrt(3) - log_3 16",
+            "expected_answer": "log_3 (sqrt(3)/16) = log_3 sqrt(3) - log_3 16",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "= 1/2 a - 4",
+            "expected_answer": "= 1/2 a - 4",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "= 1/2 a - 4",
+            "expected_answer": "= 1/2 a - 4",
+            "mark_type": "A"
+        }
+    ],
+    "10ii": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Takes logs (same base) of both sides and applies the addition rule for logs on the lhs",
+            "expected_answer": "Takes logs (same base) of both sides and applies the addition rule for logs on the lhs",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct method to make x the subject",
+            "expected_answer": "Correct method to make x the subject",
+            "mark_type": "D"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "The correct power law seen for logs",
+            "expected_answer": "The correct power law seen for logs",
+            "mark_type": "B"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "a-3/a+1",
+            "expected_answer": "a-3/a+1",
+            "mark_type": "A"
+        }
+    ],
+    "1": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Any one correct row for b = 1, b = 2 or b = 3",
+            "expected_answer": "Any one correct row for b = 1, b = 2 or b = 3",
+            "mark_type": "B"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Attempts the product abc for at least 2 valid combinations",
+            "expected_answer": "Attempts the product abc for at least 2 valid combinations",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Finds all three valid combinations with correct products seen and somewhere/shows why this is exhaustive and concludes",
+            "expected_answer": "Finds all three valid combinations with correct products seen and somewhere/shows why this is exhaustive and concludes",
+            "mark_type": "A"
+        }
+    ],
+    "2a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Substitutes x = 5/4 into f(x), equates to 243/32 and attempts to make k the subject by taking the 5th root of both sides",
+            "expected_answer": "Substitutes x = 5/4 into f(x), equates to 243/32 and attempts to make k the subject by taking the 5th root of both sides",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "k = 2/5 with no errors and sufficient working shown",
+            "expected_answer": "k = 2/5 with no errors and sufficient working shown",
+            "mark_type": "A"
+        }
+    ],
+    "2b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts the binomial expansion to obtain the correct structure for the x or x^4 term i.e. the correct binomial coefficient with the correct power of 2 and the correct power of 4/5 x",
+            "expected_answer": "Attempts the binomial expansion to obtain the correct structure for the x or x^4 term i.e. the correct binomial coefficient with the correct power of 2 and the correct power of 4/5 x",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "For 32 - 32x + 64/5 x^2",
+            "expected_answer": "For 32 - 32x + 64/5 x^2",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "For 32 - 32x + 64/5 x^2",
+            "expected_answer": "For 32 - 32x + 64/5 x^2",
+            "mark_type": "A"
+        }
+    ],
+    "2c": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to differentiate their expansion and substitutes x = 0 which may be implied",
+            "expected_answer": "Attempts to differentiate their expansion and substitutes x = 0 which may be implied",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "f'(0) = -32",
+            "expected_answer": "f'(0) = -32",
+            "mark_type": "A"
+        }
+    ]
+}

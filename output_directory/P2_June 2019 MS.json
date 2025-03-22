@@ -1,0 +1,556 @@
+{
+    "3(i)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "(x - 4)^2 >= 2x - 9 => x^2 - 10x + 25 ...0",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "=> (x - 5)^2 ...0",
+            "expected_answer": "",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Explains that \"square numbers are greater than or equal to zero\" hence (as x element of R), => (x - 4)^2 >= 2x - 9",
+            "expected_answer": "",
+            "mark_type": "A1*"
+        }
+    ],
+    "3(ii)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Shows that it is not true for a value of n",
+            "expected_answer": "Eg. When n = 3, 2^3 + 1 = 8 + 1 = 9 Not prime",
+            "mark_type": "B1"
+        }
+    ],
+    "4(a)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "2^6 OR 64",
+            "expected_answer": "",
+            "mark_type": "B1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "6C1(2)^5(-1/4x) OR 6C2(2)^4(-1/4x)^2 OR 6C3(2)^3(-1/4x)^3 ...",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "-48x + 15x^2 - 2.5x^3",
+            "expected_answer": "",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "-48x + 15x^2 - 2.5x^3",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "4(b)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Adding two sequences that must be of the correct form with the correct signs.",
+            "expected_answer": "(-2 - 1/4x)^6 + (2 + 1/4x)^6",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "128 + 30x^2",
+            "expected_answer": "",
+            "mark_type": "B1ft"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "128 + 30x^2",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "5(a)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "dP/dx = 12 - 3/2 x^(1/2)",
+            "expected_answer": "",
+            "mark_type": "M1A1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Sets dP/dx = 0 => 12 - 3/2 x^(1/2) => x^(1/2) = ...",
+            "expected_answer": "",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "x = 64",
+            "expected_answer": "",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "When x = 64 => P = 12 * 64 - 64^(3/2) - 120 = ...",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 5,
+            "marks": 1,
+            "criteria": "Profit = (\u00a3) 136 000",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "5(b)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "d^2P/dx^2 = -3/4 x^(-1/2) and substitutes in their x = 64 to find its value or state its sign",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "At x = 64 d^2P/dx^2 = -0.09375 < 0 => maximum",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "6(a)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Sets f(3) = 0 => equation in k Eg. 27k - 135 - 96 - 12 = 0",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "=> 27k = 243 => k = 9 (* - 0 must be seen)",
+            "expected_answer": "",
+            "mark_type": "A1*"
+        }
+    ],
+    "6(b)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "9x^3 - 15x^2 - 32x - 12 = (x - 3)(9x^2 + 12x + 4)",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "9x^3 - 15x^2 - 32x - 12 = (x - 3)(9x^2 + 12x + 4)",
+            "expected_answer": "",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "= (x - 3)(3x + 2)^2",
+            "expected_answer": "",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "= (x - 3)(3x + 2)^2",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "6(c)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts cos(theta) = -2/3",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "theta = 131.8, 228.2 (awrt)",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "7(a)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to use 31 500 = 16 200 + 9d to find 'd'",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "For 16 200 + their d = (1700) where d has been found by an allowable method",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Year 2 salary is (\u00a3) 17 900",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "7(b)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to use 31 500 = 16 200r^9 to find 'r'",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "For 16 200 * their r = (1.077) where r has been found by an allowable method",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Year 2 salary in the range 17440 <= S <= 17450",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "7(c)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts 10/2 (16200 + 31500) OR 16200(1.077^10 - 1)/(1.077 - 1)",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Finds +- 10/2 (16200 + 31500) - 16200(1.077^10 - 1)/(1.077 - 1)",
+            "expected_answer": "",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Difference = \u00a37480 cao",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "8(i)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "8^(x-1) = 6 => 2x + log_8 6",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "2x + log_8 6",
+            "expected_answer": "",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "=> x = log_3 1/6 / log_3 8",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "=> x = log_3 1/6 / log_3 8",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "8(ii)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "log_5 (7 - 2y) = 2log_5 (y + 1) - 1",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "log_5 (7 - 2y) = 2log_5 (y + 1) - 1",
+            "expected_answer": "",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "(y + 1)^2 / (7 - 2y) = 5",
+            "expected_answer": "",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "y^2 - 12y - 34 = 0 => y = ...",
+            "expected_answer": "",
+            "mark_type": "ddM1"
+        },
+        {
+            "point_id": 5,
+            "marks": 1,
+            "criteria": "y = -6 + sqrt(70) oe only",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "9(a)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Uses tan(theta) = sin(theta)/cos(theta)",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "cos(theta) - cos(theta) = 4sin(theta)sin(theta)/cos(theta) OR cos^2(theta) - cos(theta) = 4sin(theta)sin(theta) oe",
+            "expected_answer": "",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Uses sin^2(theta) = 1 - cos^2(theta)",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "5cos^2(theta) - cos(theta) - 4 = 0",
+            "expected_answer": "",
+            "mark_type": "A1*"
+        }
+    ],
+    "9(b)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "(5cos2x + 4)(cos2x - 1) = 0",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Critical values of -4/5, 1",
+            "expected_answer": "",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Correct method to find x from their cos2x = -4/5",
+            "expected_answer": "",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "x = 0, 1.25",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "10(a)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "{f'(x)} = -72/x^2 + 2",
+            "expected_answer": "",
+            "mark_type": "M1A1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Attempts to solve f'(x) = 0 => x = ... via x^2 = k, k > 0",
+            "expected_answer": "",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "x > sqrt(36) oe",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "10(b)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "36/x + 2x - 13 dx = 36/9 x^(-1) + x^2 - 13x (+c)",
+            "expected_answer": "",
+            "mark_type": "M1A1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Uses limits 9 and 2",
+            "expected_answer": "",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "(36/9 + 9^2 - 13*9) - (36/2 + 2^2 - 13*2) = 0",
+            "expected_answer": "",
+            "mark_type": "A1*"
+        }
+    ],
+    "10(c)(i)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "For sight of 8.",
+            "expected_answer": "",
+            "mark_type": "B1"
+        }
+    ],
+    "10(c)(ii)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "36/x + 2x + k dx = 0 => [36/x + x^2 + kx]_2^6 = 0 => (30 + 6k) - (-14 + 2k) = 0",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "44 + 4k = 0 => k = -11",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "1(a)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "a_2 = 1",
+            "expected_answer": "",
+            "mark_type": "B1"
+        }
+    ],
+    "1(a)(ii)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "a_147 = 3",
+            "expected_answer": "",
+            "mark_type": "B1"
+        }
+    ],
+    "1(b)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "sum(2a_i - 1) = 5 + 1 + 5 + 1 + ... + 5 = 1 = 100 * (5 + 1)",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "-600",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ],
+    "2(a)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts (x +- 2)^2 + (y +- 5)^2 = ...0",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Centre (-2, 5)",
+            "expected_answer": "",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Radius sqrt(50) OR 5sqrt(2)",
+            "expected_answer": "",
+            "mark_type": "B1"
+        }
+    ],
+    "2(b)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Gradient of radius = (5 - 4) / (-2 - 5) = -1/7 which needs to be in simplest form",
+            "expected_answer": "",
+            "mark_type": "B1ft"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Uses m_1 = -1/m_r to find gradient of tangent",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Equation of tangent y - 4 = 7 * (x - 5) => y = 7x - 31",
+            "expected_answer": "",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "Equation of tangent y - 4 = 7 * (x - 5) => y = 7x - 31",
+            "expected_answer": "",
+            "mark_type": "A1"
+        }
+    ]
+}

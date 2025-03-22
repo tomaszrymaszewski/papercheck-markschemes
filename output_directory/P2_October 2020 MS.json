@@ -1,0 +1,558 @@
+{
+    "1a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts the binomial expansion to get the third and/or fourth term with an acceptable structure. The correct binomial coefficient must be combined with the correct power of x and the correct power of 2 but condone omission of brackets.",
+            "expected_answer": "Allow for e.g. (10 \\choose 2) (2)^8 (x/4)^2 OR ^10C_2 2^8 (x/4)^2 but condone omission of brackets.",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct term",
+            "expected_answer": "= 1024 - 1280x + 720x^2 - 240x^3",
+            "mark_type": "B1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Correct term",
+            "expected_answer": "= 1024 - 1280x + 720x^2 - 240x^3",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "Correct term",
+            "expected_answer": "= 1024 - 1280x + 720x^2 - 240x^3",
+            "mark_type": "A1"
+        }
+    ],
+    "1b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Correct expansion. May be implied by their work to find the constant.",
+            "expected_answer": "(3 - 1/x)^-2 = 9 + 6/x + 1/x^2 OR 9 - 3 - 3 - 1/x + 1/x^2",
+            "mark_type": "B1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "This mark depends on having obtained an expression of the form A + B/x + C/x^2 for (3 - 1/x)^-2 and at least a 3-term quadratic expression from part (a) so award for: A * \"1024\" = B * \"-1280\" + C * \"720\". A, B, C non-zero. Allow 1 sign error on their values.",
+            "expected_answer": "constant term = 9 * 1024 - 6/x * 1280x + 1/x^2 * 720x^2",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Correct value. Must be \"extracted\" if a complete expansion is found above.",
+            "expected_answer": "= 17616",
+            "mark_type": "A1"
+        }
+    ],
+    "2a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Allow awrt these values and look for the values appearing in the body of the script or within their calculation in part (b).",
+            "expected_answer": "x = -0.25, 0, 0.25, 0.5, 0.75\ny = 0.462, 0.577, 0.653, 0.686, 0.698",
+            "mark_type": "B1"
+        }
+    ],
+    "2b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Correct strip width. May be implied.",
+            "expected_answer": "h = 0.25",
+            "mark_type": "B1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct application of the trapezium rule with their h. Must be a correct application of the rule so e.g.",
+            "expected_answer": "A = 1/2 * \"0.25\" {0.462 + 0.698 + 2(\"0.577\" + \"0.653\" + \"0.686\")}",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "awrt 0.624 or exact fraction",
+            "expected_answer": "A = awrt 0.624 or 78/125 e.g., but isw if necessary",
+            "mark_type": "A1"
+        }
+    ],
+    "3a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to set f(-4) = -108 to obtain an equation in a and b. Score when you see \"-4\" embedded in the equation or 2 correct terms (excluding the \"+ 4\") on lhs. May be implied by e.g. 64a - 16 - 4b + 4 = -108",
+            "expected_answer": null,
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct equation rearranged with no errors and at least one line of intermediate working if starting with e.g.",
+            "expected_answer": "a(-4)^3 - (-4)^2 + b(-4) + 4 = -108",
+            "mark_type": "A1*"
+        }
+    ],
+    "3b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to set f(1/2) = 0 to obtain an equation in a and b. Condone slips. Score when you see \"1/2\" embedded in the equation or 2 correct terms (excluding the \"+ 4\") on lhs.",
+            "expected_answer": null,
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Attempts to solve 16a + b = 24 simultaneously with their equation in a and b. This may be implied if values of a and b are obtained (e.g. calculator).",
+            "expected_answer": null,
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Correct values",
+            "expected_answer": "a = 2, b = -8",
+            "mark_type": "A1"
+        }
+    ],
+    "3c": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Correct derivative (follow through their a and b). Allow unsimplified and apply isw if necessary. Allow with the letters \"a\" and \"b\" and a \"made up\" \"a\" and \"b\".",
+            "expected_answer": "f'(x) = 6x^2 - 2x - 8",
+            "mark_type": "B1ft"
+        }
+    ],
+    "3d": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Sets their f'(x) = 0 (may be implied) and solves a 3 term quadratic. Apply general guidance if necessary. You may need to check if a calculator has been used.",
+            "expected_answer": "6x^2 - 2x - 8 = 0 => (3x - 4)(x + 1) = 0 => x = ...",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Uses at least one of their x values to find a y value for using their f(x) where a is from an attempt to solve f'(x) = 0. You may need to check their y values if working is not shown.",
+            "expected_answer": "x = 4/3, -1 -> y = ...",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "One correct point. The fractional coordinates must be exact but allow 1.3 with a dot over the 3 and 3.703 with dots over the 7 and 3. Note that it is not necessary for the points to be written as coordinates as long as the pairing is clear.",
+            "expected_answer": "(-1, 9) OR (4/3, -100/27)",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "Both correct points. The fractional coordinates must be exact but allow 1.3 with a dot over the 3 and 3.703 with dots over the 7 and 3. Note that it is not necessary for the points to be written as coordinates as long as the pairing is clear.",
+            "expected_answer": "(-1, 9) AND (4/3, -100/27)",
+            "mark_type": "A1"
+        }
+    ],
+    "4ai": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "x = -7 or y = 9",
+            "expected_answer": "(-7, 9) or e.g. x = -7, y = 9",
+            "mark_type": "B1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "x = -7 and y = 9",
+            "expected_answer": "x = -7 and y = 9",
+            "mark_type": "B1"
+        }
+    ],
+    "4aii": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Correct strategy for the radius. Must be a correct method for their centre if used, but allow 1 sign slip within one of the brackets. A correct answer scores both marks. Must see the 1/2 if finding the length of the diameter.",
+            "expected_answer": "r = sqrt((-3 - (-7))^2 + (12 - 9)^2) OR r = sqrt((-11 - (-7))^2 + (6 - 9)^2) OR r = 1/2 sqrt((-3 + 11)^2 + (12 - 6)^2)",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct radius",
+            "expected_answer": "r = 5",
+            "mark_type": "A1"
+        }
+    ],
+    "4b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Correct attempt at circle equation using their values. Allow for",
+            "expected_answer": "(x + 7)^2 + (y - 9)^2 = 5^2 OR e.g. x^2 + y^2 + 2x + 7x - 2y + 7y + 9^2 + 7^2 = 5^2",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct equation in any form",
+            "expected_answer": "x^2 + y^2 + 2x(their 7) + y(their 9) + (their 7)^2 + (their 9)^2 - (their numerical r)^2 = 0",
+            "mark_type": "A1"
+        }
+    ],
+    "4c": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "This mark is for an attempt to find the radius gradient for the tangent gradient. If the method is seen, allow one sign error in the numerator or denominator.",
+            "expected_answer": "m_radius = (-3 - 9)/(-7 - 12) OR (12 - 9)/(-3 + 7) OR m_tangent = -1/((12 - 9)/(-3 + 7)) OR m_tangent = -1/((-3 - 9)/(-7 - 12))",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Uses a correct straight line method for the tangent using the point Q. Must be fully correct work here so must be a clear attempt at the tangent not the radius. So if the radius gradient is found previously, must apply negative reciprocal rule to their radius gradient.",
+            "expected_answer": "(x + 7)^2 + (y - 9)^2 = 5^2 -> 2(x + 7) + 2(y - 9) dy/dx = 0 -> dy/dx = ... dy/dx = -4/3 OR dy/dx = 3/4 -> y - 12 = m(x + 3)",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Allow any integer multiple",
+            "expected_answer": "4x + 3y - 24 = 0",
+            "mark_type": "A1"
+        }
+    ],
+    "5a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Uses a + (n - 1)d with a = 100, d = 5 and n = 40. This may be implied by a correct expression e.g. 100 + 39 * 5",
+            "expected_answer": "t_40 = 100 + (40 - 1) * 5",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Can. Correct answer with no working scores both marks.",
+            "expected_answer": "= (\\pounds)295",
+            "mark_type": "A1"
+        }
+    ],
+    "5b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Uses a correct sum formula with a = 100, d = 5 and n = 60 or n = 40. May be implied by a correct numerical expression.",
+            "expected_answer": "S_60 = 1/2 (60) {2 * 100 + (60 - 1) * 5} OR 1/2 (40) {100 + 295} using their result from 2(a)",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct numerical expression then this mark should be withheld unless the correct expression is implied by their answer.",
+            "expected_answer": "1/2 (60) {100 + 395}",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Can. Correct answer with no working scores 3 marks. Apply isw if necessary and award this mark once a correct answer is seen.",
+            "expected_answer": "= (\\pounds)14850",
+            "mark_type": "A1"
+        }
+    ],
+    "5c": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to use a correct sum formula with a = 600, d = -10 and sets = 18200. Condone poor use of brackets.",
+            "expected_answer": "1/2 n {2 * 600 + (n - 1) * -10} = 18200",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Obtains the printed answer with at least one intermediate line and no errors. Allow other variables to be used e.g. n but the final answer must be as printed including \"= 0\".",
+            "expected_answer": "600n - 5n^2 + 5n = 18200 5n^2 - 605n + 18200 = 0 n^2 - 121n + 3640 = 0 *",
+            "mark_type": "A1*"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Attempts to solve the given quadratic. This may be implied by correct answers. Apply general guidance if necessary but must reach at least one value for n. (Allow them to either state n > 65 rather than n < 56)",
+            "expected_answer": "(n - 56)(n - 65) = 0 => (n =) 56, 65",
+            "mark_type": "M1"
+        }
+    ],
+    "5d": [
+        {
+            "point_id": 1,
+            "marks": 2,
+            "criteria": "States (n =) 65 and gives a suitable reason - see below for examples of acceptable comments. There must be no contradictory statements and any calculations must be correct.",
+            "expected_answer": "E.g. (n =) 65 because e.g. the money has already been saved after 56 months",
+            "mark_type": "B1"
+        }
+    ],
+    "6a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Sets C_1 = C_2 and collects terms",
+            "expected_answer": "x^3 - 6x + 9 = -2x^2 - 7x - 1 => ...",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct cubic equation. The \"= 0\" may be implied by their attempt to solve.",
+            "expected_answer": "=> x^3 + 2x^2 + x + 10 = 0",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Attempts to factorise using (x - 1) as a factor or uses long division by (x - 1) to obtain a quadratic factor and proceeds to solve quadratic or factorise and solve",
+            "expected_answer": "x^3 + 2x^2 + x + 10 = (x - 1)(x + ...)(x + ...) => x = ... OR x^3 + 2x^2 + x + 10 = (x - 1)(x + ...)(x + ...) => x = ...",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "Correct values from a correct cubic.",
+            "expected_answer": "x = 2, y = 5 OR (2, 5)",
+            "mark_type": "A1"
+        }
+    ],
+    "6b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "For increasing any power of x by 1 for C_1 or C_2 or for (C_1 - C_2)",
+            "expected_answer": "x^n -> x^(n+1)",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "For correct integration of 1 term for C_1 and one term for C_2 on one correct integration for 2 terms of their = (C_1 - C_2). Award this mark as soon as fully correct integration is seen and ignore subsequent work.",
+            "expected_answer": "int (-2x^2 + 7x - 1) dx = (-2x^3)/3 + (7x^2)/2 - x - int (-x^2 - 6x + 9) dx = (-x^3)/3 - (6x^2)/2 + 9x",
+            "mark_type": "dM1A1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Fully correct strategy for the area. Depends on both previous M marks.",
+            "expected_answer": "Uses the limits \"-2\" and 1 in their \"changed\" expression(s) and subtracts either way round.",
+            "mark_type": "ddM1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "and 13/12 is obtained, allow recovery if they then make their answer positive.",
+            "expected_answer": "= 13/12",
+            "mark_type": "A1"
+        }
+    ],
+    "7i": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Uses tan theta = sin theta / cos theta on both terms",
+            "expected_answer": "tan theta / 1 + 1 / tan theta = sin theta / cos theta / 1 + cos theta / sin theta",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Uses tan theta = sin theta / cos theta and attempts common denominator of sin theta cos theta with a 2 term numerator one of which is correct. Or attempts 2 separate fractions with a denominator of sin theta cos theta one of which is correct.",
+            "expected_answer": "sin theta / cos theta / 1 + cos theta / sin theta = sin^2 theta / cos theta sin theta + cos^2 theta / sin theta cos theta OR sin^2 theta / sin theta cos theta + cos^2 theta / sin theta cos theta",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Correct proof with no notation errors or missing variables but allow \"==>\" instead of \"=\" if there are any spurious \"= 0\"s alongside the proof score A0.",
+            "expected_answer": "= 1 / sin theta cos theta",
+            "mark_type": "A1*"
+        }
+    ],
+    "7ii": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Divides by 3 and takes square root of both sides. The \"+\" is not required.",
+            "expected_answer": "3cos^2(2x + 10^o) = 1 => cos^2(2x + 10^o) = 1/3 => cos(2x + 10^o) = (+-) sqrt(1/3)",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Applies x = ...",
+            "expected_answer": "2x + 10^o = cos^-1 (+-) sqrt(1/3) => x = (cos^-1 (+-) sqrt(1/3) - 10^o) / 2",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Awrt one of these",
+            "expected_answer": "x = -22.4^o or x = -57.6^o",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "Awrt both with no extras in range",
+            "expected_answer": "x = -22.4^o and x = -57.6^o",
+            "mark_type": "A1"
+        }
+    ],
+    "8a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Writes down at least 3 correct terms of a geometric series and multiplies their sequence by r. There may be extra incorrect terms but allow this mark if there are 3 correct terms in both sequences and at least one \"+\" in both sequences but see special case below",
+            "expected_answer": "S_n = a + ar + ... + ar^(n-1) rS_n = ar + ar^2 + ... + ar^n",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Obtains either equation where both S_n and rS_n had the correct first and last terms and at least one other correct term but no incorrect terms. Both sides must be unfactorised.",
+            "expected_answer": "S_n - rS_n = a - ar^n OR rS_n - S_n = ar^n - a",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Factorises both sides and divides by 1 - r to obtain the printed answer",
+            "expected_answer": "(1 - r)S_n = a(1 - r^n) => S_n = a(1 - r^n) / (1 - r)",
+            "mark_type": "A1*"
+        }
+    ],
+    "8b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Correct strategy for r. Allow for dividing the 2 given terms either way round and attempting to cube root.",
+            "expected_answer": "r^3 = 20.48 / 320 => r = cuberoot(20.48 / 320)",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct value",
+            "expected_answer": "r = -0.4",
+            "mark_type": "A1"
+        }
+    ],
+    "8c": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Correct attempt at the first term using +- their r and the -320 or the 512/25. May be implied by their a but must be using e.g.",
+            "expected_answer": "r = -0.4 => a = -320 / (-0.4) = {800} OR r = -0.4 => a = 512/25 / (-0.4) = {800}",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct attempt at the sum using their a, their r and n = 13 to find a value for S_13. Must be a fully correct attempt at the sum using a = 13, their r and their r.",
+            "expected_answer": "S_13 = 800(1 - (-0.4)^13) / (1 - (-0.4))",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Correct value. Note that S_13 is also 571.43 so working must be seen i.e. correct answer only scores no marks.",
+            "expected_answer": "= 571.43",
+            "mark_type": "A1"
+        }
+    ],
+    "9i": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "May be implied by e.g. log_81 4 = log_3 2",
+            "expected_answer": "4 = log_81 x + 5 OR 4 = log_3 x + 5",
+            "mark_type": "B1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "This mark is for combining 2 log terms correctly and can be awarded following an incorrect rearrangement e.g.",
+            "expected_answer": "log_3 (x + 5) - log_81 4 = log_3 x + 5 / 81 4 OR log_3 (x + 5) - log_3 2 = log_3 x + 5 / 2",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Obtains this equation in any form e.g.",
+            "expected_answer": "x + 5 / 81 4 = 2x - 1 / 3 OR x + 5 / 2 = 3^(2x - 1)",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "Cao",
+            "expected_answer": "x = 86/161",
+            "mark_type": "A1"
+        }
+    ],
+    "9ii": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "One correct index law seen or implied anywhere in their working",
+            "expected_answer": "3^(1-y) = 3/2^y OR 2^(2-2y) = 2/4^y",
+            "mark_type": "B1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Applies both correct index laws to the lhs of the equation",
+            "expected_answer": "3^(1-y) * 2^(2-2y) = 27 * 3^y * 2 * 2^y",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Isolates the terms in y (as powers of 3 and 2) (or as 2^y on the lhs and the constants on the rhs. There must be no incorrect work to combine terms e.g. 3 * 3^y = 27 etc.",
+            "expected_answer": "3 * 2^2 = 27 * 2 * 2^y * 3^y OR 108 / 4^y = 27 * 2 / 3^y * 2",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "Cso. Reaches the given answer with no errors and all steps shown with 2^y appearing as 4^y at some point.",
+            "expected_answer": "(0.75)^y = 2*",
+            "mark_type": "A1*"
+        }
+    ],
+    "9b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Correct processing to obtain a value for y May be implied by awrt 2.4",
+            "expected_answer": "(0.75)^y = 2 => y = log 2 / log 0.75",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "A correct answer implies both marks",
+            "expected_answer": "y = -2.409",
+            "mark_type": "A1"
+        }
+    ]
+}

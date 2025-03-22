@@ -1,0 +1,67 @@
+Mark Scheme Processing Log
+=========================
+
+Processing folder: P2_June 2023
+Found 22 images: June 2023_page_1.jpg, June 2023_page_10.jpg, June 2023_page_11.jpg, June 2023_page_12.jpg, June 2023_page_13.jpg, June 2023_page_14.jpg, June 2023_page_15.jpg, June 2023_page_16.jpg, June 2023_page_17.jpg, June 2023_page_18.jpg, June 2023_page_19.jpg, June 2023_page_20.jpg, June 2023_page_21.jpg, June 2023_page_22.jpg, June 2023_page_23.jpg, June 2023_page_24.jpg, June 2023_page_4.jpg, June 2023_page_5.jpg, June 2023_page_6.jpg, June 2023_page_7.jpg, June 2023_page_8.jpg, June 2023_page_9.jpg
+✅ Successfully processed and saved to output_directory/P2_June 2023.json
+
+Processing folder: P2_June 2024
+Found 17 images: June 2024_page_1.jpg, June 2024_page_10.jpg, June 2024_page_11.jpg, June 2024_page_12.jpg, June 2024_page_13.jpg, June 2024_page_14.jpg, June 2024_page_15.jpg, June 2024_page_16.jpg, June 2024_page_17.jpg, June 2024_page_18.jpg, June 2024_page_19.jpg, June 2024_page_4.jpg, June 2024_page_5.jpg, June 2024_page_6.jpg, June 2024_page_7.jpg, June 2024_page_8.jpg, June 2024_page_9.jpg
+✅ Successfully processed and saved to output_directory/P2_June 2024.json
+
+Processing folder: P2_January 2022 MS
+Found 21 images: January 2022 MS_page_1.jpg, January 2022 MS_page_10.jpg, January 2022 MS_page_11.jpg, January 2022 MS_page_12.jpg, January 2022 MS_page_13.jpg, January 2022 MS_page_14.jpg, January 2022 MS_page_15.jpg, January 2022 MS_page_16.jpg, January 2022 MS_page_17.jpg, January 2022 MS_page_18.jpg, January 2022 MS_page_19.jpg, January 2022 MS_page_20.jpg, January 2022 MS_page_21.jpg, January 2022 MS_page_22.jpg, January 2022 MS_page_23.jpg, January 2022 MS_page_4.jpg, January 2022 MS_page_5.jpg, January 2022 MS_page_6.jpg, January 2022 MS_page_7.jpg, January 2022 MS_page_8.jpg, January 2022 MS_page_9.jpg
+❌ Failed to get Gemini response
+
+Processing folder: P2_June 2022 MS
+Found 26 images: June 2022 MS_page_1.jpg, June 2022 MS_page_10.jpg, June 2022 MS_page_11.jpg, June 2022 MS_page_12.jpg, June 2022 MS_page_13.jpg, June 2022 MS_page_14.jpg, June 2022 MS_page_15.jpg, June 2022 MS_page_16.jpg, June 2022 MS_page_17.jpg, June 2022 MS_page_18.jpg, June 2022 MS_page_19.jpg, June 2022 MS_page_20.jpg, June 2022 MS_page_21.jpg, June 2022 MS_page_22.jpg, June 2022 MS_page_23.jpg, June 2022 MS_page_24.jpg, June 2022 MS_page_25.jpg, June 2022 MS_page_26.jpg, June 2022 MS_page_27.jpg, June 2022 MS_page_28.jpg, June 2022 MS_page_4.jpg, June 2022 MS_page_5.jpg, June 2022 MS_page_6.jpg, June 2022 MS_page_7.jpg, June 2022 MS_page_8.jpg, June 2022 MS_page_9.jpg
+✅ Successfully processed and saved to output_directory/P2_June 2022 MS.json
+
+Processing folder: P2_January 2023
+Found 25 images: January 2023_page_1.jpg, January 2023_page_10.jpg, January 2023_page_11.jpg, January 2023_page_12.jpg, January 2023_page_13.jpg, January 2023_page_14.jpg, January 2023_page_15.jpg, January 2023_page_16.jpg, January 2023_page_17.jpg, January 2023_page_18.jpg, January 2023_page_19.jpg, January 2023_page_20.jpg, January 2023_page_21.jpg, January 2023_page_22.jpg, January 2023_page_23.jpg, January 2023_page_24.jpg, January 2023_page_25.jpg, January 2023_page_26.jpg, January 2023_page_27.jpg, January 2023_page_4.jpg, January 2023_page_5.jpg, January 2023_page_6.jpg, January 2023_page_7.jpg, January 2023_page_8.jpg, January 2023_page_9.jpg
+❌ Failed to get Gemini response
+
+Processing folder: P2_January 2024
+Found 27 images: January 2024_page_1.jpg, January 2024_page_10.jpg, January 2024_page_11.jpg, January 2024_page_12.jpg, January 2024_page_13.jpg, January 2024_page_14.jpg, January 2024_page_15.jpg, January 2024_page_16.jpg, January 2024_page_17.jpg, January 2024_page_18.jpg, January 2024_page_19.jpg, January 2024_page_20.jpg, January 2024_page_21.jpg, January 2024_page_22.jpg, January 2024_page_23.jpg, January 2024_page_24.jpg, January 2024_page_25.jpg, January 2024_page_26.jpg, January 2024_page_27.jpg, January 2024_page_28.jpg, January 2024_page_29.jpg, January 2024_page_4.jpg, January 2024_page_5.jpg, January 2024_page_6.jpg, January 2024_page_7.jpg, January 2024_page_8.jpg, January 2024_page_9.jpg
+✅ Successfully processed and saved to output_directory/P2_January 2024.json
+
+Processing folder: P2_October 2021 MS
+Found 23 images: October 2021 MS_page_1.jpg, October 2021 MS_page_10.jpg, October 2021 MS_page_11.jpg, October 2021 MS_page_12.jpg, October 2021 MS_page_13.jpg, October 2021 MS_page_14.jpg, October 2021 MS_page_15.jpg, October 2021 MS_page_16.jpg, October 2021 MS_page_17.jpg, October 2021 MS_page_18.jpg, October 2021 MS_page_19.jpg, October 2021 MS_page_20.jpg, October 2021 MS_page_21.jpg, October 2021 MS_page_22.jpg, October 2021 MS_page_23.jpg, October 2021 MS_page_24.jpg, October 2021 MS_page_25.jpg, October 2021 MS_page_4.jpg, October 2021 MS_page_5.jpg, October 2021 MS_page_6.jpg, October 2021 MS_page_7.jpg, October 2021 MS_page_8.jpg, October 2021 MS_page_9.jpg
+✅ Successfully processed and saved to output_directory/P2_October 2021 MS.json
+
+Processing folder: P2_June 2019 MS
+Found 23 images: June 2019 MS_page_1.jpg, June 2019 MS_page_10.jpg, June 2019 MS_page_11.jpg, June 2019 MS_page_12.jpg, June 2019 MS_page_13.jpg, June 2019 MS_page_14.jpg, June 2019 MS_page_15.jpg, June 2019 MS_page_16.jpg, June 2019 MS_page_17.jpg, June 2019 MS_page_18.jpg, June 2019 MS_page_19.jpg, June 2019 MS_page_20.jpg, June 2019 MS_page_21.jpg, June 2019 MS_page_22.jpg, June 2019 MS_page_23.jpg, June 2019 MS_page_24.jpg, June 2019 MS_page_25.jpg, June 2019 MS_page_4.jpg, June 2019 MS_page_5.jpg, June 2019 MS_page_6.jpg, June 2019 MS_page_7.jpg, June 2019 MS_page_8.jpg, June 2019 MS_page_9.jpg
+✅ Successfully processed and saved to output_directory/P2_June 2019 MS.json
+
+Processing folder: P2_October 2020 MS
+Found 19 images: October 2020 MS_page_1.jpg, October 2020 MS_page_10.jpg, October 2020 MS_page_11.jpg, October 2020 MS_page_12.jpg, October 2020 MS_page_13.jpg, October 2020 MS_page_14.jpg, October 2020 MS_page_15.jpg, October 2020 MS_page_16.jpg, October 2020 MS_page_17.jpg, October 2020 MS_page_18.jpg, October 2020 MS_page_19.jpg, October 2020 MS_page_20.jpg, October 2020 MS_page_21.jpg, October 2020 MS_page_4.jpg, October 2020 MS_page_5.jpg, October 2020 MS_page_6.jpg, October 2020 MS_page_7.jpg, October 2020 MS_page_8.jpg, October 2020 MS_page_9.jpg
+✅ Successfully processed and saved to output_directory/P2_October 2020 MS.json
+
+Processing folder: P2_October 2023
+Found 20 images: October 2023_page_1.jpg, October 2023_page_10.jpg, October 2023_page_11.jpg, October 2023_page_12.jpg, October 2023_page_13.jpg, October 2023_page_14.jpg, October 2023_page_15.jpg, October 2023_page_16.jpg, October 2023_page_17.jpg, October 2023_page_18.jpg, October 2023_page_19.jpg, October 2023_page_20.jpg, October 2023_page_21.jpg, October 2023_page_22.jpg, October 2023_page_4.jpg, October 2023_page_5.jpg, October 2023_page_6.jpg, October 2023_page_7.jpg, October 2023_page_8.jpg, October 2023_page_9.jpg
+✅ Successfully processed and saved to output_directory/P2_October 2023.json
+
+Processing folder: P2_October 2024
+Found 32 images: October 2024_page_1.jpg, October 2024_page_10.jpg, October 2024_page_11.jpg, October 2024_page_12.jpg, October 2024_page_13.jpg, October 2024_page_14.jpg, October 2024_page_15.jpg, October 2024_page_16.jpg, October 2024_page_17.jpg, October 2024_page_18.jpg, October 2024_page_19.jpg, October 2024_page_20.jpg, October 2024_page_21.jpg, October 2024_page_22.jpg, October 2024_page_23.jpg, October 2024_page_24.jpg, October 2024_page_25.jpg, October 2024_page_26.jpg, October 2024_page_27.jpg, October 2024_page_28.jpg, October 2024_page_29.jpg, October 2024_page_30.jpg, October 2024_page_31.jpg, October 2024_page_32.jpg, October 2024_page_33.jpg, October 2024_page_34.jpg, October 2024_page_4.jpg, October 2024_page_5.jpg, October 2024_page_6.jpg, October 2024_page_7.jpg, October 2024_page_8.jpg, October 2024_page_9.jpg
+❌ Failed to get Gemini response
+
+Processing folder: P2_October 2022 MS
+Found 20 images: October 2022 MS_page_1.jpg, October 2022 MS_page_10.jpg, October 2022 MS_page_11.jpg, October 2022 MS_page_12.jpg, October 2022 MS_page_13.jpg, October 2022 MS_page_14.jpg, October 2022 MS_page_15.jpg, October 2022 MS_page_16.jpg, October 2022 MS_page_17.jpg, October 2022 MS_page_18.jpg, October 2022 MS_page_19.jpg, October 2022 MS_page_20.jpg, October 2022 MS_page_21.jpg, October 2022 MS_page_22.jpg, October 2022 MS_page_4.jpg, October 2022 MS_page_5.jpg, October 2022 MS_page_6.jpg, October 2022 MS_page_7.jpg, October 2022 MS_page_8.jpg, October 2022 MS_page_9.jpg
+✅ Successfully processed and saved to output_directory/P2_October 2022 MS.json
+
+Processing folder: P2_January 2021 MS
+Found 21 images: January 2021 MS_page_1.jpg, January 2021 MS_page_10.jpg, January 2021 MS_page_11.jpg, January 2021 MS_page_12.jpg, January 2021 MS_page_13.jpg, January 2021 MS_page_14.jpg, January 2021 MS_page_15.jpg, January 2021 MS_page_16.jpg, January 2021 MS_page_17.jpg, January 2021 MS_page_18.jpg, January 2021 MS_page_19.jpg, January 2021 MS_page_20.jpg, January 2021 MS_page_21.jpg, January 2021 MS_page_22.jpg, January 2021 MS_page_23.jpg, January 2021 MS_page_4.jpg, January 2021 MS_page_5.jpg, January 2021 MS_page_6.jpg, January 2021 MS_page_7.jpg, January 2021 MS_page_8.jpg, January 2021 MS_page_9.jpg
+✅ Successfully processed and saved to output_directory/P2_January 2021 MS.json
+
+Processing folder: P2_June 2021 MS
+Found 19 images: June 2021 MS_page_1.jpg, June 2021 MS_page_10.jpg, June 2021 MS_page_11.jpg, June 2021 MS_page_12.jpg, June 2021 MS_page_13.jpg, June 2021 MS_page_14.jpg, June 2021 MS_page_15.jpg, June 2021 MS_page_16.jpg, June 2021 MS_page_17.jpg, June 2021 MS_page_18.jpg, June 2021 MS_page_19.jpg, June 2021 MS_page_20.jpg, June 2021 MS_page_21.jpg, June 2021 MS_page_4.jpg, June 2021 MS_page_5.jpg, June 2021 MS_page_6.jpg, June 2021 MS_page_7.jpg, June 2021 MS_page_8.jpg, June 2021 MS_page_9.jpg
+❌ Failed to get Gemini response
+
+Processing folder: P2_October 2019 MS
+Found 25 images: October 2019 MS_page_1.jpg, October 2019 MS_page_10.jpg, October 2019 MS_page_11.jpg, October 2019 MS_page_12.jpg, October 2019 MS_page_13.jpg, October 2019 MS_page_14.jpg, October 2019 MS_page_15.jpg, October 2019 MS_page_16.jpg, October 2019 MS_page_17.jpg, October 2019 MS_page_18.jpg, October 2019 MS_page_19.jpg, October 2019 MS_page_20.jpg, October 2019 MS_page_21.jpg, October 2019 MS_page_22.jpg, October 2019 MS_page_23.jpg, October 2019 MS_page_24.jpg, October 2019 MS_page_25.jpg, October 2019 MS_page_26.jpg, October 2019 MS_page_27.jpg, October 2019 MS_page_4.jpg, October 2019 MS_page_5.jpg, October 2019 MS_page_6.jpg, October 2019 MS_page_7.jpg, October 2019 MS_page_8.jpg, October 2019 MS_page_9.jpg
+✅ Successfully processed and saved to output_directory/P2_October 2019 MS.json
+
+Processing folder: P2_January 2020 MS
+Found 17 images: January 2020 MS_page_1.jpg, January 2020 MS_page_10.jpg, January 2020 MS_page_11.jpg, January 2020 MS_page_12.jpg, January 2020 MS_page_13.jpg, January 2020 MS_page_14.jpg, January 2020 MS_page_15.jpg, January 2020 MS_page_16.jpg, January 2020 MS_page_17.jpg, January 2020 MS_page_18.jpg, January 2020 MS_page_19.jpg, January 2020 MS_page_4.jpg, January 2020 MS_page_5.jpg, January 2020 MS_page_6.jpg, January 2020 MS_page_7.jpg, January 2020 MS_page_8.jpg, January 2020 MS_page_9.jpg
+✅ Successfully processed and saved to output_directory/P2_January 2020 MS.json
+

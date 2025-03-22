@@ -1,0 +1,666 @@
+{
+    "1.a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "States/uses either 16k = -4 or 16x15/2 = p",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "k = -1/4",
+            "expected_answer": "-1/4",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "p = 15/2",
+            "expected_answer": "15/2",
+            "mark_type": "A"
+        }
+    ],
+    "1.b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts either 2^p * or 16x15x14/3! * k^3",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Attempts sum of 2^p * and 16x15x14/3! * k^3",
+            "expected_answer": "",
+            "mark_type": "dM"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Term in x^2 = -125x^2",
+            "expected_answer": "-125x^2",
+            "mark_type": "A"
+        }
+    ],
+    "2.a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to substitute u_2 = 6k + 3 in u_3 (= ku_2 + 3)",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "u_3 = k(6k + 3) + 3",
+            "expected_answer": "k(6k + 3) + 3",
+            "mark_type": "A"
+        }
+    ],
+    "2.b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Uses sum_{i=1}^3 u_i = 117 => 6 + 6k + 3 + k(6k + 3) + 3 = 117",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "6k^2 + 9k - 105 = 0 => k = ...",
+            "expected_answer": "",
+            "mark_type": "dM"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "k = 7/2",
+            "expected_answer": "7/2",
+            "mark_type": "A"
+        }
+    ],
+    "3.a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "States or uses h = 3",
+            "expected_answer": "",
+            "mark_type": "B"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Attempts 3/2 {log_10 2 + log_10 14 + 2x{....}}",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "= 3/2 {log_10 2 + log_10 14 + 2x{log_10 5 + log_10 8 + log_10 11}} = 10.10 (2dp)*",
+            "expected_answer": "",
+            "mark_type": "A"
+        }
+    ],
+    "3.b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Increase the number of strips",
+            "expected_answer": "",
+            "mark_type": "B"
+        }
+    ],
+    "3.c": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Integral 1 to 4 log_10 sqrt(x) dx = 1/2 x 10.10 = 5.05",
+            "expected_answer": "",
+            "mark_type": "B"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "log_10 100x^2 = 2 + 3log_10 x",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Integral 1 to 4 log_10 100x^2 dx = [2x]_1^4 + 3x10.10 = 54.30",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "54.30",
+            "expected_answer": "54.30",
+            "mark_type": "A"
+        }
+    ],
+    "4.a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "States -21",
+            "expected_answer": "-21",
+            "mark_type": "B"
+        }
+    ],
+    "4.b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts f(3) = {(3^2 - 2)(2x3 - 3) - 21",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Achieves f(3) = 0 => (x-3) is a factor of f(x)",
+            "expected_answer": "",
+            "mark_type": "A"
+        }
+    ],
+    "4.c": [
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Attempts b^2 - 4ac for their 2x^2 + 3x - 5",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "Achieves b^2 - 4ac < 0 and states that only root is x = 3 o.e.",
+            "expected_answer": "",
+            "mark_type": "A"
+        }
+    ],
+    "5.a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts 480 = 13x - 15",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "= 285 tonnes",
+            "expected_answer": "285 tonnes",
+            "mark_type": "A"
+        }
+    ],
+    "5.b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Sets N/2 {2x480 + (N-1) x -15} = 7770",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "N/2 {960 - 15N + 15} = 7770 => N^2 - 65N + 1036 = 0*",
+            "expected_answer": "",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Achieves N^2 - 65N + 1036 = 0",
+            "expected_answer": "",
+            "mark_type": "A"
+        }
+    ],
+    "5.c": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "States 28 only",
+            "expected_answer": "28",
+            "mark_type": "B"
+        }
+    ],
+    "6.i": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts (x+5)^2 + (y+6)^2 .... = 0",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Centre {-5,6}",
+            "expected_answer": "{-5,6}",
+            "mark_type": "A"
+        }
+    ],
+    "6.ii": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Sets k + (-5)^2 + (-6)^2 > 0",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "k > -61",
+            "expected_answer": "k > -61",
+            "mark_type": "A"
+        }
+    ],
+    "6.iii": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Centre ((-2+8)/2, (10-14)/2) = ...; radius",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Centre is (3,-2); radius is 13",
+            "expected_answer": "(3,-2); 13",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "C_1: (x-3)^2 + (y+2)^2 = 13^2 = (p-3)^2 + 4 - 169 = p = ... OR PX = r => (p-3)^2 + (0-(-2))^2 = 169 => p = ...",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "p = 3 + sqrt(165) only",
+            "expected_answer": "3 + sqrt(165)",
+            "mark_type": "A"
+        }
+    ],
+    "Alt 6 (ii)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Uses either PQ^2 - PR^2 = RQ^2 or grad PQ x grad PR = -1",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct equation, e.g. (p-2)^2 + 10^2 = ((-2-8)^2 - 14^2 = (-2-8)^2 + (10-14)^2",
+            "expected_answer": "",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Alternative: y - 10 / p - 2 x -14 / p - 8 = -1",
+            "expected_answer": "",
+            "mark_type": "dM"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "p = 3 + sqrt(165) only",
+            "expected_answer": "3 + sqrt(165)",
+            "mark_type": "A"
+        }
+    ],
+    "7.i": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "States or implies that 4x6^(n-1) > 10^100",
+            "expected_answer": "",
+            "mark_type": "B"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Takes logs correctly to produce an equation without powers 4x6^(n-1) > 10^100 => log 4 + (n-1)log 6 > 100 log 10",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "n = 129",
+            "expected_answer": "129",
+            "mark_type": "A"
+        }
+    ],
+    "7.ii": [
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "r = 6/5 or -1/5",
+            "expected_answer": "6/5 OR -1/5",
+            "mark_type": "B"
+        }
+    ],
+    "7.iii": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "r = -1/5 as |r| < 1 (for S_infinity to exist)",
+            "expected_answer": "",
+            "mark_type": "B"
+        }
+    ],
+    "7.iv": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts S_4 = a(1-r^4) / 1-r with n = 4, r = their(c) and a = their(c)",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "S_4 = 30 (1 - (-1/5)^4) / 1 - (-1/5) = 24.96 o.e.",
+            "expected_answer": "",
+            "mark_type": "A"
+        }
+    ],
+    "8.a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "y = 4/3 x^3 - 11x^2 + kx => dy/dx = 4x^2 - 22x + k",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "uses x = 2, dy/dx = 0 => 0 = 16 - 44 + k => k = 28*",
+            "expected_answer": "",
+            "mark_type": "dM"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "k = 28",
+            "expected_answer": "28",
+            "mark_type": "A"
+        }
+    ],
+    "8.b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "dy/dx = 4x^2 - 22x + 28 = 0 => (2x-4)(2x-7) = 0 => x = ...",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "x < 2, x > 7/2",
+            "expected_answer": "x < 2, x > 7/2",
+            "mark_type": "A"
+        }
+    ],
+    "8.c": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Integral 4/3 x^3 - 11x^2 + 28x dx = 1/3 x^4 - 11/3 x^3 + 14x^2",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct y coordinate of M = 68/3",
+            "expected_answer": "68/3",
+            "mark_type": "B"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Complete method to find R = 2 x 68/3 - Integral 0 to 2 (4/3 x^3 - 11x^2 + 28x) dx",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "= 2 x 68/3 - (1/3 x 2^4 - 11/3 x 2^3 + 14 x 2^2)",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 5,
+            "marks": 1,
+            "criteria": "40/3",
+            "expected_answer": "40/3",
+            "mark_type": "A"
+        }
+    ],
+    "9.a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "If x and y are positive) [sqrt(x) - sqrt(y)]^2 ...> 0 => ... - sqrt(xy) + y ...> 0",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "=> x - 2 sqrt(xy) + y ...> 0",
+            "expected_answer": "",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "=> x + y / 2 > sqrt(xy)",
+            "expected_answer": "",
+            "mark_type": "A"
+        }
+    ],
+    "9.b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "States for example when x = -8, y = -2, x+y / 2 = -5, sqrt(xy) = 4 so x+y / 2 < sqrt(xy)",
+            "expected_answer": "",
+            "mark_type": "B"
+        }
+    ],
+    "9.a Alt 1": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "x+y / 2 > sqrt(xy) => (x+y / 2)^2 > xy => x^2 + 2xy + y^2 / 4 > xy",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "=> x^2 - 2xy + y^2 ...> 0 => (x-y)^2 ...> 0",
+            "expected_answer": "",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "=> (x-y)^2 ...> 0 as it is a square number so x+y / 2 > sqrt(xy) is true",
+            "expected_answer": "",
+            "mark_type": "A"
+        }
+    ],
+    "9.a Alt 2": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "States (x-y)^2 ...> 0 => x^2 - 2xy + y^2 ...> 0",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Rearranges => x^2 + 2xy + y^2 ...> 4xy => (x + y)^2 ...> 4xy",
+            "expected_answer": "",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "States that as x, y positive, so x + y > 0 (and xy > 0) => (x + y) / 4xy = ...> 4/4xy",
+            "expected_answer": "",
+            "mark_type": "A"
+        }
+    ],
+    "10.i": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "tan^-1 (2x + pi/4) = 3 => 2x + pi/4 = +- pi/3",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "=> x = (-pi/4 +- pi/3) / 2",
+            "expected_answer": "",
+            "mark_type": "dM"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "x = -pi/24, 11pi/24, 5pi/24, 7pi/24",
+            "expected_answer": "",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "x = -pi/24, 11pi/24",
+            "expected_answer": "",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 5,
+            "marks": 1,
+            "criteria": "x = 5pi/24, 7pi/24",
+            "expected_answer": "",
+            "mark_type": "A"
+        }
+    ],
+    "10.ii": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "(2sin theta - cos theta)^2 = 1 => 4sin^2 theta - 4sin theta cos theta + cos^2 theta = 1",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Attempts to use sin^2 theta + cos^2 theta = 1 => 4sin^2 theta - 4sin theta cos theta = sin^2 theta",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "=> sin theta (3sin theta - 4cos theta) = 0",
+            "expected_answer": "",
+            "mark_type": "dM"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "tan theta = 4/3",
+            "expected_answer": "",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 5,
+            "marks": 1,
+            "criteria": "theta = 53.1, 233.1, 180",
+            "expected_answer": "",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 6,
+            "marks": 1,
+            "criteria": "theta = 180",
+            "expected_answer": "",
+            "mark_type": "B"
+        }
+    ],
+    "10.ii Alt": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "(2sin theta - cos theta)^2 = 1 => 2sin theta - cos theta = +- 1",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "=> 4sin^2 theta = cos^2 theta +- 2cos theta + 1",
+            "expected_answer": "",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "then attempts to use sin^2 theta + cos^2 theta = 1 => 4 - 4cos^2 theta = cos^2 theta +- 2cos theta + 1",
+            "expected_answer": "",
+            "mark_type": "dM"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "=> 5cos^2 theta +- 2cos theta - 3 = 0 => cos theta = ...",
+            "expected_answer": "",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 5,
+            "marks": 1,
+            "criteria": "theta = 53.1, 233.1, 180",
+            "expected_answer": "",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 6,
+            "marks": 1,
+            "criteria": "theta = 180",
+            "expected_answer": "",
+            "mark_type": "B"
+        }
+    ]
+}

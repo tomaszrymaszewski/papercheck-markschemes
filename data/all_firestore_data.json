@@ -1,0 +1,4253 @@
+{
+    "P1_January 2019 MS": [
+        {
+            "a": {
+                "A1": "Fully correct and simplified with +c all on one line. Accept simplified equivalents (see above) and ignore any spurious notation. ISW after a correct simplified answer is achieved.",
+                "M1": "For raising any power by 1 eg. x^3 -> x^4, x^2 -> x^3, 5 -> 5x or eg. x^3 -> x^3+1"
+            }
+        },
+        {
+            "a": {
+                "A1": "=> 50\u03b8 = 6(4 + 4\u03b8 + \u03b8^2) => 3\u03b8^2 - 13\u03b8 + 12 = 0",
+                "B1": "Correct equations 1/2 r^2 \u03b8 = 6, 2r + r\u03b8 = 10",
+                "M1": "Eliminates r = 10/2+\u03b8 => 1/2 (10/2+\u03b8)^2 \u03b8 = 6"
+            },
+            "b": {
+                "A1": "\u03b8 = 4/3, r = 3 \u03b8 = 3, r = 2",
+                "B1": "(3\u03b8 - 4)(\u03b8 - 3) = 0 => \u03b8 = 4/3",
+                "M1": "\u03b8 = 4/3, r = 3 \u03b8 = 3, r = 2"
+            }
+        },
+        {
+            "a": {
+                "B1": "Intercepts at O, 2 and 5"
+            },
+            "b": {
+                "A1": "Proceeds to x(x^2 - 8x + 13) = 0",
+                "M1": "Sets x(x-2)(5-x) = x(3-x)",
+                "dM1": "3x - x^2 = -x^3 + 7x^2 - 10x => \u00b1(x^3 - 8x^2 + 13x) (= 0) OR +x{(x-2)(5-x) - (3-x)} (=0)"
+            },
+            "c": {
+                "A1": "y = (4 - \u221a3)( -1 + \u221a3) = -4 + 4\u221a3 + \u221a3 - 3 = ... y = -7 + 5\u221a3",
+                "M1": "Substitutes x = \"4 - \u221a3\" into y = x(3-x) oe"
+            }
+        },
+        {
+            "a": {
+                "A1": "cao",
+                "M1": "Substitutes x = 4 into dy/dx = -3x\u221ax - 10x^-1/2 = 3x4x2 - 10/2 = 19"
+            },
+            "b": {
+                "A1": "cso",
+                "M1": "[f(x) =] 6/5 x^5/2 - 20x^1/2 - 0.4"
+            }
+        },
+        {
+            "a": {
+                "A1": "y = 1/4 x - 7/8",
+                "M1": "Attempts both sides as powers of 3 3^x/3^4y = 3^3.5 -> 3^x-4y = 3^3.5",
+                "dM1": "Sets powers equal and attempts to make y the subject : x-4y = \"3.5\" -> y = ..."
+            }
+        },
+        {
+            "a": {
+                "A1": "States -3/5 or exact equivalent",
+                "M1": "Attempts to make y the subject"
+            },
+            "b": {
+                "A1": "y = 5/3 x - 12",
+                "M1": "Forms equation of l2 using (6,-2) y+2 = 5/3 \"(x-6)"
+            }
+        },
+        {
+            "a": {
+                "A1": "x \u2264 16, 2y \u2264 x and y \u2265 2x - 1/8 x^2",
+                "B1": "When ---- represents < or > and _____ represents \u2264 or \u2265 Either 2y \u2264 x or y \u2265 2x - 1/8 x^2",
+                "M1": "2x - 1/8 x^2 => 0 => x = 16 => x < ... or x \u2264 ..."
+            }
+        },
+        {
+            "a": {
+                "B1": "-1"
+            },
+            "b": {
+                "A1": "Fully correct",
+                "M1": "Sine curve thro' (0,0) with max/min of \u00b11"
+            },
+            "c": {
+                "B1": "32",
+                "B1ft": "30 or follow through on 10 x the number of their solutions 0 -> 2\u03c0"
+            }
+        },
+        {
+            "a": {
+                "A1": "cao",
+                "M1": "x = 4"
+            },
+            "b": {
+                "A1": "x = 9/4",
+                "M1": "=> x^-1/2 = ... => x = ..."
+            }
+        },
+        {
+            "a": {
+                "A1": "\u2220ACB = 127.5\u00b0",
+                "M1": "Attempts sin\u2220ACB/6.5 = sin35/4.7"
+            },
+            "b": {
+                "A1": "Total length of wood = 8.1 + 6.5 + 4.7 + 4.7 = awrt 24.1",
+                "M1": "Eg (AC)/sin\"17.5\" = 6.5/sin\"127.5\" or 4.7/sin35"
+            }
+        },
+        {
+            "d": {
+                "i": {
+                    "B1": "a = 6"
+                },
+                "ii": {
+                    "B1": "y = f(x-3)"
+                }
+            },
+            "a": {
+                "B1": "States y = 4"
+            },
+            "b": {
+                "B1": "States (16,9) only"
+            },
+            "c": {
+                "B1": "k \u2264 4, k = 9"
+            }
+        },
+        {
+            "a": {
+                "A1": "5 - 2\u221a6 < c < 5 + 2\u221a6 oe",
+                "M1": "Attempt at inside region",
+                "dM1": "Attempts \"b^2 - 4ac\" = 0 => (5 - c)^2 - 24 => c = ..."
+            }
+        }
+    ],
+    "P1_January 2020 MS": [
+        {
+            "a": {
+                "A1": "(x=) \u221a3/2 or exact equivalent cso (Note that a correct exact answer can imply the final M1A1 but a rounded answer with no working such as awrt 0.87 is M0A0)",
+                "M1": "Sets dy/dx = 0 and proceeds to x^2 = ... or x^4 = ... following a derivative in the form (dy/dx) = Ax^(1/2) - Bx^(-3/2), A, B > 0 (which may be unsimplified)."
+            }
+        },
+        {
+            "a": {
+                "B1": "Crosses y-axis at (0, -75)"
+            },
+            "b": {
+                "i": {
+                    "ii": {
+                        "B1ft": "(p=) 75"
+                    },
+                    "B1ft": "(x=) 3, 20"
+                }
+            },
+            "c": {
+                "i": {
+                    "A1": "g(x) = (4x+1)(x-4)^2 or simplified equivalent so accept 4x^3 - 31x^2 + 56x + 16",
+                    "M1": "Attempts g(x) = (4(x+1) - 3)(x+1-5)^2 = (4x+1)(x-4)^2 condoning slips. Either award for sight of x+1 embedded in the equation or award for sight of an expression of the form (4x + a)(x-4)^2"
+                },
+                "ii": {
+                    "B1": "16 but accept (0, 16)"
+                }
+            }
+        },
+        {
+            "a": {
+                "A1": "y = 1/4 x - 51",
+                "B1": "Gradient of normal = 1/4",
+                "M1": "Equation of normal (y + 50) = 1/4 (x - 4) => y = 1/4 x - 51"
+            },
+            "b": {
+                "a": {
+                    "A1": "(f(x) =) -24x^(1/2) + x^3/3 - 6x + 34/3 or exact equivalent expressions. Eg Do not allow 1/6 to be written as 0.167 but condone -6x^1. The indices must have been processed and the terms must all be on one line including + 34/3 isw after a correct expression.",
+                    "M1": "Attempts to integrate 6/\u221ax + x with one index correct, Either ...x^(1/2) or ...x^2",
+                    "dM1": "Both \"k\" and \"d\" must have been added although condone calling them both c.",
+                    "A1ft": "(f(x) =) -24x^(1/2) + x^3/3 - 6x + d (unsimplified) following through ONLY on their k ( allow kx) and with or without d"
+                }
+            }
+        },
+        {
+            "a": {
+                "B1": "3^(3x) = (3^x)^3 = y^3"
+            },
+            "b": {
+                "A1": "9/y",
+                "M1": "1/3^(x-2) = 1/3^x * 3^-2 = 9/y"
+            },
+            "c": {
+                "A1": "y^6",
+                "M1": "81/9^(2-3x) = 9^2/9^(2-3x) = 9^(3x) = y^6"
+            }
+        },
+        {
+            "a": {
+                "A1": "At x=3 gradient of tangent = 9",
+                "M1": "Attempts (dy/dx) = 2x + 3 at x=3"
+            },
+            "b": {
+                "A1": "9 + h with no errors seen and not originating from methods in calculus. This expression may immediately follow a correct simplified expression of y_0 = h^2 + 9h + 16",
+                "B1": "(y_0=) (3+h)^2 + 3(3+h) - 2",
+                "M1": "Attempts (y_0+h - y_0)/(x_0+h - x_0) condoning slips, but must be a genuine attempt at y_0. Condone lack of brackets if implied by later working."
+            },
+            "c": {
+                "B1": "States as h -> 0 Gradient PQ -> 9 = Gradient of tangent (oe)"
+            }
+        },
+        {
+            "a": {
+                "A1": "Achieves angle AOD = 1.231 following a valid method and at least one step of working shown.",
+                "M1": "States or uses cos AOD = 4/12 => angle AOD = 1.231"
+            },
+            "b": {
+                "A1": "awrt 232.2 (m^2)",
+                "M1": "Attempts area AOD = 1/2 * 4 * \u221a(12^2 - 4^2) oe (22.627...)",
+                "dM1": "Full method to find the correct area = 1/2 * 12^2 * (pi + 1.231) - 1/2 * 4 * \u221a(12^2 - 4^2) oe"
+            },
+            "c": {
+                "A1": "awrt 79.8 (m)",
+                "M1": "Attempts P = 16 + \u221a(12^2 - 4^2) + 12(pi + 1.231) oe",
+                "dM1": "Full method to find the perimeter P = 16 + \u221a(12^2 - 4^2) + 12(pi + 1.231) oe"
+            }
+        },
+        {
+            "a": {
+                "A1": "All of x = 0, -1/2, 3 They do not have to be stated on one line together. Withhold if any additional solutions.",
+                "M1": "For attempting to factorise. They may do this by cancelling/factorising out ... x to achieve an expression of the form D(Ax^2 + Bx + C) where A, B, C != 0 (but could be 1) and D = 1,2,5 or 10"
+            },
+            "b": {
+                "A1": "Both of y = -3, 6 with no incorrect working seen. If the solution -11/4 is found it must be discounted by the candidate (eg crossed out/rejected).",
+                "A1ft": "y = 6. Follow through on their positive solution part from (a)",
+                "B1ft": "Sets (y+3)^2 = any of their solutions from (a) or this may be implied by later work on one of their solutions from (a). Note (y+3) = 0 => y = -3 is insufficient for the B mark but is acceptable for the final A mark (see below)",
+                "M1": "Full method to find a value for y from a non-zero solution for x."
+            }
+        },
+        {
+            "a": {
+                "A1": "3x - 4y - 24 = 0 or any integer multiple. All terms must be on one side of an equation = 0.",
+                "M1": "Equation l_2 is y - 0 = -4/3 (x - 8) => 3x - 4y - 24 = 0 oe"
+            },
+            "b": {
+                "A1": "220/3 oe (condone awrt 73.3)",
+                "B1": "P = (-20/3, 0), Q = (0, 5)",
+                "M1": "A full attempt to find the area of parallelogram PQRS = PR x OQ = (8 + 20/3) * 5 using their P and their Q and proceeding to find a value for the area. Condone attempts which appear to be calculating parallelogram PQSR."
+            },
+            "c": {
+                "A1": "(4/3, -5). Allow alternatives eg x = ..., y = ... Condone (awrt 1.33, 5)",
+                "M1": "A full attempt to find both the coordinates of S. Examples include:"
+            }
+        },
+        {
+            "a": {
+                "i": {
+                    "A1": "For both of (90\u00b0, 3). Allow x = 90, y = 3",
+                    "M1": "For one value in the coordinate pair of (90\u00b0, 3). Condone lack of brackets and do not be concerned with x or y correctly paired for this mark eg condone (....90\u00b0) or (3,...). Allow in radians."
+                },
+                "ii": {
+                    "B1": "Q = (540\u00b0, 0). Allow x = 540, y = 0"
+                }
+            },
+            "b": {
+                "a": {
+                    "A1": "For both of (270\u00b0, 4). Allow x = 270, y = 4",
+                    "M1": "For one value in the coordinate pair of (270\u00b0, 4). Condone lack of brackets and do not be concerned with x or y correctly paired for this mark eg condone (....270\u00b0) or (4,...). Allow in radians."
+                }
+            }
+        },
+        {
+            "a": {
+                "A1": "-2 < k < 5 oe such as k \u2208 (-2, 5) cso",
+                "M1": "Finds region for their critical values. May be awarded for eg -2 <= k <= 5 or -2 < k < 5. Allow this mark if another variable is used."
+            }
+        },
+        {
+            "a": {
+                "A1": "(x=) \u221a3/2 or exact equivalent cso (Note that a correct exact answer can imply the final M1A1 but a rounded answer with no working such as awrt 0.87 is M0A0)",
+                "M1": "Sets dy/dx = 0 and proceeds to x^2 = ... or x^4 = ... following a derivative in the form (dy/dx) = Ax^(1/2) - Bx^(-3/2), A, B > 0 (which may be unsimplified)."
+            }
+        }
+    ],
+    "P1_January 2021 MS": [
+        {
+            "a": {
+                "A1": "6x^2 - 10x + 3/(2x^2) or 6x^2 - 10x + 3/2 x^(-2) oe on one line (in any order) Do not accept 6x^2 + -10x + 3/2 x^(-2) and do not allow -10x^1",
+                "M1": "For reducing any power by 1 seen at least once x^n -> x^(n-1) including 7 -> 0 and from an incorrect index when manipulating 3/2x eg ...x^2 -> x^1... Allow eg ...x^2 -> ...x^1 or ...x^3 -> ...x^2 for this mark."
+            },
+            "b": {
+                "A1": "2x + 5y - 16 = 0 oe",
+                "B1": "Correct coordinates for P seen or used x = 1/2 -> y = 3. Ignore their labelling of y.",
+                "dM1": "Finds or uses their gradient of the normal using the correct rule. Implied by m -> -1/m. It is dependent on the previous method mark.",
+                "M1": "Attempts the equation of the normal at P y-3 = -2/5(x-1/2)"
+            }
+        },
+        {
+            "a": {
+                "A1": "p = 0.364, q = 4.72(4) allow fractions eg p = 91/250 and q = 1181/250. Correct answers with no working scores full marks. Isw after correct values for p and q.",
+                "M1": "Attempts to use the given model at least once. Eg. 2^3 = p x 3^2 + q",
+                "dM1": "Solves simultaneously to get a value for p or a value for q. Condone slips in their working and sight of p = ... or q = ... is sufficient for this mark."
+            },
+            "b": {
+                "A1": "(T =) 18.2 cao (allow T = 18.2 years or 18 years 2.4 months)",
+                "M1": "Makes T = 125-q/p and proceeds to T = ... when H = 5 using their p and their q or values taken to be their p and their q. This can only be scored if 125-q/p > 0"
+            }
+        },
+        {
+            "a": {
+                "B1": "(-180,-4) or x=-180, y=-4"
+            },
+            "b": {
+                "B1": "(360,7) or x=360, y=7"
+            }
+        },
+        {
+            "a": {
+                "A1": "y = -3x + 7",
+                "B1": "Gradient PQ = -3",
+                "M1": "Attempts to find equation of l Eg. y-13 = -3(x+2)"
+            },
+            "b": {
+                "A1": "y = 1/2(x-4)^2 - 5 or y = 1/2x^2 - 4x + 3 oe",
+                "M1": "Attempts to use minimum is (4,-5) Eg. y = a(x-4)^2 - 5",
+                "dM1": "Attempts to use (-2,13) with y = a(x-4)^2 - 5 -> a = ..."
+            },
+            "c": {
+                "A1": "All three of y > -3x + 7, y < 1/2(x-4)^2 - 5, x < -2",
+                "M1": "Two of y > -3x + 7, y < 1/2(x-4)^2 - 5, x < -2"
+            }
+        },
+        {
+            "a": {
+                "A1": "angle AOD = pi - 1.337 = awrt 1.805 (radians)",
+                "M1": "Attempts the sine rule sin a/14 = sin 0.43/6"
+            },
+            "b": {
+                "A1": "Arc length ABC = awrt 26.9 m",
+                "M1": "Attempts s = r theta with r = 6 and an allowable theta"
+            },
+            "c": {
+                "A1": "= 113.7 (m^2)",
+                "M1": "Attempts area AOD = 1/2 x 6 x 14 x sin(\"0.91\") oe (= 33.1)",
+                "dM1": "Attempts sector + triangle with correct attempt at angles"
+            }
+        },
+        {
+            "a": {
+                "A1": "Fully correct",
+                "M1": "Negative reciprocal shape"
+            },
+            "b": {
+                "B1": "Correct asymptote and intercept",
+                "B1ft": "Graph is part (a) translated up"
+            },
+            "c": {
+                "A1": "Accept any of 10 - 2sqrt(21) < k < 10 + 2sqrt(21) or exact equivalent expressions such as 10 - sqrt(84) < k < 10 + sqrt(84) or Allow 10 + 2sqrt(21) > k > 10 - 2sqrt(21) or expressions such as '{k: 10 - 2sqrt(21) < k < 10 + 2sqrt(21)}'",
+                "M1": "Attempts to use their values in b^2 - 4ac ...= (k^2 - 20k + 16) to find the critical values where ... is = or an inequality.",
+                "dM1": "Uses b^2 - 4ac < 0 OR b^2 - 4ac <= 0 and selects inside region for their critical values. It is dependent upon both previous M's. Condone if a different variable to k is used."
+            }
+        },
+        {
+            "a": {
+                "A1": "=> (2sqrt(x) - 7)(sqrt(x) + 2) = 0 => (sqrt(x) = 7/2, (-2))",
+                "M1": "2x - 3sqrt(x) - 5 = 9 -> 2x - 3sqrt(x) - 14 = 0 and treats as quadratic equation",
+                "dM1": "x = (7/2)^2 = 49/4"
+            },
+            "b": {
+                "B1": "(f'(x) =) 3/2 x^(-3/2)"
+            }
+        },
+        {
+            "a": {
+                "B1": "x > 4"
+            },
+            "b": {
+                "A1": "9x^3 - 48x^2 + 52x - 16 (ignore any reference to = 0)",
+                "M1": "Attempts to multiply two of the brackets and then multiplies the result by the third. This may be seen in (a)"
+            },
+            "c": {
+                "A1": "4/3 sqrt(3) cso (or exact equivalent such as sqrt(16/3) or 1.33sqrt(3)) It must have ...sqrt(3) Do not allow 1.33,sqrt(3)",
+                "B1": "Condone decimal answers here. Allow awrt 1.51, 3.82",
+                "M1": "Subtracts their two non-zero roots from setting their cubic = 0 either way round (cannot be from differentiating the cubic and setting the resulting 3TQ = 0) which may be implied by their answer. They may also use the distance formula (embedded values is sufficient, condone a sign error in the second bracket involving their \"d\" from part (b))."
+            }
+        },
+        {
+            "i": {
+                "A1": "9/10 x^2 + 5/2 x^(3/2) + 2x^(1/2) + c all on one line (or simplified equivalent including the + c). Allow 0.9 instead of 9/10",
+                "M1": "Attempts to multiply out the numerator and divide (any term) by (4)sqrt(x)",
+                "dM1": "Raises the power of any correct index by one ...x^n -> ...x^(n+1), ...x^(1/2) -> ...x^(3/2), ...x^(-1/2) -> ...x^(1/2). Indices must be processed."
+            },
+            "ii": {
+                "ddM1": "Dependent upon all previous M's. It is for solving their two equations with c = -8 to find values for a and b or solving their equation in a and then substituting in to b = -7 - 3a to find a value for b",
+                "A1": "1/3 x^3 - 2x^2 + 5x - 8 as their final answer. Do not isw eg 1/3 x^3 - 2x^2 + 5x - 8 -> x^3 - 6x^2 + 15x - 24",
+                "M1": "Attempts to integrate and achieves (f(x) =) ...x^3 + ...ax^2 + bx + (c) with or without the + c. a,b not = 0",
+                "dM1": "Uses y intercept = -8 and (3,-2) in their (f(x) =) ...x^3 + ...ax^2 + bx + c. The values embedded in the expression are sufficient. It is dependent on the previous method mark only."
+            }
+        }
+    ],
+    "P1_January 2022 MS": [
+        {
+            "a": {
+                "A1": "2/5 x^(5/2) + 2/9 x^-3 - x + c or simplified equivalent. All correct and on the same line (in any order)",
+                "M1": "x^4 -> x^5 or x^-1 -> x^0 or 1 -> x. Also allow eg x^1 -> x^x+1"
+            }
+        },
+        {
+            "a": {
+                "B1": "States both asymptotes x = 0 and y = -9 as long as they are asymptotes for their sketch"
+            },
+            "b": {
+                "A1": "-81/4 < k < 0",
+                "B1": "k < 0",
+                "M1": "1 - 9x^2 = kx^2 => kx^2 + 9x^2 - 1 = 0 Require b^2 - 4ac > 81 - 4 x k x -1"
+            }
+        },
+        {
+            "a": {
+                "A1": "(f(x) =) 13 - 2(x+1)^2",
+                "B1": "f(x) = 11-4x-2x^2 => ...2(2x+x^2)... or => ...-2(2x+x^2)...",
+                "M1": "=> ...2(2x+x^2)... => ...(2x+x^2)... => ...((x+1)^2) \u00b1..."
+            },
+            "b": {
+                "A1": "(0,11)",
+                "M1": "Shape"
+            },
+            "c": {
+                "B1ft": "x = -1"
+            }
+        },
+        {
+            "i": {
+                "A1": "= 10x^2 - 58x\u221a2 + 202",
+                "B1": "\u221a8 = 2\u221a2 seen anywhere in the solution (see notes)",
+                "M1": "(x+\u221a2)^2 + (3x-5\u221a8)^2 = x^2 + 2x\u221a2 + 2 + 9x^2 - 30x\u221a8 + 25 x 8"
+            },
+            "ii": {
+                "ddM1": "eg y = 9+\u221a3 / 4\u221a3-5 or \"23\" = \"9+\u221a3\" / 4\u221a3-5",
+                "A1": "y = 57/23 + 41/23 \u221a3 (or y = 2 + 11/23 \u221a3)",
+                "M1": "\u221a3(4y-3\u221a3) = 5y + \u221a3 => 4\u221a3y - 9 = 5y + \u221a3",
+                "dM1": "=> 4\u221a3y - 5y = 9 + \u221a3 => y = ... or => ky = ..."
+            }
+        },
+        {
+            "a": {
+                "A1": "(1,5) and (2.5, 3.5)",
+                "M1": "=> 2x^2 - 7x + 5 = 0 => (2x-5)(x-1) = 0",
+                "dM1": "Solves for y for at least one of their values of x or alternatively solves for x for at least one of their values of y. It is dependent on the previous method mark."
+            },
+            "b": {
+                "A1": "y >= 0 (or 0 <= y <= c where c >= 3.5)",
+                "M1": "y >= 6x - 2x^2 + 1 oe"
+            }
+        },
+        {
+            "a": {
+                "B1*": "/_BOD = \u03c0 - 2 x 0.7 = 1.742* "
+            },
+            "b": {
+                "A1": "= awrt 3.4 (m^2)",
+                "M1": "Area of R is: 1/2 x 3^2 sin 1.742 (= awrt 4.43)",
+                "dM1": "1/2 x \u03c0 x 3^2 - 1/2 x 3^2 sin 1.742 - 2 x 1/2 x 3 x 0.7"
+            },
+            "c": {
+                "A1": "awrt 9.8 (m) Do not isw.",
+                "M1": "BD = \u221a3^2 + 3^2 - 2 x 3 x 3 cos 1.742 (= awrt 4.59)",
+                "dM1": "Applies a fully correct method to find the perimeter of R by adding the length of arc BCD to their BD. The methods to find both of these must be correct."
+            }
+        },
+        {
+            "a": {
+                "i": {
+                    "B1": "Correct value"
+                },
+                "ii": {
+                    "A1": "Correct equation in the required form where all terms are on one side of an equation (allow any integer multiple)",
+                    "M1": "Correct straight line method using y = 20 and x = 4 with their f'(4) as (y - 20) = \"49/8\" (x - 4)",
+                    "A1ft": "Correct equation in any form following through on their f'(4)"
+                }
+            },
+            "b": {
+                "A1": "(f(x) =) 2/3 x^(3/2) + 12x^(1/2) - 18x^(-1/2) - 1/3",
+                "M1": "20 = 2/3 (4)^(3/2) + 12(4)^(1/2) - 18(4)^(-1/2) + c => c = ...",
+                "dM1": "(f(x) =) 2/3 x^(3/2) + 12x^(1/2) - 18x^(-1/2) + c"
+            }
+        },
+        {
+            "d": {
+                "M1": "\"6x^2 - 10x - 34\" = -18 => 0 = ...",
+                "dM1": "-1 < x < 8/3"
+            },
+            "a": {
+                "A1": "(p =) 22",
+                "M1": "4x - 2x - 9 = 72"
+            },
+            "b": {
+                "B1": "1 correct value of -4, 2, 4.5 in their final answer. If they proceed to changing the sign on the value then B0."
+            },
+            "c": {
+                "A1": "6x^2 - 10x - 34",
+                "M1": "(f'(x) =) 6x^2 - 10x - 34"
+            }
+        },
+        {
+            "d": {
+                "B1": "(2,8) or x = 2, y = 8"
+            },
+            "a": {
+                "B1": "2/5 or decimal equivalent"
+            },
+            "b": {
+                "A1": "y = -5/2 x + 13",
+                "M1": "y + 2 = \"-5/2\" (x - 6)"
+            },
+            "c": {
+                "A1": "(4,3)",
+                "M1": "\"-5/2\" x + 13 = 7/2 -5/2 x = -26/2 => x = ...(4) or \"-5/2\" y = 7/2 => y = ...(3)",
+                "dM1": "x = \"4\" => y = ... or y = \"3\" => x = ..."
+            }
+        },
+        {
+            "a": {
+                "B1": "(A =) -3"
+            },
+            "b": {
+                "A1": "x = 930",
+                "B1": "y = 3",
+                "M1": "eg x = 30 + 5 x 180 or x = 210 + 720 or x = 180 + 2 x 360 + 30"
+            }
+        }
+    ],
+    "P1_January 2023 MS": [
+        {
+            "a": {
+                "A1": "",
+                "M1": "y = 2 + 10x^(1/2) - 2x^(-2)"
+            }
+        },
+        {
+            "a": {
+                "A1": "Both -20/3 < x < -6, x > 3/2",
+                "M1": "One of -20/3 < x < -6, x > 3/2"
+            },
+            "b": {
+                "A1": "= 6x^3 + 67x^2 + 126x - 360",
+                "M1": "(3x + 20)(x + 6)(2x - 3) = (3x + 20)(2x^2 + 9x - 18) ="
+            },
+            "c": {
+                "A1": "x = -67/6",
+                "A1ft": "Equation of l is y = 126x - 360",
+                "dM1": "6x^3 + 67x^2 = 0 => x^2(6x + 67) = 0",
+                "M1": "dy/dx = 18x^2 + 134x + 126 -> Gradient at x = 0 is 126"
+            }
+        },
+        {
+            "a": {
+                "A1": "Correct equation of normal e.g. y - 16 = -1/3(x - 4)",
+                "M1": "States or implies that the gradient of the normal is -1/3"
+            },
+            "b": {
+                "ddM1": "x = 4, f(x) = 16 => (f(x) =) 2/3x^3 + 4/3x^(3/2) - 33x + 284/3",
+                "A1": "f(x) = 2/3x^3 + 4/3x^(3/2) - 33x + 284/3",
+                "M1": "f''(x) = 4x + x^(-1/2) => f'(x) = 2x^2 + 2x^(1/2) + c",
+                "dM1": "f(x) = 2/3x^3 + 4/3x^(3/2) - 33x + d"
+            }
+        },
+        {
+            "a": {
+                "A1": "1/3 x -3 = -1 so angle PQR = 90\u00b0",
+                "M1": "grad PQ = (11 - 7)/(9 - 3) = 2/3, grad QR = (12 - 2)/(11 - 9) = -3"
+            }
+        },
+        {
+            "a": {
+                "A1": "",
+                "M1": "\u222b (4x^2 + 3)/(2x^3) dx = \u222b 2x^(-1) + 3/2 x^(-3) dx",
+                "dM1": "= x^(2) - 3/4 x^(-2) + c"
+            }
+        },
+        {
+            "a": {
+                "A1": "0 < k < 5/9",
+                "M1": "k^2 - 4ac = (6k)^2 - 4 x k x 5 = 0",
+                "dM1": "b^2 - 4ac = (6k)^2 - 4 x k x 5...0 => k..."
+            }
+        },
+        {
+            "a": {
+                "A1": "9p^2 + 26p - 3 = 0 via 3p^2 + 9p = 1 + p/3",
+                "B1": "9^p = p^2, 9^(p+2) = 9p or 3^(p-1) = p/3",
+                "M1": "3 x 9^p + 9^(p+2) = 1 + 3^p => 3p^2 + 3^p = 1 + p/3"
+            },
+            "b": {
+                "A1": "",
+                "M1": "9p^2 + 26p - 3 = 0 => (9p - 1)(p + 3) = 0"
+            }
+        },
+        {
+            "d": {
+                "ddM1": "Full method for perimeter of stage = 12.5 + 2 x \"2.26\" + \"5.77\" x 2.4",
+                "A1": "= 30.9 m",
+                "M1": "x^2 = 6.25^2 + \"5.77\"^2 - 2 x 6.25 x \"5.77\" cos\"0.37\" (= 2.26)"
+            },
+            "a": {
+                "A1": "r = \u221a(80/2.4) => r = 5.77 (m)",
+                "M1": "A = 1/2 r^2 \u03b8 => 40 = 1/2 r^2 x 2.4 => r = ..."
+            },
+            "b": {
+                "B1": "States or uses that angle AOB = awrt 0.37"
+            },
+            "c": {
+                "A1": "= 53.1 m^2",
+                "M1": "1/2 x \"5.77\" x 6.25 x sin\"0.37\" (= 6.5377...)",
+                "dM1": "Full method for area of stage = 40 + 2 x 1/2 x \"5.77\" x 6.25 x sin 0.37"
+            }
+        },
+        {
+            "d": {
+                "A1": "Q = (5/2, 12)",
+                "M1": "6/(x - 2) = 2x + 7 => 6 = 2x^2 + 3x - 14",
+                "dM1": "0 = 2x^2 + 3x - 20 = (2x - 5)(x + 4) = 0"
+            },
+            "a": {
+                "A1": "Fully correct shape and position",
+                "M1": "Correct Shape in quadrant 1 or 3"
+            },
+            "b": {
+                "B1": ""
+            },
+            "c": {
+                "A1": "k = 2",
+                "M1": "When x = -4 => 6/(-4 - 2) = -kx + 7 => -1 = -4k + 7 => k = ..."
+            }
+        },
+        {
+            "d": {
+                "A1": "E.g. 3x - 12 < y < 2(x - 4)(x - 10), 0 < x < 4",
+                "M1": "Two of y > 3x - 12, y < 2(x - 4)(x - 10), x > 0, x < 4"
+            },
+            "a": {
+                "A1": "y = 3x - 12",
+                "M1": "y = 3x + c or y = \"m\"x - 12"
+            },
+            "b": {
+                "B1": "k = 10"
+            },
+            "c": {
+                "A1": "y = (2)(x - 4)(x - 10), (y =) 2(x - 7)^2 - 18",
+                "M1": "E.g. y = A(x - 4)(x - 10) or y = C(x - 7)^2 - 18",
+                "dM1": "Full attempt at equation with an attempt at finding A or C. Depends on the first mark."
+            }
+        },
+        {
+            "i": {
+                "B1": "5"
+            },
+            "ii": {
+                "B1": "201"
+            },
+            "b": {
+                "B1": "3"
+            },
+            "a": {
+                "B1": "\u03c0"
+            }
+        }
+    ],
+    "P1_January 2024 MS": [
+        {
+            "a": {
+                "A1": "3x\u2074 + 8/3 x\u00b3 - 75/2 x\u00b2 - 50x + c or exact equivalent including the + c",
+                "A1ft": "Correct follow through on any two terms of their ax\u00b3 + bx\u00b2 + cx + d.",
+                "M1": "For an attempt to integrate scored for \u222b x^n dx -> x^n+1, n != 0, on any term in x following an attempt to expand. The index must be processed, i.e. x^3 -> x^4 and not x^3+1."
+            }
+        },
+        {
+            "a": {
+                "A1": "f''(x) = 6\u221ax - 2k",
+                "M1": "f'(x) = 6\u221ax - 2kx",
+                "dM1": "f''(2) = 6/\u221a2 - 2k = 0 => k = 24\u221a2"
+            },
+            "b": {
+                "A1": "f(x) = 8/5 x^5/2 - 24\u221a2/x + 68/5 \u221a2",
+                "A1ft": "f(x) = 4x^3/2 + kx^-1",
+                "dM1": "Uses P(2, 8\u221a2) => 8\u221a2 = 4 x 2/5 x^5/2 - kx^-1 + c => c = p\u221a2",
+                "M1": "f(x) = 4x^3/2 + kx^-1 = f(x) = 4 x 2/5 x^5/2 - kx^-1 (+c)"
+            }
+        },
+        {
+            "a": {
+                "A1": "Achieves sin \u03b8 = 8/15 or exact equivalent fraction such as 200/375, 187.5/375 in the form a/b or 0.53",
+                "M1": "Attempts to use the area formula \"A = 1/2 ab sin C\" with the given information (condoning slips)"
+            },
+            "b": {
+                "A1": "CSO BC = awrt 38.5 cm. Condone missing units",
+                "M1": "Attempts to use the cosine rule. Ignore the lhs and allow using an acute angle found using part (a)",
+                "dM1": "Full use of the cosine rule (with lhs correct) and an obtuse angle used (correct to the nearest degree) leading to a value for BC. The obtuse angle must be correct for their part (a), that is (180 - their '32.2')"
+            }
+        },
+        {
+            "a": {
+                "A1": "dy/dx = -5/2 x^-3 + 8x or simplified equivalent such as 1/2 (5/x^3 + 16/2 x). There is no need to have the dy/dx",
+                "M1": "Attempts to write y as a sum of two terms and achieves at least one term with the correct index.",
+                "dM1": "Requires both the given expression to be written as a sum of two terms with both indices correct correct differentiation applied to the indices Px + Qx^n -> A + Bx^n o.e"
+            },
+            "b": {
+                "A1": "Score for sight of embedded 2's in their dy/dx followed by a value or it may be implied for a correct value for their dy/dx",
+                "M1": "Correct method for finding the equation of a tangent."
+            }
+        },
+        {
+            "a": {
+                "A1": "Proceeds to 4p^2 - 33p + 8 = 0 via 2p^2 - 8p = 17p/2 - 4 CSO",
+                "B1": "Uses an index law and states or implies any of 2 x 4^-2+3 = 17 x 2^-4",
+                "M1": "Attempts to write the given equation in x to a quadratic equation in terms of p"
+            },
+            "b": {
+                "A1": "x = -2, 3",
+                "M1": "Sets 2^x = 1/4 -> x = ..."
+            }
+        },
+        {
+            "a": {
+                "A1": "y = 1/4 x + 17/2 o.e.",
+                "M1": "Attempts the gradient \u0394y/\u0394x = 9-6/-2-10 = (1/4)",
+                "dM1": "Uses gradient and a point to form an eqn for l1, y - 9 = 1/4 (x + 2)"
+            },
+            "b": {
+                "A1": "R = (2, 8)",
+                "M1": "Attempts to solve their y = 4x and their y = -1/4 x + 17/2 simultaneously",
+                "B1ft": "Eqn of l2 is y = 4x"
+            },
+            "c": {
+                "A1": "= 1/2 x \u221a3/17 x \u221a17 = 51",
+                "M1": "Full attempt at area OPQ = 1/2 x \u221a3^2 + 12^2 x \u221a2^2 + 8^2"
+            }
+        },
+        {
+            "ii": {
+                "B1": "(180\u00b0, 5)"
+            },
+            "b": {
+                "B1": "(360\u00b0, 3)"
+            },
+            "a": {
+                "B1": "(540\u00b0, -5)"
+            }
+        },
+        {
+            "a": {
+                "A1": "Fully correct shape and position",
+                "B1": "C has a vertical asymptote at x = k",
+                "M1": "Shape in quadrant One"
+            },
+            "b": {
+                "ddM1": "Solves their quadratic in k resulting from b^2 - 4ac = 0 and chooses the inside region for their critical values.",
+                "A1": "CSO 5 <= k < 13 o.e. The variable must be k.",
+                "M1": "4/x-k = 9 - x => x^2 - (9 + k)x + 9k + 4 = 0",
+                "dM1": "Attempts to use the discriminant b^2 - 4ac ... 0 for their ax^2 + bx + c = 0 with both b and c expressions in k"
+            }
+        },
+        {
+            "a": {
+                "A1": "AO = 5/8 x \"11.25\" = 7.03 m",
+                "A1*": "Shows that AO is 7.03(m) via 5/8 x 11.25, 11.25 - 3/8 x 11.25 o.e. Units are not required.",
+                "M1": "Attempts to use s = r\u03b8 => 9 = \u03b8D => \u03b8D = 11.25 or 45/4"
+            },
+            "b": {
+                "A1": "Perimeter = awrt 56.0 m",
+                "M1": "Attempts to add the correct parts together E.g. 9 + 2 x [\"11.25\" - 7.03) + 7.03 x \u03b8"
+            },
+            "c": {
+                "A1": "= awrt 186 m^2",
+                "M1": "Full method for area of platform = 1/2 x \"11.25\"^2 x 0.8 + 1/2 x 7.03^2 x (2\u03c0 - 0.8)"
+            }
+        },
+        {
+            "a": {
+                "B1": "Intersection at (4, 0)"
+            },
+            "b": {
+                "A1": "y = -5x(x - 4), y = 20 - 5(x - 2)^2 o.e.",
+                "M1": "Attempts form of equation. E.g. y = Ax(x - 4) or y = 20 + C(x - 2)^2"
+            },
+            "c": {
+                "ddM1": "Solves the resulting quadratic via an appropriate method.",
+                "A1": "P = (-8, -480) which may be given separately x = ..., y = ...",
+                "M1": "Sets x(x^2 - 4) = \"-5x(x - 4)\" condoning slips",
+                "dM1": "Multiplies out to reach an equation of the form px^3 + qx^2 + rx = 0 from which they factorise (or cancel) out a factor of x."
+            }
+        }
+    ],
+    "P1_June 2019 MS": [
+        {
+            "d": {
+                "B1": "For both a = -1/2, (+)4 and no others"
+            },
+            "a": {
+                "A1": "dy/dx = 3/8x^2 + 12x^-1/2",
+                "M1": "dy/dx = 1/8 * 3x^2 * 1/2x^-1/2"
+            },
+            "b": {
+                "A1": "y = 7.5x - 33",
+                "M1": "y = 7.5x(x-4) => y = 7.5x - 33"
+            },
+            "c": {
+                "A1": "CSO Finds y coordinate for x = 2.5 => Equation of tangent y = -54 but allow k = -54",
+                "M1": "Attempts f'(2.5) for their f'(x)"
+            }
+        },
+        {
+            "d": {
+                "B1": "a = -1/2, (+)4"
+            },
+            "a": {
+                "B1": "P = (1/2, 0)"
+            },
+            "b": {
+                "A1": "f'(x) = 12x^2 - 24x - 15",
+                "M1": "f(x) = (x-4)(2x+1)^2 => f(x) = ax^3 + bx^2 + cx + d",
+                "dM1": "f'(x) = 12x^2 - 24x - 15"
+            },
+            "c": {
+                "A1": "Finds y coordinate for x = 2.5 y = -54",
+                "M1": "Attempts f'(2.5) = 12x2.5^2 - 24x2.5 - 15 = 0"
+            }
+        },
+        {
+            "a": {
+                "A1": "1/2 + 1/4\u221a2 oe",
+                "M1": "1/4-2\u221a2 * 4+2\u221a2/4+2\u221a2"
+            },
+            "b": {
+                "A1": "x = 20\u221a2 * (1/2 + 1/4\u221a2) = 10 + 10\u221a2",
+                "M1": "4x = 2\u221a2x + 20\u221a2 => (4-2\u221a2)x = 20\u221a2",
+                "dM1": "x = 20\u221a2/4-2\u221a2 * 4+2\u221a2/4+2\u221a2"
+            }
+        },
+        {
+            "a": {
+                "A1": "=> x > 33/22 => x > 1.5",
+                "M1": "Attempts perimeter of garden = 2x5x + 2x(6x-2)",
+                "dM1": "Sets 2x5x + 2x(6x-2) > 29 => 22x > 33"
+            },
+            "b": {
+                "ddM1": "Chooses inside region",
+                "A1": "18/11 < x < 2",
+                "M1": "Finds critical values 11x^2 - 4x - 36 => x = ..."
+            },
+            "c": {
+                "B1": "18/11 < x < 2"
+            }
+        },
+        {
+            "a": {
+                "A1": "\u222b 4x^1/2 + 1/2\u221ax dx = 4/5x^5/2 + x^1/2 + c",
+                "M1": "\u222b 4x^1/2 + 1/2\u221ax dx = 4/5x^5/2 + x^1/2 + c"
+            }
+        },
+        {
+            "a": {
+                "A1": "x = -5, 0, 7/2",
+                "M1": "(2x-7)(x+5) = 0 => x = ..."
+            },
+            "b": {
+                "A1": "Both 5 + \u221a7/2 and 5 - \u221a7/2",
+                "A1ft": "A solution of 5 + \u221a7/2 or 5 - \u221a7/2",
+                "B1": "States that 5 is a solution",
+                "M1": "Realises that x = (y-5)^2 and proceeds to find a value for y using (y-5)^2 = 7/2 => y = ..."
+            }
+        },
+        {
+            "a": {
+                "A1": "Correct solution c = -12.25 oe",
+                "M1": "Sets 4x + c = x(x-3) and attempts to write as a 3TQ",
+                "dM1": "Uses b^2 = 4ac for their x^2 - 7x - c = 0"
+            },
+            "b": {
+                "A1": "Correct coordinate given (7/2, 7/4) or exact equivalent",
+                "M1": "Attempts to solve x^2 - 7x - c = 0 with their c",
+                "dM1": "Attempt to find the y coordinate for their x coordinate"
+            }
+        },
+        {
+            "a": {
+                "A1": "= 100.5 cm^2 (awrt)",
+                "M1": "Full method to find area = 1/2 * 6^2 * (2\u03c0 - 0.7) or \u03c0 * 6^2 - 1/2 * 6^2 * 0.7"
+            },
+            "b": {
+                "A1": "\u2220ADO = 2.258 (awrt)",
+                "M1": "Attempts sin\u2220ADO/6 = sin0.7/5"
+            },
+            "c": {
+                "ddM1": "Full method to find perimeter = \"33.50\" + 5 + 6 - \"1.42\"",
+                "A1": "= 43.1 cm",
+                "M1": "Attempts length OD sin(\u03c0 - 0.7 - \"2.258\") / sin0.7 = OD/5 => OD = ..."
+            }
+        },
+        {
+            "a": {
+                "A1": "6x + 35y - 59 = 0",
+                "M1": "Attempts the normal y-1 = -6/35 * (x-4) => 6x + 35y - 59 = 0",
+                "dM1": "Attempts to find the gradient of the perpendicular = -6/35"
+            },
+            "b": {
+                "A1": "f(x) = 8/3x^3 - 2x + 8/3x - 13",
+                "M1": "f'(x) = 4x^2 - 2 - 8/3x4 => f(x) = 8/3x^3 - 2x + (c)",
+                "dM1": "x = 4, f(x) = 1 => 1 = 8/3x^3 - 2x + (c) => c = ...(-13)"
+            }
+        },
+        {
+            "a": {
+                "B1": "(270\u00b0, -4)"
+            },
+            "b": {
+                "B1": "For y = tan\u03b8"
+            },
+            "c": {
+                "A1": "(ii) 11",
+                "M1": "(i) 6x2 = 12",
+                "B1ft": "(ii) 11"
+            }
+        }
+    ],
+    "P1_June 2021 MS": [
+        {
+            "a": {
+                "A1": "-8/3 x^-2",
+                "M1": "dy/dx = ...x^3 + ...x + ...x^-2"
+            },
+            "b": {
+                "A1": "4x + 9y - 43 = 0",
+                "M1": "9/4 / 9",
+                "dM1": "y-3 = -4/9 (x-4)"
+            }
+        },
+        {
+            "a": {
+                "B1": "States both asymptotes x = 0 and y = -9 as long as they are asymptotes for their sketch"
+            },
+            "b": {
+                "A1": "-81/4 < k < 0",
+                "B1": "k < 0",
+                "M1": "1 - 9x^2 = kx^2 => kx^2 + 9x^2 - 1 = 0 Require b^2 - 4ac > 81 - 4 x k x -1"
+            }
+        },
+        {
+            "a": {
+                "i": {
+                    "A1": "a = 3 or a = -8 and chooses a = 3 with reason",
+                    "M1": "-a + 6a + 8 + a^2 = 32 => a^2 + 5a - 24 = 0",
+                    "dM1": "(a+8)(a-3) = 0"
+                },
+                "ii": {
+                    "A1": "(x=) 0, 1/3, -9",
+                    "M1": "3x^3 + 26x^2 - 9x = 0 => x(3x^2 + 26x - 9) = 0"
+                }
+            },
+            "b": {
+                "i": {
+                    "A1": "(y=) 1/27, -729",
+                    "M1": "y^3 = \"1/3\" or y^3 = \"-9\" => y = ... or (-9)^1/3 = ...",
+                    "B1": "(y=) 0"
+                },
+                "ii": {
+                    "A1": "(z=) -1/2 only",
+                    "M1": "9^z = 1/27 => z = ..."
+                }
+            }
+        },
+        {
+            "a": {
+                "A1": "p^2 + q^2 - pq = 8",
+                "M1": "(2\u221a2)^2 = p^2 + q^2 - 2pq cos60\u00b0 oe"
+            },
+            "b": {
+                "A1": "p = -1 + \u221a5 and q = 1 + \u221a5 only cso",
+                "B1": "p = -1 + \u221a5 or q = 1 + \u221a5",
+                "M1": "p = -2 \u00b1 \u221a2^2 - 4x1x(-4) / 2 or q = 2 \u00b1 \u221a(-2)^2 - 4x1x(-4) / 2"
+            },
+            "c": {
+                "A1": "Area = \u221a3 (m^2)",
+                "M1": "Area = 1/2 x (\"-1+\u221a5\")(\"1+\u221a5\") x sin 60\u00b0"
+            }
+        },
+        {
+            "a": {
+                "A1": "3/8 x^5/2 - 15/4 x + 1/3 x^3/2 - 5x^1/2 + C",
+                "M1": "\u222b 3x^2 - 15x^1/2 + 2x - 10 / 4\u221ax dx = \u222b 3/4 x^3/2 - 15/4 x^0 + 1/2 x^1/2 - 5/2 x^-1/2 dx",
+                "dM1": "x^n -> x^n+1"
+            }
+        },
+        {
+            "d": {
+                "B1": "\"The share value would be negative\" / \"the model is known to hold for 15 years only (and 20 years is more than 15)\""
+            },
+            "a": {
+                "A1": "awrt (\u00a3) 16.8 million",
+                "M1": "P_8 = 44.2 - (53 - 0.4 x 8^2) = ..."
+            },
+            "b": {
+                "B1": "(\u00a3) 53 (million)"
+            },
+            "c": {
+                "A1": "t = 10 - \u221a58 = awrt 2.38 (years)",
+                "A1ft": "\"2.38\" < t (\u2264 15)",
+                "M1": "=> 0.4t^2 - 8t + 84/5 = 0 => t = ..."
+            }
+        },
+        {
+            "a": {
+                "A1": "y = -5/6 x + 26/3",
+                "M1": "f'(8) = 32 / 3x8^2 + 3 - 2\u221a8 = -5/6",
+                "dM1": "y - 2 = \"-5/6\" (x-8)"
+            },
+            "b": {
+                "A1": "2 = -32/3 x 8^-1 + 3x8 - 4/3 x 8^3/2 + C => C = ...",
+                "M1": "x^-2 -> x^-1, -> 3x, x^1/2 -> x^3/2",
+                "dM1": "f(x) = -32/3 x^-1 + 3x - 4/3 x^3/2 + 10/3"
+            }
+        },
+        {
+            "d": {
+                "A1": "950/3 (units^2)",
+                "M1": "\"250\" = 1/2 x \"50/3\" x 8 = \"250\" + 200/3"
+            },
+            "a": {
+                "B1": "y coordinate = 12"
+            },
+            "b": {
+                "A1": "y coordinate = 14/3",
+                "B1": "Gradient of l_1 = 3/4",
+                "M1": "=> Gradient of l_2 = -4/3 => (y-6) = -4/3 (x-8)"
+            },
+            "c": {
+                "A1": "30",
+                "M1": "Length of arc = \"50/3\" x 1.8 = 30",
+                "B1ft": "Radius = \"12\" + 14/3 = 50/3"
+            }
+        },
+        {
+            "a": {
+                "A1": "3x^2 + 6x + 9 = 3(x+1)^2 + 6",
+                "B1": "3x^2 + 6x + 9 = 3(x \u00b1 ...)^2 \u00b1 ... a = 3",
+                "M1": "3x^2 + 6x + 9 = 3(x+1)^2 \u00b1 ... a = 3 & b = 1"
+            },
+            "b": {
+                "B1ft": "(-1, 6)"
+            },
+            "c": {
+                "A1": "y = -1/2 x^3 - 3/2 x^2 + 5x + 12",
+                "B1": "y = a(x+4)(x+2)(x-3)",
+                "M1": "y = -1/2 (x+4)(x+2)(x-3) => y = ...x^3 + ...x^2 + ...x + ..."
+            }
+        },
+        {
+            "a": {
+                "B1": "x = 3\u03c0/2 oe"
+            },
+            "b": {
+                "i": {
+                    "B1": "Correct shape and position for both branches with an asymptote in the correct position and labelled as y = 1 or stated in their work."
+                },
+                "ii": {
+                    "B1": "Number of solutions are the number of points of intersections between the graphs."
+                }
+            },
+            "c": {
+                "i": {
+                    "B1ft": "40"
+                },
+                "ii": {
+                    "B1": "14"
+                }
+            }
+        }
+    ],
+    "P1_June 2022 MS": [
+        {
+            "a": {
+                "A1": "-5x^6/3 + 3x^3/2 + c",
+                "M1": "10x^5 + 6x^2 - 3/x = 10x^6/6 + 6x^3/3 - 3x^0/0 (+c)"
+            }
+        },
+        {
+            "d": {
+                "ddM1": "Substitutes x = -7/2, y = -7/2 into y = 2/7x^3 + 1/7x^2 - 5/7x + k => k =...",
+                "A1": "k = 5/4 CSO",
+                "M1": "Equation of l is: y = \"-7/1\"x - 1",
+                "dM1": "Finds coordinates of A x = -7/2 => y = \"-7/1\"x - 1 = (1/2)"
+            },
+            "a": {
+                "A1": "dy/dx = 6/7x^2 + 2/7x - 5/7",
+                "M1": "dy/dx = 6/7x^2 + 2/7x - 5/7"
+            },
+            "b": {
+                "A1*": "=> 12x^2 + 4x - 35 = 0 => 12x^2 + 4x - 33 = 0*",
+                "dM1": "So at B we know dy/dx = -1/7",
+                "M1": "At x = -7/2, dy/dx = 6/7(-7/2)^2 + 2/7(-7/2) - 5/7 =...(>7)"
+            },
+            "c": {
+                "A1": "From graph we can see the x coordinate is positive, so x = 3/2 at B",
+                "M1": "E.g. (2x - 3)(6x + 11) = 0 => x =..."
+            }
+        },
+        {
+            "a": {
+                "A1": "sin x\u00b0 = 0.6827 (awrt)",
+                "M1": "AB = 21 cm, BC = 13 cm, <BAC = 25\u00b0, <ACB = x\u00b0 sin x\u00b0/21 = sin 25\u00b0/13"
+            },
+            "b": {
+                "A1": "So x = awrt 136.95",
+                "M1": "(<AC <AB so) required angle is 180\u00b0-sin^-1(0.6827) =..."
+            }
+        },
+        {
+            "a": {
+                "A1": "Concludes working 6\u221a5 - 4\u221a5/\u221a5 = 2\u221a5/\u221a5 = 2",
+                "M1": "Writes \u221a180 as 6\u221a5 or \u221a80 as 4\u221a5"
+            },
+            "b": {
+                "A1": "25 + 13\u221a5/4",
+                "M1": "4\u221a5 - 5/7 - 3\u221a5 x 7 + 3\u221a5/7 + 3\u221a5",
+                "dM1": "28\u221a5 - 35 + 12(\u221a5)^2 - 15\u221a5/49 - 9x5"
+            }
+        },
+        {
+            "a": {
+                "B1": "Correct maximum and minimum points labelled"
+            },
+            "b": {
+                "B1": "Correct maximum and minimum points labelled."
+            }
+        },
+        {
+            "a": {
+                "A1": "12 - 4/3(x + 2)^2 or -4/3(x - 1)(x + 5) or -4/3x^2 - 16/3x + 20/3 oe",
+                "M1": "E.g. 12 - a(x + 2)^2 or a(x - 1)(x + 5) or y = ax^2 + bx + c => 4a - 2b + c = 12 and 25a - 5b + c = 0",
+                "dM1": "or 12 = a(-2 - 1)(-2 + 5) => a =... or 2a(-2) - b = 0, 25a - 5b + c = 0, -4a - 2b + c = 12 => a =..., b = ..., c =..."
+            },
+            "b": {
+                "A1": "y = -5/4x - 25/4",
+                "M1": "Equation of l2 is: y = \"-5/4\"(x + 5)"
+            },
+            "c": {
+                "A1ft": "For all three of y >= \"-5/4x - 25/4\"; y <= \"-4/3x^2 - 16/3x + 20/3\" Or with strict inequalities",
+                "M1": "For two of y >= \"-5/4x - 25/4\"; y <= \"-4/3x^2 - 16/3x + 20/3\" Or with strict inequalities"
+            }
+        },
+        {
+            "a": {
+                "A1*": "=> 2x^3 - 12x^2 - 3x^2 - 50 = 0 => 2x^3 - 15x^2 - 50 = 0* CSO",
+                "M1": "2xy - 3x^2 = 50; y - x^2 + 6x = 0 => 2x(x^2 - 6x) - 3x^2 = 50"
+            },
+            "b": {
+                "A1": "Solutions are x = \u221a10, y = 4\u221a10 and x = -\u221a10, y = -4\u221a10 CSO",
+                "M1": "=> y = (\u221a10)^2 - 6\u221a10 =..."
+            }
+        },
+        {
+            "a": {
+                "A1": "A = -4",
+                "M1": "f'(x) = 2x - 1/2 + Ax^-2 + 3 => f''(x) =...x^-3 + ...x^-2",
+                "dM1": "f''(4) = 0 => -1/24^-2 + 2A4^-3 = 0 => A =..."
+            },
+            "b": {
+                "A1": "So f(x) = 4/3x^3/2 + 4/x + 3x - 109/12 oe",
+                "A1ft": "c = 8\u221a3 - 4\u221a12 - 36 = A/12 or follow through c = A/12 - 36",
+                "dM1": "Sets f(12) = 8\u221a3 => 8\u221a3 = 4/3\u221a12 - A/12 + 36 + c => 8\u221a3 = c =>...",
+                "M1": "f(x) = \u222b 2x^1/2 + Ax^-2 + 3 dx = 2x^3/2/3/2 + Ax^-1/-1 + 3x(+c)"
+            }
+        },
+        {
+            "a": {
+                "A1*": "So length of arc CD = 84 x 2\u03c0/3 - 5/3 = 35.929... = 35.9 cm (1 d.p.) CSO",
+                "dM1": "Therefore \u03c6 = 2\u03c0/3 - 5/3 (= 0.4277...)",
+                "M1": "15 = 9 x \u03b8 => \u03b8 = 5/3 (= 1.67)"
+            },
+            "b": {
+                "A1": "= awrt 603 (602.787...)",
+                "M1": "Perimeter = 3 x (15 + 35.9...) + 6 x (84 - 9)"
+            },
+            "c": {
+                "ddM1": "Total area is 3 x 1/2 x 84^2 x \"2\u03c0/3 - 5/3\" + 1/2 x 9^2 x \"5/3\" = ...(4729.577764 cm^2)",
+                "A1": "So area is awrt 0.473 m^2 or awrt 4730 cm^2",
+                "M1": "FOR EXAMPLE Area of a \"blade\" = 1/2 x 84^2 x \"2\u03c0/3 - 5/3\" = awrt (1510)",
+                "dM1": "Area of sector of inner circle between \"blades\" = 1/2 x 9^2 x \"5/3\" = ...(67.5)"
+            }
+        },
+        {
+            "a": {
+                "B1": "3 - p"
+            },
+            "b": {
+                "A1": "Two repeats of the sinx graph each side",
+                "M1": "Correct shape, same height starting at O, scaling may be incorrect."
+            },
+            "c": {
+                "A1": "x = 90\u00b0 - \u03b1/2",
+                "B1": "For x = \u03b1/2",
+                "M1": "Attempt at second root E.g. x = 180\u00b0 - \u03b1/2"
+            }
+        }
+    ],
+    "P1_June 2023 MS": [
+        {
+            "a": {
+                "A1": "x<=-1/4 or x>=2 oe",
+                "M1": "x<=-1/4, x>=2"
+            }
+        },
+        {
+            "i": {
+                "a": {
+                    "B1": "Equation is y=1/2(x+2)"
+                },
+                "ii": {
+                    "A1": "y=b/2",
+                    "M1": "l\u2081 intersect parabola => 1/4(x+2)(x-b) = 1/2(x+2) => x=..."
+                }
+            },
+            "d": {
+                "A1": "b=8",
+                "M1": "y=-2x+2b = -2x+5/2b-4 => 2b=5/2b-4 => b=... or y=-2x+b-4, x=b, y=0 => 0=-2b+5/2b-4 => b=... or 1/4(x+2)(x-b) = -2(x-b) => x=...(6) => b-2=6 => b=..."
+            },
+            "b": {
+                "A1": "y=0=-2(x-b)",
+                "M1": "l\u2081 passes through (b, 0) and has gradient -2 => y=..."
+            },
+            "c": {
+                "A1*": "y-b/2 = -2x+2b-4 => y=-2x+5/2b-4",
+                "M1": "So equation is y-b/2 = -2(x-\"b-2\")"
+            }
+        },
+        {
+            "a": {
+                "B1": "2x+2y=350"
+            },
+            "b": {
+                "B1": "E.g. xy=7350, x*y=7350"
+            },
+            "c": {
+                "A1": "(x>y =>) x=105, y=70",
+                "M1": "x(175-x)=7350 or (175-y)y=7350",
+                "dM1": "E.g. -x\u00b2+175x=0 => (x-70)(x-105)=0 => x=..."
+            }
+        },
+        {
+            "a": {
+                "A1": "3x\u00b2+12x+13=3(x+2)\u00b2+1 or a=3, b=-2, c=1",
+                "B1": "a=3",
+                "M1": "b=+-2"
+            },
+            "b": {
+                "B1": "Intercept 13 on y-axis.",
+                "B1ft": "Vertex at (-2,1)"
+            }
+        },
+        {
+            "a": {
+                "A1A1": "=5/2x\u00b3/\u00b2 + x\u00b2",
+                "M1": "=5/2x\u00b3/\u00b2 + x\u00b2"
+            },
+            "b": {
+                "A1ft": "(dy/dx) = 25/6x\u00b3/\u00b2 + 7/2x\u00b3/\u00b2",
+                "M1": "(dy/dx) = ...x^n + ...x^n"
+            }
+        },
+        {
+            "a": {
+                "A1*": "=1.186+",
+                "M1": "\u2220AOB = cos\u207b\u00b9(1.5/4) = ... or \u2220AOB = tan\u207b\u00b9(\u221a4\u00b2-1.5\u00b2/1.5) = ... or \u03c0/2 - sin\u207b\u00b9(1.5/4) = ... or \u2220AOB = \u03c0/2 - tan\u207b\u00b9(1.5/\u221a4\u00b2-1.5\u00b2) = ..."
+            },
+            "b": {
+                "A1": "= awrt 18.5 (m)",
+                "M1": "BC=6-4sin1.186(=6-3.708...=2.29...) or BC=6-4cos(\u03c0/2-1.186)(=6-3.708...=2.29...) or BC=6-\u221a4\u00b2-1.5\u00b2(=6-3.708...=2.29...) or BC=6-1.5/tan\"0.384\"(=6-3.708...=2.29...)",
+                "dM1": "Perimeter is 4x1.186...+(6-4cos0.384...)+1.5+6+4=..."
+            },
+            "c": {
+                "A1": "= awrt 15.7 (m\u00b2)",
+                "M1": "Area OBCD Examples: 6x1.5 - 1/2x\"3.708\"x1.5 or (6-\"3.708\")x1.5 + 1/2x\"3.708\"x1.5 or 1/2(6+\"3.708\")x1.5 or 6x1.5 - 1/2x1.5x4sin1.186 or 1/2x6x1.5 + 1/2(6-\"3.708\")x1.5 (=6.219...)",
+                "dM1": "1/2x4\u00b2x1.186 + 6.219...=..."
+            }
+        },
+        {
+            "a": {
+                "A1": "= r\u207b\u00b2 + r\u00b2 - 2",
+                "M1": "(1/r - r)\u00b2 = r\u207b\u00b2 - r x r - r x 1/r + r\u00b2"
+            },
+            "b": {
+                "A1": "(3-2\u221a2)/(3\u00b2-(2\u221a2)\u00b2) = 3-2\u221a2",
+                "M1": "1/(3+2\u221a2) x (3-2\u221a2)/(3-2\u221a2)"
+            },
+            "c": {
+                "A1": "=2",
+                "M1": "\u221a(3+2\u221a2) - 1/(\u221a3+2\u221a2) = \u221a3+2\u221a2 + 1/(3+2\u221a2)\u207b\u00b2 = \u221a3+2\u221a2 + 1/(3+2\u221a2)\u207b\u00b2 = ...(=4)",
+                "dM1": "so \u221a(3+2\u221a2) - 1/(\u221a3+2\u221a2) = 2"
+            }
+        },
+        {
+            "a": {
+                "A1": "k=8/9",
+                "A1ft": "k=8/9 a=9/4",
+                "B1": "0=10-2x => x=5 or y=2, y=10-2x => x=4",
+                "M1": "1/2 x 2(5+4-a) = 27/2 or 1/2 x 2(5+4-k) = 27/2 Trapezium or 1/2 x 2a + 1/2 x 2(5-a+4-a) = 27/2 or 1/2 x 2k + 1/2 x 2(5+4-k) = 27/2 Triangle + Trapezium or 1/2 x 2a + 2(4-a) + 1/2 x 2 = 27/2 or 1/2 x 2k + 2(4-k) + 1/2 x 2 = 27/2 Triangle + Rectangle + Triangle or 1/2 x 5 x 2 + 1/2 (4-a) x 2 = 27/2 or 1/2 x 5 x 2 + 1/2 (4-k) x 2 = 27/2 2 Triangles"
+            },
+            "b": {
+                "A1": "All three of y>=8/9, x<=10-2x, x>=9/4",
+                "M1": "Two of y>=8/9, x<=10-2x, x>=9/4"
+            }
+        },
+        {
+            "a": {
+                "A1": "10x-y-28=0 oe e.g. -25x+2y+76=0",
+                "M1": "dy/dx = ... at x=4.",
+                "dM1": "y-12=\"10\"(x-4)"
+            },
+            "b": {
+                "A1": "1/4 x\u2074/4 - 8x\u207b\u00b9/(-1)",
+                "A1ft": "So {f(x)} = 1/16 x\u2074 - 16/x + 116/3",
+                "dM1": "f(4)=12 => 16 - 32 + c = 12 => c=...",
+                "M1": "{f(x)} = \u222b 1/4x\u00b3-8x\u207b\u00b2 dx = 1/4 x\u2074/4 - 8x\u207b\u00b9/(-1) (+c)"
+            }
+        },
+        {
+            "i": {
+                "a": {
+                    "A1": "",
+                    "M1": "(y=)3cos(x)"
+                },
+                "b": {
+                    "B1": "Correct y intercept 3\u221a2/2"
+                }
+            },
+            "ii": {
+                "a": {
+                    "A1": "",
+                    "M1": "(y=)sin(2x)"
+                },
+                "b": {
+                    "B1": "Correct y intercept -2 labelled."
+                }
+            }
+        }
+    ],
+    "P1_June 2024 MS": [
+        {
+            "a": {
+                "A1": "2x^5 + 3/4x^2 - 7x + c all correct and simplified in one expression and including \"+c\".",
+                "M1": "For increasing one of the powers of x by 1 e.g. x^4 -> ...x^5 or x^-3 -> ...x^-2 or ... -> 7x"
+            }
+        },
+        {
+            "a": {
+                "a": {
+                    "A1": "Correct equation in the required form",
+                    "M1": "Attempts the equation of the normal using a \"changed\" gradient with x = 4 and y = 12 correctly placed.",
+                    "B1": "Correct gradient at P (may be implied)"
+                }
+            },
+            "b": {
+                "a": {
+                    "A1": "Correct simplified form. The \"f(x) =\" is not required just look for the correct expression.",
+                    "M1": "Uses x = 4 and y = 12 following an attempt to increase at least one power x by 1 to find a value for their c."
+                }
+            }
+        },
+        {
+            "a": {
+                "a": {
+                    "B1": "Both coordinates correct."
+                }
+            },
+            "b": {
+                "a": {
+                    "B1": "Both coordinates correct."
+                }
+            },
+            "c": {
+                "i": {
+                    "B1": "Correct value for A. The \"A =\" is not required but it must be clear it is the answer to (i) or is the value of A."
+                },
+                "ii": {
+                    "B1": "Correct value for B. The \"B =\" is not required but it must be clear it is the answer to (ii) or is the value of B."
+                }
+            }
+        },
+        {
+            "i": {
+                "a": {
+                    "B1": "For 8m (Condone 8M). Do not allow 2^3m."
+                },
+                "b": {
+                    "A1": "For m^12 (Condone M^12)",
+                    "M1": "For writing 16^3n correctly as an expression involving a power of 2."
+                }
+            },
+            "ii": {
+                "a": {
+                    "A1": "For 2+\u221a3 with at least one intermediate step e.g.",
+                    "M1": "Correct attempt to rationalise their denominator."
+                }
+            }
+        },
+        {
+            "a": {
+                "B1": "Passes through (-4, 0) or at least \"reaches\" this point from above or below."
+            }
+        },
+        {
+            "a": {
+                "A1*": "Achieves the printed answer with no errors and sufficient working shown.",
+                "M1": "Attempts to find the discriminant \"b^2 - 4ac\" of a 3TQ. May be seen as an attempt at e.g. b^2 - 4ac = 0 or equivalently e.g. b^2 = 4ac or may be seen embedded in an attempt at the quadratic formula. It requires b and c both of the form pk + q, p, q \u2260 0 and requires a as a constant."
+            },
+            "b": {
+                "A1": "Correct coordinates. Allow as e.g. x = 1, y = -21",
+                "B1": "Correct value of k. Condone x = -13 if it is subsequently used as a value for k.",
+                "M1": "Substitutes their value of k into their equation obtained by equating the curves and collecting terms from part (a) and solves a 3TQ for x by any correct method including a calculator or substitutes their k into the 2 given equations, equates, collects terms to one side and solves a 3TQ for x by any correct method including a calculator"
+            }
+        },
+        {
+            "a": {
+                "A1": "= 23.4(m^2)",
+                "M1": "1/2 * 6^2 * 1.3 = ..."
+            },
+            "b": {
+                "A1": "ABE = 1.54",
+                "M1": "12.2^2 = 6^2 + 10.8^2 - 2 * 6 * 10.8 cos(ABE)"
+            },
+            "c": {
+                "A1": "Total area = 60.9m^2",
+                "M1": "Area BCD = 1/2 * 6 cos(pi - 1.54) * 6 sin(pi - 1.54) or e.g."
+            }
+        },
+        {
+            "a": {
+                "A1": "All correct cao. May be correctly paired but ignore any labelling regarding P and Q, just look for the correct paired values. This may be explicit as a coordinate pair or implied by e.g. x = 8, y = 115.",
+                "M1": "Equates the line and the curve and rearranges to obtain a 3TQ in y Alternatively eliminates x to obtain a 3TQ in y",
+                "dM1": "Uses at least one x value to find at least one y value (or vice versa) using either of the given equations."
+            },
+            "b": {
+                "A1": "All correct and consistent. For consistency, the inequalities for y must be either all strict or all non-strict. The restriction on x will depend on their chosen x value. For example",
+                "M1": "Obtains at least 2 of the required inequalities e.g. 2 of: y <= 2x^2 + x - 21, y <= 5x + 75, y >= 0, x <= a where -3.5 <= a <= 3"
+            }
+        },
+        {
+            "a": {
+                "i": {
+                    "A1": "Correct simplified first derivative. The \"f'(x) =\" is not required",
+                    "M1": "For x^2 -> ...x or x^2 -> ...x or 14x -> 14"
+                },
+                "ii": {
+                    "A1ft": "Correct simplified second derivative. Follow through their first derivative"
+                }
+            },
+            "b": {
+                "A1": "k = 13",
+                "M1": "Sets f'(x) = f''(x), substitutes x = 5 and solves a linear equation in k to find a value for k."
+            },
+            "c": {
+                "A1": "Correct coordinates. May be seen as x = ..., y = ... or as a coordinate pair but condone missing brackets",
+                "M1": "Substitutes their x (not 5) and their k into f'(x) or f''(x) to find a value for y."
+            }
+        },
+        {
+            "a": {
+                "a": {
+                    "B1": "Cuts the x-axis at x = -2 and x = 2. May be as shown or as (2, 0) and (-2, 0)."
+                }
+            },
+            "b": {
+                "a": {
+                    "B1*": "Equates the curves and shows sufficient working to obtain the printed answer with no errors."
+                }
+            },
+            "c": {
+                "a": {
+                    "A1": "Correct range for A. Allow equivalents e.g. \"A > 0 and A < 4\", \"(0, 4)\"",
+                    "M1": "Attempts b^2 = 4ac or equivalent e.g. b^2 - 4ac < 0 with a = 1, b = -4 and c = A to obtain a value for A.",
+                    "B1": "For A > 0 as one boundary. May be seen embedded in their final answer. x > 0 is B0."
+                }
+            }
+        },
+        {
+            "a": {
+                "a": {
+                    "A1": "Correct equation in the required form including the \"= 0\". Allow any integer multiple of this equation.",
+                    "M1": "For a correct straight line method using their gradient and point A or point B with x and y correctly placed."
+                }
+            },
+            "b": {
+                "a": {
+                    "A1": "Correct equation in the required form including the \"= 0\". Allow any integer multiple of this equation.",
+                    "M1": "Solves 2 equations of the form \u03b1 = m\u03b2 + c to find values for m and c."
+                }
+            },
+            "c": {
+                "a": {
+                    "A1": "Area = 5/2"
+                }
+            }
+        }
+    ],
+    "P1_October 2019 MS": [
+        {
+            "a": {
+                "A1": "r = \u221a24 or 2\u221a6 (only)",
+                "M1": "1/2 * r^2 * 1.25 = 15 => r^2 = 24"
+            },
+            "b": {
+                "A1": "= 15\u221a6 / 2 oe",
+                "M1": "Attempts s = r\u03b8 = 2\u221a6 * 1.25",
+                "dM1": "Attempts P = 2r + r\u03b8 = 2 * 2\u221a6 + 2\u221a6 * 1.25"
+            }
+        },
+        {
+            "a": {
+                "A1": "x <= -5/2",
+                "M1": "f(x) <= 0 => x <= -5/2, x = 3"
+            }
+        },
+        {
+            "a": {
+                "A1": "y = 5x - 28/3",
+                "M1": "Attempts 32/3 = 5(x - 4) => y = 5x - 28/3"
+            },
+            "b": {
+                "ddM1": "Substitutes x = 4, f(x) = 32/3 => d = -12",
+                "A1": "f(x) = 16x^1/2 - 3/2 x^2 + x - 12",
+                "M1": "f'(x) = 4/\u221ax - 3 => f'(x) = 8x^-1/2 - 3 + k",
+                "dM1": "Substitutes x = 4, f'(x) = 5 => k = 1"
+            }
+        },
+        {
+            "a": {
+                "A1": "Solves simultaneously to get a = 0.32, b = 1.21 (oe)",
+                "M1": "1.85 = -2a + b and 3.45 = 7a + b",
+                "dM1": "a = 0.32, b = 1.21 or equivalent fractions. May be seen in the equation."
+            },
+            "b": {
+                "B1ft": "States 1.21 m or 121 cm (oe)"
+            }
+        },
+        {
+            "a": {
+                "A1": "Coordinates M = (2.5, 6.75)",
+                "M1": "x^2 - 5x + 13 = (x - 2.5)^2 - 2.5^2 + 13 = (x - 2.5)^2 + 6.75"
+            },
+            "b": {
+                "A1": "Coordinates N = (5.2, 14.04)",
+                "M1": "Attempts to solve their y = 2.7x with y = x^2 - 5x + 13",
+                "dM1": "Depends on second M mark. Substitutes their x = 5.2 into either equation to find y = ... If a y value allows on x value with no clearly incorrect working, then allow as an attempt."
+            },
+            "c": {
+                "A1ft": "States all three inequalities. Same conditions as above, follow through on their 2.7x from (b) and 2.5",
+                "M1": "States two of y < x^2 - 5x + 13, y > 2.7x, 0 < x < 2.5"
+            }
+        },
+        {
+            "a": {
+                "A1": "/_DAB = awrt 138.19\u00b0",
+                "M1": "sin \u03b8 = ... => \u03b8 = 180\u00b0 - 41.8\u00b0"
+            },
+            "b": {
+                "A1": "DB = awrt 15.0 (cm)",
+                "M1": "Attempts DB^2 = 10^2 + 6^2 - 2 * 10 * 6 * cos\"138.19\u00b0\" (cm)"
+            }
+        },
+        {
+            "a": {
+                "A1": "+2x",
+                "M1": "dy/dx = 1/2 x^2 + 2x"
+            },
+            "b": {
+                "A1": "x + 9y - 37 = 0",
+                "M1": "y - 11/3 = -1/9 (x - 4) => x + 9y - 37 = 0",
+                "dM1": "Gradient of normal = -1/9"
+            }
+        },
+        {
+            "a": {
+                "B1": "States intercept as 4/k"
+            },
+            "b": {
+                "A1": "k = 10 +- 4\u221a2 oe",
+                "M1": "Attempts \"b^2 - 4ac\" = 0 => (k - 10)^2 - 4 * 2 * 4 = 0"
+            }
+        },
+        {
+            "a": {
+                "A1": "At x = 2 gradient of tangent = 8",
+                "M1": "Attempts dy/dx = ax at x = 2"
+            },
+            "b": {
+                "A1": "= 8h + 2h^2 / h => 8 + 2h",
+                "B1": "(y_0 =) 2(2 + h)^2 + 5",
+                "M1": "Gradient PQ = their y_0 - 13 / 2 + h - 2"
+            },
+            "c": {
+                "B1": "States as h -> 0 Gradient PQ -> 8 = Gradient of tangent"
+            }
+        },
+        {
+            "a": {
+                "A1": "x^1/2 = 3 +- \u221a5 oe",
+                "M1": "x = [3 +- \u221a5]^2 => x = 14 +- 6\u221a5"
+            }
+        },
+        {
+            "a": {
+                "A1": "(x + 4)^2 = 36x",
+                "M1": "x^2 - 28x + 16 = 0 => (x - 14)^2 = 180 => x = 14 +- \u221a180 => x = 14 +- 6\u221a5"
+            }
+        },
+        {
+            "a": {
+                "B1": "24\u03c0"
+            },
+            "b": {
+                "B1ft": "(18\u03c0, -1)"
+            },
+            "c": {
+                "i": {
+                    "B1ft": "-12\u03c0 - \u03b1"
+                },
+                "ii": {
+                    "B1ft": "6\u03c0 - \u03b1"
+                }
+            }
+        }
+    ],
+    "P1_October 2020 MS": [
+        {
+            "a": {
+                "B1": "a = 162"
+            },
+            "b": {
+                "B1": "b = 5"
+            },
+            "c": {
+                "B1": "c = 12"
+            }
+        },
+        {
+            "a": {
+                "A1": "f(x) = 21-2(x-3)^3",
+                "B1": "b = 2",
+                "M1": "...\u00b1...(x\u00b13)"
+            },
+            "b": {
+                "A1": "= 4\u221a7",
+                "B1": "R is (0, -4) or \"b\" = 4",
+                "dM1": "Area = 1/2(\"(3+\u221a7\"-\"(3-\u221a7)\")x\"4\"",
+                "M1": "f(x)-7 = 14-2(x-3)^3 => x=... or f(x)-7 = -4+12x-2x^2 => x=..."
+            }
+        },
+        {
+            "b (i)": {
+                "A1": "= 18 (cm^2) Awrt 18 (cm^2) (Ans = 17.96)",
+                "M1": "Area COA = 1/2 * 5 x 3sin(\"2.34\") (= 5.38...)",
+                "dM1": "Total Area = 2 x 1/2 * 5 x 3sin(\"2.34\") + 7.2"
+            },
+            "b (ii)": {
+                "A1": "= Awrt 19.6 (cm)",
+                "B1": "Arc AB = 3x1.6 (= 4.8)",
+                "dM1": "Total perimeter = 2 x \u221a5^2 + 3^2 - 2 x 5 x 3cos(\"2.34\") + 3x1.6",
+                "M1": "(AC^2 =) 5^2 + 3^2 - 2 x 5 x 3cos(\"2.34\")"
+            },
+            "a": {
+                "A1*": "\u03b1 = 1.6*",
+                "M1": "1/2 * x * 3^2 * \u03b1 = 7.2 => \u03b1 = ... or 1/2 * x * 3^2 * 1.6 = 7.2 => \u03b1 = 1.6"
+            }
+        },
+        {
+            "a": {
+                "A1": "x = 0.2 or (1/5), y = 4.6 or (23/5) and x = -2, y = -2",
+                "B1": "x = 0.2, x = -2 or y = 4.6, y = -2",
+                "dM1": "(5x-1)(x+2) = 0 => x = ... or (5y - 23)(y+2) = 0 => y = ...",
+                "M1": "Substitutes their x into their y = 3x+4 / Substitutes their y into their x = y-4/3"
+            }
+        },
+        {
+            "ii b": {
+                "B1": "(p) = \u03c0/3 and (q) = 4\u03c0/3"
+            },
+            "ii a": {
+                "B1": "k = 2"
+            },
+            "b": {
+                "B1": "Passes through (0, -3)"
+            },
+            "a": {
+                "B1": "Passes through (-7,0)"
+            }
+        },
+        {
+            "a": {
+                "A1": "m = -3/4",
+                "M1": "E.g. m = 2-11/8+4 or m = 11-2/-4-8"
+            },
+            "b": {
+                "A1": "8x - 6y + 23 = 0",
+                "B1": "M is (2, 13/2)",
+                "M1": "y - \"13/2\" = \"4/3\"(x-\"2\")"
+            },
+            "c": {
+                "A1": "(-1, 2.5) and (5, 10.5)",
+                "M1": "1/2 x MC x AB = 37.5 => MC = 75/15 (= 5) or MC^2 = 25",
+                "dM1": "m_n = 4/3, MC = 5 => C is (\"2\"-3, \"13/2\"-4) or (\"2\"+3, \"13/2\"+4)"
+            }
+        },
+        {
+            "a": {
+                "B1": "x = 2, y = 0"
+            },
+            "b": {
+                "A1": "4x^2 + (k-8)x + 1 - 2k = 0",
+                "A1*": "k^2 - 16k + 64 - 16 + 32k > 0 => k^2 + 16k + 48 > 0*",
+                "M1": "(k-8)^2 - 4 x 4 x (1-2k)(>0) oe"
+            },
+            "c": {
+                "A1": "k < -12 or k > -4",
+                "M1": "k < -12 or k > -4"
+            }
+        },
+        {
+            "a": {
+                "A1": "= x^3 - 10x^2 + 32x - 32",
+                "A1*": "dy/dx = 3x^2 - 20x + 32*",
+                "M1": "dy/dx = 3x^2 - 20x + 32"
+            },
+            "b": {
+                "A1": "y = 20x - 104",
+                "B1": "dy/dx = 3(6)^2 - 20(6) + 32 = 20",
+                "M1": "y - \"16\" = \"20\"(x-6)"
+            },
+            "c": {
+                "A1": "\u03b1 = 2/3",
+                "M1": "3x^2 - 20x + 32 = \"20\" => 3x^2 - 20x + 12 = 0",
+                "dM1": "3x^2 - 20x + 12 = 0 => (3x-2)(x-6) = 0 => x = ..."
+            }
+        },
+        {
+            "a": {
+                "A1": "f(x) = 9x^3 - 3x^3 + 5/3 \u221ax - 35",
+                "M1": "f(x) = 27/3 x 21/7 x^3 - 5/2 x 2/3 \u221ax (+c) (= 9x^3 - 3x^3 + 5/3 \u221ax (+c))",
+                "dM1": "f(9) = 10 => 9(9)^3 - 3(9)^3 + 5/3 \u221a9 + c = 10 => c = ..."
+            }
+        }
+    ],
+    "P1_October 2021 MS": [
+        {
+            "a": {
+                "A1": "All correct and simplified and on one line.",
+                "M1": "Applies \u222bx^n dx -> x^(n+1) for at least one index"
+            }
+        },
+        {
+            "a": {
+                "A1": "a = 4/9",
+                "B1": "f'(x) = ax - 12x^2 => f''(x) = a - 4x^3",
+                "M1": "Sets f''(27) = 0 => 0 = a - 4x^3 => a = 4/9"
+            },
+            "b": {
+                "A1": "(f(x) = 1/9x^2 - 9x^3 + 7/9",
+                "A1ft": "f'(x) = ax - 12x^2 => (f(x) = 1/2ax^2 - 9x^3 + c",
+                "dM1": "Substitutes x = 1, f(x) = -8 => c = ...",
+                "M1": "f'(x) = ax - 12x^2 => (f(x) = 1/2ax^2 - 9x^3 + c"
+            }
+        },
+        {
+            "a": {
+                "ddM1": "Correct attempt to solve 3TQ in x^2. This may be by factorising, using the quadratic formula, or completing the square (see general guidance). The attempt to factorise must be consistent with their 3TQ.",
+                "A1": "x = +- 1/\u221a5 or exact equivalent such as +- \u221a5/5, +- \u221a3/\u221a15 and isw once the correct answers are seen.",
+                "M1": "Attempts to differentiate with x^n -> x^(n-1) for one correct power",
+                "dM1": "Sets their dy/dx = 2 and collects terms to one side to obtain a 3TQ in x^2"
+            }
+        },
+        {
+            "i": {
+                "A1": "0 < x < 3/4",
+                "B1": "3/x > 4 => 3x > 4x^2 => x(4x-3) < 0 => 0, 3/4",
+                "M1": "0 < x < 3/4"
+            },
+            "ii": {
+                "A1": "E.g. y < 2x^2 - 50, y > 3x + 15, x < a < -5",
+                "B1": "y - 0 = 3(x+5)",
+                "M1": "E.g. y < 2x^2 - 50, y > 3x + \"15\""
+            }
+        },
+        {
+            "a": {
+                "i": {
+                    "B1": "(90, -1)"
+                },
+                "ii": {
+                    "B1": "225"
+                }
+            },
+            "b": {
+                "A1": "Both -1 < p < 0, p = 1",
+                "M1": "One of -1 < p < 0, p = 1"
+            }
+        },
+        {
+            "a": {
+                "A1": "Coordinates of P (12, 18)",
+                "A1ft": "Full method to find one co-ordinate of P. Solves 2/3x + 10 = -3/2(x - 24)",
+                "B1": "3y - 2x = 30 => m = 2/3",
+                "M1": "Coordinates of P (12, 18)"
+            },
+            "b": {
+                "A1": "351",
+                "M1": "y = 0, 3y - 2x = 30 => x = ...",
+                "dM1": "Area BPA = 1/2 x (24 + \"15\") x \"18\" = 351"
+            }
+        },
+        {
+            "a": {
+                "A1": "Positive cubic shape that at least reaches the x-axis at x = -1 and with a minimum on the x axis at x = 3",
+                "B1": "y intercept at 18. Must correspond with their sketch",
+                "M1": "Positive cubic shape anywhere with 1 maximum and 1 minimum"
+            },
+            "b": {
+                "A1": "E.g. (2x + 2)(x^2 - 6x + 9) = ...",
+                "M1": "E.g. (2x + 2)(x^2 - 6x + 9) = ..."
+            },
+            "c": {
+                "A1": "y = 512/27 or exact equivalent. All previous marks must have been scored in (c).",
+                "M1": "Attempts f'(1/3) = 0. Must follow a correct derivative but allow this mark if they have e.g. divided their derivative by 2 before substituting or e.g. if they have divided their expanded f(x) by 2 before differentiating so they have",
+                "B1ft": "Correctly differentiates their 2x^3 - 10x^2 + 6x + 18. Allow follow through but only from a 4 term cubic."
+            }
+        },
+        {
+            "a": {
+                "A1": "OB = awrt 1.74 or truncated as 1.7 or e.g. 1.73 (may be implied)",
+                "A1*": "Fully correct working leading to the given answer with no obvious rounding errors. e.g. if they obtain angle AOB = 0.8227 following correct method then state 2x0.8227 = 1.64 this mark should be withheld.",
+                "dM1": "Attempts the sine rule with the sides and angles in the correct positions in an attempt to find AOB or 1/2 AOB. This must be a full attempt including using inverse sin to find the angle.",
+                "M1": "Attempts the cosine rule to get OB or OB^2 seen in part (a) only"
+            },
+            "b": {
+                "A1": "0.6 x (2\u03c0 - 1.64) + 2.8 = 5.6 m. Condone lack of units",
+                "M1": "Attempts 0.6 x \u03b1 with an allowable \u03b1"
+            },
+            "c": {
+                "ddM1": "This mark is for a complete and correct attempt at the total area and depends on both previous method marks.",
+                "A1": "awrt 1.6 m^2",
+                "M1": "In general marks in part (c) are M1: Attempting the major sector, M2 attempting the kite area or half of it i.e. area of triangle AOB (but not e.g. area of triangle OCA (they would need to find the area of triangle ABC as well, or half of both of these)), dM3: A complete and correct method for the total area, A1: awrt 1.6"
+            }
+        },
+        {
+            "a": {
+                "i": {
+                    "A1": "16 - 3(x - 2)^2",
+                    "M1": "4 + 12x - 3x^2 = a + 3(x + c)^2 or a + b(x + 2)^2"
+                },
+                "ii": {
+                    "B1ft": "Coordinates M = (2, 16)"
+                }
+            },
+            "b": {
+                "ddM1": "Attempts to use b^2 - 4ac = 0 to find k",
+                "A1": "k = 16/3 => y = 8x + 16/3",
+                "M1": "States or implies that l2 has equation y = \"8\"x + k",
+                "dM1": "Sets 4 + 12x - 3x^2 = \"8\"x + k and proceeds to 3TQ"
+            }
+        },
+        {
+            "a": {
+                "A1": "Completely correct sketches with both points",
+                "M1": "One correct curve drawn and labelled correctly"
+            },
+            "b": {
+                "A1*": "\u221ax = 3/(\u221a2 - 1) = 3(\u221a2 + 1)",
+                "B1": "Sets \u221ax + 3 = \u221a2x",
+                "M1": "3 = (\u221a2 - 1)\u221ax"
+            },
+            "c": {
+                "A1": "x = 9(3 + 2\u221a2), y = 3\u221a2 + 6",
+                "M1": "x = 9(3 + 2\u221a2)"
+            }
+        }
+    ],
+    "P1_October 2022 MS": [
+        {
+            "a": {
+                "A1": "",
+                "M1": "dy/dx = ...x + ... + ...x^-2"
+            },
+            "b": {
+                "A1": "21x + 4y - 68 = 0",
+                "M1": "dy/dx = 3/4 (2)^2 - 2(2) - 17(2)^-2 = -21/4",
+                "dM1": "y - 13/2 = \"-21/4\"(x-2)"
+            }
+        },
+        {
+            "a": {
+                "B1": "b = -3"
+            },
+            "b": {
+                "A1A1": "4/35 x^(7/2) - 6/25 x^(5/2) - 64/15 x^(1/2) - 6x^(-1/2) + c",
+                "M1A1": "Any two term of integral (2x^2 - 3x^2 - 32x - 15)/5sqrt(x) dx = integral 2/5 x^(3/2) - 3/5 x^(1/2) - 32/5 x^(-1/2) - 3x^(-3/2) dx",
+                "M1": "x^n -> x^(n+1)"
+            }
+        },
+        {
+            "a": {
+                "A1A1": "p = 0.3 q = 0.15",
+                "M1": "e.g. -> 2p = 0.6 or -> 1.05 = 3p + (1.65 - 5p) or -> 1.65 = 5p + (1.05 - 3p)"
+            },
+            "b": {
+                "A1": "T = 7.8",
+                "M1": "2.5 = \"0.3\"T + \"0.15\" -> T ="
+            }
+        },
+        {
+            "a": {
+                "A1": "x = 0, 5/2, -3",
+                "B1": "Two of x = 0, 5/2, -3",
+                "dM1": "x(2x-5)(x+3) = 0 -> x = ...",
+                "M1": "x^2(2x+1) - 15x = 2x^3 + x^2 - 15x = x(2x^2 + x - 15)"
+            },
+            "b": {
+                "A1": "y = 5/4 sqrt(10)",
+                "M1": "y^(3/2) = (5/2)^(3/2) -> y = (5/2)^(3)"
+            }
+        },
+        {
+            "a": {
+                "A1A1": "f(x) = integral 12x^2 + 1/3 - 4 dx = 24x^3/3 + x/6 - 4x + c",
+                "A1": "{f(x)} = 24x^3/3 + x/6 - 4x - 83/2",
+                "M1": "One of x^-2 -> x^-1, -4 -> -4x, x -> x^2",
+                "dM1": "8 = 24(9)^3/3 + 9/6 - 4(9) + c -> c = ..."
+            },
+            "b": {
+                "A1": "(0, 11)",
+                "M1": "y - 8 = \"-1/3\"(0-9)",
+                "dM1": "3 -> -1/3"
+            }
+        },
+        {
+            "a": {
+                "i": {
+                    "B1": "y-intercept is -16k (which must be below the x-axis)"
+                },
+                "ii": {
+                    "B1": "Correct curves in the first and second quadrants and no other curves appearing in quadrants 3 and 4"
+                }
+            },
+            "b": {
+                "B1": "One root because the two graphs intersect each other once"
+            }
+        },
+        {
+            "a": {
+                "A1": "-1 < x < 2",
+                "M1": "-1 < x < 2"
+            },
+            "b": {
+                "B1": "x > 3, x < -4"
+            },
+            "c": {
+                "i": {
+                    "B1": "3 Either two correct pairs of coordinates or all x coordinates correct or all y coordinates correct."
+                },
+                "ii": {
+                    "B1": "-3 < x < -2"
+                }
+            }
+        },
+        {
+            "d": {
+                "A1": "awrt 43 (m^2) from a correct method.",
+                "M1": "Area ABC = 1/2 * 3sqrt(3) * 8 * sin(pi - \"0.88\") (= 20.4896, ...)",
+                "dM1": "Adds their (a)(i) + their (b) + their triangle ABC together to find the area of the pond."
+            },
+            "a": {
+                "i": {
+                    "M1A1": "Area of sector = 1/2 * 3^2 * 4pi/3 = 6pi (m^2)",
+                    "B1": "2pi - 2pi/3 = 4pi/3"
+                },
+                "ii": {
+                    "M1A1": "Length of arc = 3 * 4pi/3 -> Perimeter = 4pi + 6 (m)"
+                }
+            },
+            "b": {
+                "M1A1": "1/2 * 3^2 * sin(2pi/3) = 9sqrt(3)/4"
+            },
+            "c": {
+                "M1A1": "Eg AB^2 = 3^2 + 3^2 - 2 * 3 * 3 * cos(2pi/3) -> AB^2 = 27 -> AB = 3sqrt(3) (m)",
+                "A1": "3sqrt(3) (m) with no errors in their calculations."
+            }
+        },
+        {
+            "d": {
+                "B1": "All three of x ...\"10\" or y ... 25/4 - 1/8 x or y ... 1/2 x^2 - 10x + 22",
+                "B1ft": "Two of x ...\"10\" or y ... 25/4 - 1/8 x or y ... 1/2 x^2 - 10x + 22"
+            },
+            "a": {
+                "A1": "1/2 x^2 - 10x + 22 = 1/2 (x - 10)^2 - 28",
+                "B1": "1/2 x^2 - 10x + 22 = ... or states a = 1/2",
+                "M1": "1/2 x^2 - 10x + 22 = 1/2 (x +- ...)^2 ... or states a = 1/2 and b = +-10"
+            },
+            "b": {
+                "B1ft": "(\"10\", \"-28\")"
+            },
+            "c": {
+                "i": {
+                    "A1": "x = 18, y = 4",
+                    "M1": "dy/dx = x - 10 = 8 -> x = ...",
+                    "B1": "Gradient of tangent = 8"
+                },
+                "ii": {
+                    "A1": "k = 25/4",
+                    "dM1": "k - 1/8 x \"18\" = \"4\" -> k = ..."
+                }
+            }
+        }
+    ],
+    "P1_October 2023 MS": [
+        {
+            "a": {
+                "A1": "Two correct unsimplified terms (indices must be processed). May be seen on different lines or listed. Condone 7x^0 as an unsimplified term. Do not withhold this mark if there is a -c present.",
+                "M1": "Decreases the power by 1 on one of the terms ...x^3 -> ...x^2 ...x^2 -> ...x ...x^1 -> ...x^0 ...x -> +-7"
+            },
+            "b": {
+                "A1": "30x + 18x^4 or simplified equivalent e.g. 30x + 18/x^5. Condone e.g. 30x + 18/x^5. Isw once a correct answer is seen. Withhold this mark if there is a constant of integration and it has not already been penalised in (a).",
+                "M1": "Decreases the power by 1 on one of the terms of their changed function. Do not allow this mark to be scored for a constant of integration in (a) -> 0 in (b)"
+            }
+        },
+        {
+            "aii": {
+                "B1": "1080"
+            },
+            "c": {
+                "M1": "Attempts to find a value for k by either attempting to find k = 1/2 (12/5 - 3/5) = ... attempting to find k = 12/5 - 1/2 (3/5) = ... or k = -12/5 - 1/2 (3/5) = ... forming two correct simultaneous equations and eliminating sin a (may be labelled as a different variable, condone \u03b1 for sin a)"
+            },
+            "b": {
+                "B1": "One of the two coordinates (1620, -3) Condone missing brackets. Allow x=..., y=...."
+            },
+            "ai": {
+                "B1": "(n=) 3"
+            }
+        },
+        {
+            "d": {
+                "B1cso": "y <= -8x + 20 y >= 2x^2 - 12x + 14 y >= 0, x >= 0",
+                "B1ft": "y <= \"-8x+20\" and y >= 2x^2 - 12x + 14 (or y >= \"2(x-3)^2 - 4\")"
+            },
+            "a": {
+                "A1": "2(x-3)^2 - 4 isw following a correct expression (e.g. if they proceed to state incorrect values for a, b and/or c). If they just state the values then withhold this mark. Constants must be integers.",
+                "B1": "2(x+-...)^2",
+                "M1": "...(x+3)^2... may be implied by b = +-3. Accept unsimplified versions e.g. ...x = (12/4)^2"
+            },
+            "b": {
+                "B1ft": "(3, -4) or e.g. x=3, y=-4. Condone invisible brackets. Follow through from their part (a) so score for (-b, c)"
+            },
+            "c": {
+                "A1": "y = -8x + 20",
+                "M1": "m = 28-4 / -1-3 (= -8)",
+                "dM1": "y - 28 = -8(x+1)"
+            }
+        },
+        {
+            "A1": "16x^-2 (from a correct method)",
+            "a": {
+                "B1": "1/8 x or simplified equivalent e.g. 0.125x or 1/8 x^1. Accept e.g. x/8 but +- x/8 is B0."
+            },
+            "b": {
+                "B1": "1/256 x^3 or simplified equivalent e.g. 0.00390625x^3 condone 1/256 x^3. Isw after a correct answer is seen."
+            },
+            "c": {
+                "M1": "Attempts to use the index laws and proceeds to either (...x^1/2)^3 or (...x^3)^1/2 ...x^3/2 or ...x^1.5 (or ...x^1 / ...x^1/2)"
+            }
+        },
+        {
+            "a": {
+                "A1": "3\u221a3 - 2\u221a5",
+                "M1": "Attempts to rationalise the denominator by multiplying both numerator and denominator by k(2\u221a3 - \u221a5), where k is an integer usually 1, and proceeds to a fraction such as ...\u221a3 +- ...\u221a5 / ...\u221a45 +- ...\u221a75 or 12-5 / 7",
+                "dM1": "Attempts to simplify surds and may collect terms to achieve a fraction where the numerator is in terms of \u221a3 and \u221a5 only. the denominator is a multiple of 7 (which may be unsimplified)"
+            },
+            "b": {
+                "A1": "(x=) 40 - 5\u221a15 / 2\u221a3 + \u221a5",
+                "A1ft": "(x=) 15\u221a3 - 10\u221a5",
+                "M1": "(x+5\u221a3)\u221a5 = 40 - 2x\u221a3 => x\u221a5 + 2x\u221a3 = 40 - 5\u221a15"
+            }
+        },
+        {
+            "d": {
+                "B1": "2 as the graphs intersect (each other) twice"
+            },
+            "a": {
+                "B1": "x = -2 only. Accept labelled on the diagram but do not accept just -2. If other equations are given (other than y = 0) then B0."
+            },
+            "b": {
+                "M1": "Attempts to take out a linear factor e.g. x(x^2 +- 4x +- 4) or (x+2)(x^2 +- 2x). May be implied by the correct answer."
+            },
+            "c": {
+                "B1": "Sketches a positive cubic anywhere on a set of axes. Do not penalise poor curvature provided the intention is clear and ignore if the curvature looks asymptotic. The cubic does not need to have two turning points for this mark."
+            }
+        },
+        {
+            "a": {
+                "M1": "Uses the cosine rule to form an equation for cos\u03b8. Condone just an expression for cos\u03b8."
+            },
+            "b": {
+                "A1": "awrt 16.1 (condone lack of units)",
+                "B1": "\u03b8 = awrt 42\u00b0 seen or implied. Accept 42.5. May work in radians (awrt 0.73/0.74 radians)",
+                "dM1": "Correct full method to find the total area (the expression is sufficient. It is dependent on the previous method mark. Condone use of incorrectly rounded angles/slips and may work in radians.",
+                "M1": "Attempts to find AB, AD or AC using a correct method. Angles and lengths must be in the correct positions in the relevant formula or formulae. Condone slips in any arrangement, calculation and substituting in x = 2\u221a3 provided the method is correct. Condone working in radians provided the angles are consistently in degrees or radians within the expression or formula."
+            }
+        },
+        {
+            "a": {
+                "M1": "Multiplies by (x + p), multiplies out the brackets and collects terms on one side. Condone slips and the omission of = 0, but there must be an ...x^2 term."
+            },
+            "b": {
+                "M1": "Attempts to find critical values by solving the given quadratic by either factorising (do not accept (p-4)(p+2/3) unless they have divided both sides of the inequality/equation by 3 first) completing the square 3(p-5/3)^2 +- ... = (p=)... quadratic formula"
+            }
+        },
+        {
+            "aii": {
+                "A1": "2x+15y+7=0",
+                "M1": "y+1 = \"-2/15\"(x-4)"
+            },
+            "b": {
+                "dA1ft": "Follow through on an expression of the form Ax^5/2 + Bx^2 + Cx^1/2 where A, B and C are all non-zero. Do not be concerned with the presence or omission of the constant of integration. Accept x^2 for x.",
+                "A1": "(f(x)=) 2/5 x^5/2 + 5/4 x^2 - 7/2 x^1/2 - 84/5",
+                "ddM1": "Attempts to substitute x = 4 into their changed expression (condone one slip in substituting in), sets equal to -1 and attempts to find c.",
+                "M1": "4x^2 + 10 - 7x^-1/2 = +-...x^3 +-...x +-...",
+                "dM1": "\u222b x^3/2 + 5/2 x - 7/4 x^-1/2 dx = 2/5 x^5/2 + 5/4 x^2 - 7/2 x^1/2 (+c)"
+            },
+            "ai": {
+                "B1": "4(4)^2 + 10 - 7(4)^-1/2 = 15/2"
+            }
+        },
+        {
+            "a": {
+                "A1": "Multiplies out and rearranges the equation to achieve the given answer with no errors seen including invisible brackets. Condone the implied = 0 is their working, provided it is present in their final answer. There must be at least one stage of intermediate working between their starting equation and proceeding to the given answer.",
+                "M1": "Sets up a correct equation in x. Invisible brackets may be implied by further work."
+            },
+            "b": {
+                "A1": "\u221a65 cao (this cannot be scored if the first method mark has not been scored)",
+                "B1": "At least one of \u221a5 and -\u221a5 (and no others)",
+                "dM1": "A full attempt to find the length PQ. It is dependent on the previous method mark.",
+                "M1": "Note that if they do not square root their solution to the quadratic in x^2 then this mark cannot be scored (and no further marks)."
+            }
+        },
+        {
+            "a": {
+                "B1": "Either forms an equation using l = r\u03b8 with l = 0.72 and \u03b8 = 0.6 and concludes OP = 1.2 e.g. 0.72 = r x 0.6 => r = 1.2 states 0.72/0.6 = 1.2 forms the equation using 0.72 = 1.2 x 0.6 and concludes that OP = 1.2"
+            },
+            "b": {
+                "B1": "Correct expression for the area of sector OQORSO 1/2 x (x+1.2)^2 x 0.6 Missing brackets may be implied by further work."
+            },
+            "c": {
+                "A1": "awrt 43 m or awrt 44 m, including units, following a correct method. Typically look for 43.4...m or 43.5...m",
+                "B1": "x = awrt 16.2",
+                "M1": "A correct method to find the perimeter using their value for x which must be positive. They must proceed as far as a value for the perimeter to score this mark. Do not condone the lengths 0.72 and 1.2 to be rounded, but condone for example their \"16.2\" to be \"16\"."
+            }
+        }
+    ],
+    "P1_October 2024 MS": [
+        {
+            "a": {
+                "A1": "y = -3x + 5",
+                "M1": "Attempts gradient = (20 - -4) / (-5 - 3)",
+                "dM1": "Attempts equation of line y - 20 = \"-3\"(x+5) or y + 4 = \"-3\"(x-3)"
+            },
+            "b": {
+                "A1": "x - 3y + 25 = 0",
+                "M1": "y - 8 = 1/3(x + 1)",
+                "B1ft": "Gradient 1/3 or midpoint (-1,8)"
+            }
+        },
+        {
+            "a": {
+                "B1": "For y / 6x^10 y^-1 - must be one expression. Allow with y^1 in the denominator."
+            },
+            "b": {
+                "A1cso": "a = -4\u221a3 / 3 + 8 / 3",
+                "B1": "States or uses \u221a27 = 3\u221a3",
+                "M1": "Correct attempt to make \"a\" the subject and make progress towards the form p\u221a3 + q"
+            }
+        },
+        {
+            "a": {
+                "A1": "2/5 x^5/2 + 20/3 x^3/2 + 50x^1/2 + c or exact equivalent. Must include the constant of integration.",
+                "M1": "For attempting to divide by x^1/2 and increasing a correct power by 1 (ie must have expanded). Must be seen in part (a)"
+            },
+            "b": {
+                "A1*": "Reaches 3x^2 + 10x - 25 = 0 showing all steps with no errors. Note that they must work correctly with the equation, if they state f'(x) = 3x^2 + 10x - 25 before setting equal to 0 then allow the M (if suitable method shown) but it is A0.",
+                "A1": "For f'(x) = 3/2 x^1/2 + 5x^-1/2 - 25/2 x^-3/2 (oe e.g. from quotient rule) which may be left un simplified",
+                "M1": "For attempting to divide by x^1/2 and decreasing a correct power by one. Must be seen or used in part (b). For attempts at the quotient or product rule look for correct",
+                "dM1": "Sets \u03b1x + \u03b2x + \u03b3x = 0 and attempts to multiply by x^3/2 seen in at least two terms or explicitly shown in a step before the final answer.",
+                "B1": "(x = 5/3) only. The other root need not be seen, but if shown it must be subsequently rejected in some way. Note that 1.6 (1.6 recurring) is acceptable as the answer for B1, but 1.67 is B0."
+            }
+        },
+        {
+            "a": {
+                "A1": "[f(x) =] 1.2x(x-4) o.e. such as [f(x) =] 1.2x^2 - 4.8x or [f(x) =] 1.2(x-2)^2 - 4.8 and isw. Accept with (x \u2013 0). The f(x) may be missing, it can be assumed (but use of g(x) is A0). Allow if the full expression is given in latter parts if all the work was correct in (a) to find the constants.",
+                "M1": "States or implies [f(x) =] kx(x-4). Allow with k = 1. The f(x) need not be seen \u2013 assume they are working with f(x) in part (a)",
+                "dM1": "Attempts to find all the constants in their equation for f(x) using (2, -4.8). E.g. -4.8 = k x 2 x (2-4) => k = ..."
+            },
+            "b": {
+                "A1": "[g(x) =] 0.3x(x-4)^2",
+                "M1": "States or implies that [g(x) =] \u03bbx(x-4)^2. Allow with \u03bb = 1. The g(x) need not be seen \u2013 assume they are working with g(x) in part (b).",
+                "dM1": "Attempts to find \u03bb . E.g. 7.2 = \u03bb x 6 x (6-4)^2 => \u03bb = ..."
+            },
+            "c": {
+                "A1": "(8, 38.4) or exact equivalent for 38.4",
+                "M1": "Valid attempt to solve their equations to find at least one non-zero solution as long as they have a cubic and quadratic equated. E.g. 1.2(x-4) = 0.3(x-4)^2 => x = 4 + 1.2 / 0.3 . Alternatively could may expand, factor out the x and solve the quadratic (allowing for slips), or even expand to 5 cubics (allowing slips) and solve via calculator (may need to check, and you may ignore \u201cincorrect factorisation\u201d if the answers are correct for their equation).",
+                "B1ft": "Sets their 1.2x(x-4) = 0.3x(x-4)^2 . It is for a \u201ccorrect\u201d ft equation on their constants, but the form (quadratic = cubic) must be correct."
+            }
+        },
+        {
+            "a": {
+                "A1": "Perimeter = 5 + 5 + 6 = 16 (km)",
+                "M1": "Attempts r\u03b8 = 5 x 1.2"
+            },
+            "b": {
+                "A1*": "Area AOP = 15/2 = 7.5 km^2",
+                "M1": "Attempts 1/2 r^2 \u03b8 = 1/2 x 5^2 x 1.2"
+            },
+            "c": {
+                "A1": "AP = 4.7km or 4700m",
+                "M1": "AP^2 = 5^2 + \"1.6...\"^2 - 2 x 5 x \"1.6...\" x cos 1.2"
+            }
+        },
+        {
+            "a": {
+                "A1": "Fully correct",
+                "B1": "Correct equation of vertical asymptote and y intercept",
+                "M1": "Correct shape for a 1/x type graph. Look for"
+            },
+            "b": {
+                "A1": "k < 1, k > 4 Accept with \u201cand\u201d or \u201cor\u201d used. Accept interval notation",
+                "A1*": "Achieves the given answer of k^2 - 5k + 4 ... 0 with no errors and sufficient working shown \u2013 the bracket should be expanded before the final answer is reached. A0 if x used in place of k.",
+                "dM1": "Attempts use b^2 - 4ac ... 0 => (-4 - 2k)^2 - 4k x 9 ... 0 with their coefficients to set up a quadratic inequality in k. Must be the correct direction of inequality but allow > or ... . Use of b^2 - 4ac = 0 will score dM0 unless clearly recovered before stating that answer.",
+                "M1": "Solves to find the critical values \u2013 may be implied by sight of 1 and 4 used in their answer but must have two values from a valid attempt to solve. Allow from attempts at their \u201cb^2 - 4ac\u201d...0 with any inequality or equality."
+            }
+        },
+        {
+            "a": {
+                "B1": "Q = (3\u03c0/2, 0)"
+            },
+            "b": {
+                "A1": "Condone/allow one of (360\u00b0, 3) and condone for the M if the coordinates are given in the wrong order.",
+                "B1": "k = 7",
+                "M1": "(2\u03c0, 3) or follow through on the negative of their x coordinate of P or their -4 + their k"
+            },
+            "c": {
+                "A1": "Correct line drawn (intersecting at graph on the x axis) with correct deduction (one root) and reason (intersects only once).",
+                "M1": "Draws a line with negative gradient passing through (0, 5) and cutting the graph at least once, with a consistent number of solutions for their sketch stated."
+            }
+        },
+        {
+            "a": {
+                "A1*": "Shown that k = -5 with at least one correct equation with simplified terms (sat necessarily all gathered) and no incorrect work shown before stating the printed answer. By verification all steps must be correct with conclusion given.",
+                "B1": "States or implies that gradient of tangent is 24",
+                "M1": "Attempts to solve f'(3) = 24 to find k. E.g. 4 x 3^3 + k x 3 + 3 = 24 => k = ..."
+            },
+            "b": {
+                "A1": "f(x) = 4/3 x^3 - 5/2 x^2 + 3x - 141/8 Accept with y=\u2026 instead of f(x), or even with no label at all.",
+                "M1": "Integrates to form px^3 - qx^2 + rx + c, with at least p,q \u2260 0 with no requirement for + c. Allow with k used in place of -5 for this mark.",
+                "dM1": "Substitutes x = 3, y = -5/24 into y = f(x) and finds a value for \u201cc\u201d. Must have had a constant of integration."
+            }
+        },
+        {
+            "d": {
+                "B1": "(-4, 336)"
+            },
+            "a": {
+                "B1": "x > -5"
+            },
+            "b": {
+                "A1": "f'(x) = 9x^2 + 22x",
+                "M1": "f'(x) = 9x^2 + 22x"
+            },
+            "c": {
+                "ddM1": "9x^2 + 22x - 56 = 0 => x = 14/9 (-4)",
+                "A1": "x = 14/9",
+                "M1": "f'(-4) = 9x(-4)^2 + 22x - 4 = (56)",
+                "dM1": "Sets f'(x) = \"9x^2 + 22x\" = \"56\""
+            }
+        }
+    ],
+    "P2_January 2020 MS": [
+        {
+            "a": {
+                "B1": "(0,3)"
+            },
+            "b": {
+                "ddM1": "=> x = log10 24 A1*",
+                "A1": "log10 2",
+                "M1": "Alt Method: 6^(1-x) = 3x4^x => 6/6^x = 3x4^x",
+                "dM1": "6/3 = 6^x4^x => 2 = 24^x"
+            }
+        },
+        {
+            "a": {
+                "A1": "x = 1/2 dy/dx = 0 => 12(1/2)^2 - 9 - 4k => -6 = k => k = -3/2",
+                "M1": "y = 4x^2 - 9x + k/x => dy/dx = 12x^2 - 9 - k/x^2"
+            },
+            "b": {
+                "A1": "d^2y/dx^2 = -12 < 0 (Local) Maximum",
+                "M1": "Attempts d^2y/dx^2 = 24x - 3/x^2 at x = 1/2"
+            },
+            "c": {
+                "A1": "x = +-\u221a2/2 but must be positive solution only. Ignore the x = -\u221a2/2 but A0 if others given.",
+                "M1": "12x^2 - 9 + k/x^2 = 0 => 24x^4 - 18x^2 + 3 = 0",
+                "dM1": "=> x^2 = 1/2 => x = +-\u221a2/2 oe"
+            }
+        },
+        {
+            "a": {
+                "A1": "a = +-\u221a2 must be exact. Accept \u221a4 oe",
+                "M1": "For correct term ^7C_3(ax)^4",
+                "dM1": "a^4 = 4 => a = +-\u221a2"
+            },
+            "b": {
+                "A1": "17 Allow recovery to 17 from use of decimals but 17.0 is A0.",
+                "M1": "For identifying two terms independent of x. Allow if the power of 3 is incorrect but it is clear the correct terms are meant, so x constant term from (3+ax)^6 and a^6x^6 x^6 = a^6 extracted."
+            }
+        },
+        {
+            "a": {
+                "A1*": "=> (2x+3) is a factor",
+                "M1": "Attempts f(-3/2) = 6(-3/2)^3 + 17(-3/2)^2 + 4(-3/2) - 12"
+            },
+            "b": {
+                "A1": "(2x+3)(3x - 2)(x+2) written out as a product of factors (not as a list) and isw.",
+                "M1": "6x^3 + 17x^2 + 4x - 12 = (2x+3)(3x^2 + kx + 4)",
+                "dM1": "Attempts to factorise their (3x^2 + 4x - 4) usual rules."
+            },
+            "c": {
+                "A1": "\u03b8 = awrt 2.03, 2.16",
+                "M1": "Solves tan \u03b8 = 2/3 or -2 or \"x\""
+            }
+        },
+        {
+            "a": {
+                "A1": "29/3\u221a5 or exact (single term) equivalent and can be rewarded from a negative made positive",
+                "B1": "Achieves a limit of \u221a5",
+                "M1": "Area = \u222b\u221a5_0 (2x^2 + 7x) dx = 2/3\u221a5^3 + 7\u221a5. This is for applying the limits of 0 and their \u221a5 (must be an x value) to the integral which must be a changed function. The application of the 0 may be implied. Can be scored if the integration is not considered. May be awarded on decimals correct to 1d.p. (allow if found by calculator (23.1))."
+            }
+        },
+        {
+            "a": {
+                "A1": "r^3 = 17/15 => r = 1.0426 Hence p = 4.26",
+                "A1ft": "p = 4.26 or follow through on a correct percentage to 2 d.p. for their r if the method has been earned (usually 6.46). Note it must be 2d.p. for this mark.",
+                "M1": "Attempts 30000xr^3 = 34000"
+            },
+            "b": {
+                "A1": "N = 22",
+                "M1": "Takes logs \"N\" = log(5/2) / log(1.0426) = ( = awrt 21.96)"
+            }
+        },
+        {
+            "a": {
+                "A1": "Radius \u221a27 or 3\u221a3",
+                "M1": "Attempts x^2 + y^2 + 6x - 4y - 14 = 0 => (x+3)^2 + (y+2)^2 ....(=0)"
+            },
+            "b": {
+                "A1": "Both k = 2+3\u221a3 and k = 2-3\u221a3",
+                "M1": "Attempts y/k = \"2\" + \"3\u221a3\""
+            },
+            "c": {
+                "A1": "p = 2 - \u221a23 (oe)",
+                "M1": "Attempts Pythagoras to find h",
+                "dM1": "Attempts p = 2 - \"h\""
+            }
+        },
+        {
+            "a": {
+                "A1*": "3sin^2 \u03b8 + 8sin \u03b8 - 3 = 0 *",
+                "M1": "Uses cos^2 \u03b8 = 1 - sin^2 \u03b8 => 8sin \u03b8 = 3(1 - sin^2 \u03b8)"
+            },
+            "b": {
+                "A1": "x = awrt 9.74\u00b0, 80.26\u00b0",
+                "M1": "(3sin 2x - 1)(sin2x + 3) (=0)",
+                "dM1": "Correct method to find x from their sin 2x = 1/3"
+            }
+        },
+        {
+            "i": {
+                "A1*": "2S = n{2a + (n-1)d} => S = n/2{2a + (n-1)d} *",
+                "B1": "States (S =) a + (a+d) + .....................+{a + (n-2)d} +{a +(n-1)d}",
+                "M1": "(S =) {a + (n-1)d} +{a +(n-2)d} + .....................(a+d) + a and adds"
+            },
+            "ii": {
+                "A1": "8847",
+                "B1": "For \u22113(-1)^n = -3",
+                "M1": "\u2211u_n = 59/2{10 + 58x5} + (-3 + -3 + -3...)"
+            }
+        },
+        {
+            "a": {
+                "B1": "(0,3)"
+            },
+            "b": {
+                "ddM1": "=> x = log10 24 A1*",
+                "A1": "log10 2",
+                "M1": "Alt Method: 6^(1-x) = 3x4^x => 6/6^x = 3x4^x",
+                "dM1": "6/3 = 6^x4^x => 2 = 24^x"
+            }
+        }
+    ],
+    "P2_January 2021 MS": [
+        {
+            "a": {
+                "A1*": "rearranges the equation with no errors and achieves the given answer with at least one intermediate line with line with perfect square.",
+                "M1": "Attempts to substitute -1 into f(x) and set equal to 4 to obtain an equation in a and b."
+            },
+            "b": {
+                "A1": "a = -5, b = 4 cao",
+                "M1": "Attempts to substitute +2 into f(x) and set equal to +23 to obtain an equation in a and b.",
+                "dM1": "Attempts to solve simultaneously and achieves a value for a or b. It is dependent on the previous method mark."
+            }
+        },
+        {
+            "a": {
+                "A1": "Week 5 Sunday run = 23 (km)",
+                "M1": "u_5 = 15 + 4 * \"2\" = ..."
+            },
+            "b": {
+                "A1": "Week 5 Sunday run = awrt 20.8 (km)",
+                "M1": "u_5 = 15 * \"1.0855\"^4 = ..."
+            },
+            "c": {
+                "A1": "Either Training model A: x <= 4 km, training model B: x <= 5.4... km with <= or <",
+                "A1cso": "Training model A: x = 4 km, Training model B: x = 5 km",
+                "dM1": "Difference = (360-312)/12 or (360-294.185...)/12",
+                "M1": "S_12 = 15(1-\"1.08554\"^12) / 1-\"1.08554\" (=294.185...)"
+            }
+        },
+        {
+            "a": {
+                "A1": "(dy/dx) = 3x^2 - 2x - 16",
+                "M1": "Differentiates to achieve (dy/dx) = Ax^2 + Bx + C where A, B, C != 0"
+            },
+            "b": {
+                "A1": "Correct second derivative, correct values (need not be simplified but if simplified values seen they must be correct) for x = 8/3, x = -2 and draws a correct conclusion with reason (>0 or <0, positive or negative) for both.",
+                "M1": "Attempts to differentiate their (dy/dx) to achieve (d^2y/dx^2) = Cx + D where C, D != 0. Allow if found in part (a)",
+                "dM1": "Substitutes in one of their x values for part (a) into their (d^2y/dx^2) and draws a consistent conclusion with value found."
+            }
+        },
+        {
+            "i": {
+                "A1": "x = log_7 (3/49)",
+                "M1": "Applies the addition law to write the equation in the form 7^(x+2) = 3."
+            },
+            "ii": {
+                "ddM1": "Attempts to solve their quadratic. Usual rules apply. It is dependent on them achieving a 3TQ and both previous method marks.",
+                "A1": "y = 1/2 only (accept decimal equivalent).",
+                "M1": "Correctly applies the addition or subtraction law of logs at least once to combine two terms at some stage in their working (may be on incorrect terms) or correctly replaces 1 with log_2 2 at some point (oe).",
+                "dM1": "Attempts to rearrange the equation to the form log_(...) = C or log_(...) = log_(...) with no incorrect log work and removes the logs correctly."
+            }
+        },
+        {
+            "a": {
+                "A1": "+192px and +240p^2x^2 correct x and x^2 terms, may be as part of a list. Accept with (px)^2",
+                "B1": "Sight of 2^6 or 64 as the first term or extracted from the bracket.",
+                "M1": "Attempts to expand using the binomial theorem in an attempt to find term 2 and term 3."
+            },
+            "b": {
+                "ddM1": "Attempts to solve a 3TQ in p. Usual rules apply for solving a quadratic but it is dependent on the previous two method marks.",
+                "A1": "(p=) 1/8 or 1/120 Accept decimal equivalents, 0.125 and awrt 0.00833",
+                "M1": "Identifies the two x^2 terms either separately or may be seen as part of a full expansion - look for two x^2 terms in their expansion.",
+                "dM1": "A complete method to find the term in x^2 and set the coefficient equal to -3/4 to obtain an equation in p. The correct two terms in x^2 for their expansion in (a) must have been identified. It is dependent on the previous method mark."
+            }
+        },
+        {
+            "i": {
+                "A1*": "Rearranges correctly to the given result.",
+                "M1": "Squares to achieve 3 terms."
+            },
+            "ii": {
+                "B1": "Provides a correct counter example, such as 5 + 7 + 11 = 23, or 11 + 13 + 17 = 41, and gives a conclusion."
+            }
+        },
+        {
+            "a": {
+                "A1*": "Achieves the given answer with no errors including brackets, and no consistent incorrect notation (allow if just one instance occurs).",
+                "M1": "Uses the identity cos^2(theta) = 1 - sin^2(theta) to form an equation in sin(theta) only."
+            },
+            "b": {
+                "A1": "(x=) awrt 0.365 (isw after a correct value) and no additional solutions in the range other than 0. Must have gained the M mark.",
+                "B1": "x = 0 identified as an answer. Must be x. May be scored with no working seen. Condone x = 0.000.",
+                "M1": "Attempts to solve the cubic (allow with their cubic if incorrect) by taking out a factor of sin 2x or cancelling and attempts to solve the quadratic. Usual rules for solving a quadratic."
+            }
+        },
+        {
+            "a": {
+                "B1": "(t = 11.5, P=) 2.821"
+            },
+            "b": {
+                "A1": "cao 4.61",
+                "A1ft": "For the correct bracket [....] following through their values in (a).",
+                "B1": "h = 0.5",
+                "M1": "E = (1/2 * h) * [\"1.2\" + 2.95 + 2(1.882 + 2.45 + \"2.821\")]"
+            }
+        },
+        {
+            "a": {
+                "B1": "(a_2 =) 2p^2 - 7"
+            },
+            "b": {
+                "A1": "Identifies both -7 and 1/2 as the possible values for a_2 and no others.",
+                "M1": "Attempts to add their first 3 terms and equate to p + 15. It is not dependent, and the attempts at the three terms may be poor, as long as they are attempting to add three terms.",
+                "dM1": "Attempts to find at least one value for a_2 using a value for p which has come from an attempt (however poor) at solving their equation. Must be using their formula from part (a). Depends on the second M mark."
+            }
+        },
+        {
+            "a": {
+                "i": {
+                    "B1": "Centre = (k, 2k)"
+                },
+                "ii": {
+                    "B1": "Radius = sqrt(k+7)"
+                }
+            },
+            "b": {
+                "i": {
+                    "M1": "(2-k)^2 + (3-2k)^2 = k+7 => 4 - 4k + k^2 + 9 - 12k + 4k^2 = k+7",
+                    "A1*": "5k^2 - 17k + 6 = 0 *"
+                },
+                "ii": {
+                    "B1": "(k=) 2/5, 3"
+                }
+            },
+            "c": {
+                "A1": "147/16 oe",
+                "M1": "y - 3 = -11/8 (x-2) => sets y = 0 => x = ...",
+                "B1ft": "Centre is (2/5, 4/5)",
+                "dM1": "Correct method to find the area of the triangle. It is dependent on the previous method mark."
+            }
+        }
+    ],
+    "P2_January 2023 MS": [
+        {
+            "b (only section 'b' on the page)": {
+                "A1ft": "6.52",
+                "M1": "A = \"10.52\" - 4"
+            },
+            "b(ii)": {
+                "B1ft": "A = \"10.52\""
+            },
+            "a": {
+                "A1": "awrt 10.52",
+                "B1": "h = 0.5",
+                "M1": "A ~ 1/2 * 1/2 {2.287 + 2.834 + 2(4.470 + 6.719 + 7.291)}"
+            }
+        },
+        {
+            "a": {
+                "A1": "Hence 2n^2 + n + 1 is not divisible by 3",
+                "M1": "Considers another relevant case for n e.g. n = 3k - 1 or 3k + 1 or 3k + 2",
+                "dM1": "Considers a third relevant case to complete the 3 cases for n e.g. one of n = 3k - 1 or 3k + 1 or 3k + 2"
+            }
+        },
+        {
+            "b (only section 'b' on the page)": {
+                "B1": "dS/dx = 12x - 2592/x^2"
+            },
+            "e": {
+                "B1": "S = 6(6)^2 + 2592/6 = 648 (cm^2)"
+            },
+            "a": {
+                "A1*": "S = 6x^2 + 2592/x",
+                "B1": "eg V = 3x^2h = 972 => h = 972/3x^2 or eg h = 324/x^2 => (S = ) 6x^2 + 8x(972/3x^2) or => (S = ) 6x^2 + 8(324/x^2)",
+                "M1": "S = 6x^2 + 2592/x"
+            },
+            "d (only section 'd' on the page)": {
+                "B1": "d^2S/dx^2 > 0 when x = 6 so minimum",
+                "B1ft": "d^2S/dx^2 = 12 + 5184/x^3"
+            },
+            "c (only section 'c' on the page)": {
+                "A1": "x = 6",
+                "M1": "12x - 2592/x^2 = 0 => 12x^3 = 2592"
+            }
+        },
+        {
+            "b (only section 'b' on the page)": {
+                "A1": "k = 16/5",
+                "M1": "35/32 k^2 = 21/2 k^2 - 56k",
+                "dM1": "5k^2 - 96k + 256 = 0 => k = ..."
+            },
+            "a": {
+                "A1": "128 + 56kx + 21/2 k^2x^2 + 35/32 k^3x^3 + ...",
+                "B1": "128 + 56kx + 21/2 k^2x^2 + 35/32 k^3x^3 + ...",
+                "M1": "(2 + kx/8)^7 = 2^7 + (7 choose 1)2^6(kx/8) + (7 choose 2)2^5(kx/8)^2 + (7 choose 3)2^4(kx/8)^3 + ..."
+            }
+        },
+        {
+            "i": {
+                "A1": "x = 7/31",
+                "M1": "Eg 2 = log_a 9, or log_a (4x) - log_a (5x+7) = log_a 4x/5x+7"
+            },
+            "ii": {
+                "A1": "y = a^2",
+                "B1": "For either (or both) summation correct log_a y + log_a y^2 or log_a {y.y^2} or equivalent",
+                "M1": "log_a y + log_a y^2 = log_a y + (log_a y)^2 => 2log_a y - (log_a y)^2 = 0"
+            }
+        },
+        {
+            "b (only section 'b' on the page)": {
+                "A1*": "eg -p^3 + p^3 + 3p^2 + p + q = 9 => 3p^2 + p + q = 9 = 0*",
+                "M1": "(-p)^3 + (p+3)(-p)^2 - (-p) + q = 9"
+            },
+            "a": {
+                "A1*": "eg => 27 + 9p + 27 - 3 + q = 0 => 9p + q = -51*",
+                "M1": "eg => 27 + 9p + 27 - 3 + q = 0 => 9p + q = -51*"
+            },
+            "d (only section 'd' on the page)": {
+                "A1": "g(x) = x^2 + 12x + 35",
+                "M1": "f(x) = (x-3)(x^2 + 12x + 35)"
+            },
+            "c (only section 'c' on the page)": {
+                "A1": "q = -105",
+                "M1": "3p^2 + p + q - 9 = 0 => 3p^2 - 8p - 60 = 0"
+            }
+        },
+        {
+            "b (only section 'b' on the page)": {
+                "A1": "y = 2x + 10",
+                "M1": "Uses both equations to eliminate one variable. Condone slips in substituting in. Also allow use of the equation of the circle in the form (x - a)^2 + (y - b)^2 = r^2 oe allowing for slips in manipulation"
+            },
+            "a": {
+                "i": {
+                    "B1": "Centre is (-4, 2)"
+                },
+                "ii": {
+                    "M1": "x^2 + y^2 + 8x - 4y = 0 => (x+4)^2 + (y-2)^2 - 16 - 4 = 0 => r = ...",
+                    "A1ft": "r = 2sqrt5 oe"
+                }
+            },
+            "c (only section 'c' on the page)": {
+                "A1": "(-6, -2)",
+                "M1": "x + 2y + 10 = 0 => m_t = -1/2 => m_n = 2 or m_n = -4 - (-6)/2 - (-6)",
+                "dM1": "Usually either y - 2 = 2(x + 4) or y + 2 = 2(x + 6)"
+            }
+        },
+        {
+            "b (only section 'b' on the page)": {
+                "A1": "31.25",
+                "M1": "a = 20/0.8^2"
+            },
+            "a": {
+                "B1*": "r = sqrt20/5 = 0.8*"
+            },
+            "c (only section 'c' on the page)": {
+                "A1": "n = 29",
+                "M1": "0.8^n < 0.0016 => n > log(0.0016)/log(0.8)",
+                "dM1": "Eg 1 - 0.8^n > 0.9984 => 0.8^n < 0.0016"
+            }
+        },
+        {
+            "i": {
+                "A1": "x = -0.94, -0.17, 1.15, 1.92",
+                "M1": "5sin(3x + 0.1) + 2 = 0 => 5sin(3x + 0.1) = -2",
+                "dM1": "sin(3x + 0.1) = -2/5 => 3x + 0.1 = sin^-1(-2/5)"
+            },
+            "ii": {
+                "A1": "(theta) = 70.5, 289.5",
+                "M1": "cos(theta) = 1/3, -2"
+            }
+        },
+        {
+            "b (only section 'b' on the page)": {
+                "A1": "x = 1, x = 3",
+                "M1": "x^2 - 4x + 5 = 2 => x^2 - 4x + 3 = 0"
+            },
+            "a": {
+                "B1": "(0, 5)"
+            },
+            "c (only section 'c' on the page)": {
+                "A1": "Area of R_2 = 8/3",
+                "M1": "Area R_2 = 1/2 * 3 * 3 - 4/3 = 19/6"
+            }
+        }
+    ],
+    "P2_January 2024 MS": [
+        {
+            "a": {
+                "M1A1": "Solves a linear equation in a arising from setting f(+2) = +3. Condone slips in their rearrangement proceeding to a=...",
+                "A1": "a = 5/8 or exact equivalent",
+                "M1": "Attempts to set f(2) = 3. The values embedded and the expression set equal to 3 is sufficient."
+            }
+        },
+        {
+            "a": {
+                "M1, A1": "dy/dx = x - 2187x^-5/6",
+                "dM1A1*": "Sets x - 2187x^-5/6 = 0 => x^1/6 = 2187 (or e.g. x = (\u221a2187)^6) => x = 9"
+            },
+            "b": {
+                "A1": "= 124 1/3",
+                "M1A1ft": "\u222b1/2^1 x + 1458x^-1/6 - 74 dx = 1/6x^2 - 2916x^5/6 - 74x",
+                "B1": "y value at P is 20.5",
+                "dM1": "e.g. Area R = \u222b1/2^1 1/6x^2 - 2916x^5/6 - 74x - (9-4) * \"20.5\""
+            }
+        },
+        {
+            "a": {
+                "M1 A1": "Term in x^7 is 12C5(3/8)^5(4x)^7 or coefficient of x^7 is 12C5(3/8)^5 4^7",
+                "A1": "Coefficient is 96228"
+            }
+        },
+        {
+            "a": {
+                "A1": "(x-3)^2 + (y-5)^2 = 169",
+                "M1": "Writes (x-3)^2 + (y-5)^2 = k"
+            },
+            "b": {
+                "A1": "y = 14",
+                "M1": "Attempts d^2 + (2\u221a22)^2 = 169 => d = ...",
+                "dM1": "States or uses (y-7) = 5 + d"
+            }
+        },
+        {
+            "c (ii)": {
+                "B1ft": "\u222b1_-4 (3/x^2 + 4) dx + \u222b0.5_1 (3/x^2 + 4) dx = awrt 138"
+            },
+            "c (i)": {
+                "M1, A1ft": "\u222b0.5_-4 (3/x^2) dx = 69 - 4x(8.5 - -4) = awrt 19"
+            },
+            "a": {
+                "B1": "Correct equation for asymptote"
+            },
+            "b": {
+                "M1 A1": "\u222b0.5_-4 (3/x^2 + 4) dx = 2.5/2 {13 + 4.009 + 2(6.280 + 4.577 + 4.146 + 4.037)} = 58.86125(= awrt 69)",
+                "B1": "Strip width = 2.5"
+            }
+        },
+        {
+            "i": {
+                "M1 A1": "S\u221e = 1.5 / 1-0.25",
+                "B1": "r = 0.25"
+            },
+            "ii": {
+                "a": {
+                    "A1": "{u_n} = {3, 3/2, 0, u_3 = 3/2, ... u_n = 3, ... and e.g. states that u_n = u_n so sequence will repeat (is periodic)",
+                    "M1": "{u_n} = {3, 3/2, 0, u_3 = 3/2, ... u_n = 3, ..."
+                },
+                "b": {
+                    "A1": "(Order) 3"
+                },
+                "c": {
+                    "M1, A1": "\u221120_n=1 u_n = 23x 3/2 + 3 + 0 = 106.5"
+                }
+            }
+        },
+        {
+            "b (i)": {
+                "M1": "x^3 + 6x^2 + x - 4 = (x+1)(x^2 + 5x - 4)",
+                "dM1 A1": "-5 +- \u221a41 / 2 => x = -5 +- \u221a41 / 2"
+            },
+            "b (ii)": {
+                "B1": "x = -5 + \u221a41 / 2"
+            },
+            "a": {
+                "A1": "e.g. x(x+3)^2 = (4x+2)",
+                "A1*": "e.g. x(x^2 + 6x + 9) = 8x + 4 => x^3 + 6x^2 + x - 4 = 0 *",
+                "B1": "2log4(x+3) = log4(x+3)^2 or 1/2log4 o.e",
+                "M1": "Combines two terms e.g. 2log4(x+3) + log4x = log4x(x+3)^2"
+            }
+        },
+        {
+            "a": {
+                "A1": "Wheat production in year 4 is awrt 1310 (to the nearest 10) (tonnes)",
+                "M1": "Uses 300 + 3*d"
+            },
+            "b": {
+                "A1": "Wheat production in year 2 is awrt 380 (to the nearest 10) (tonnes)",
+                "M1": "Finds r^(1.266...) and MULTIPLIES this by 300"
+            },
+            "c": {
+                "A1": "Difference = 7860 but allow 7870 (tonnes). (not AWRT)",
+                "M1": "Attempts 12/2 (300 + 4000) or 12/2 (300 + 4000)",
+                "dM1": "Finds 12/2 (300 + 4000) - 300(1.266^12 - 1) / 1.266 - 1 = (25800 - 17935)"
+            }
+        },
+        {
+            "i": {
+                "A1": "Correct calculation for that value e.g. n^2 + 3n + 1 = 55 And conclusion \"which is not prime\"",
+                "M1": "Substitutes a value e.g. n = 6 into n^2 + 3n + 1 where n^2 + 3n + 1 is not prime"
+            },
+            "ii": {
+                "A1": "Achieves either (2p + 1)^2 - 2 = 4p^2 + 4p - 1 or (2p)^2 - 2 = 4p^2 - 2 and shows or gives a reason why the expression is not a multiple of 4 where required (see notes)",
+                "A1*": "Achieves both (2p + 1)^2 - 2 = 4p^2 + 4p - 1 and (2p)^2 - 2 = 4p^2 - 2 and shows or gives reasons why these are not multiples of 4 where required (see notes) With a conclusion that they are not multiples of 4. *",
+                "dM1": "Attempts to find n^2 - 2 for both odds and evens (See above)",
+                "M1": "Attempts to find n^2 - 2 for either odds or evens E.g Attempts (2p + 1)^2 - 2 or (2p)^2 - 2"
+            }
+        },
+        {
+            "i": {
+                "M1A1": "sin x tan x = 5 => sin^2 x = 5 cos x => 1 - cos^2 x = 5 cos x",
+                "B1": "States or uses tan x = sin x / cos x",
+                "dM1dM1A1": "cos^2 x + 5 cos x - 1 = 0 => cos x = -5 +- \u221a29 / 2 => x = awrt 78.9\u00b0, 281.1\u00b0"
+            },
+            "ii": {
+                "a": {
+                    "B1": "A = 5"
+                },
+                "b": {
+                    "A1": "\u03b8 = 15\u03c0/16",
+                    "M1": "2\u03b8 - 3\u03c0/8 = \u03c0/2 => \u03b8 = ...",
+                    "B1ft": "y coordinate Q = -3 (or 2 - \"A\")"
+                },
+                "c": {
+                    "A1": "\u03b8 = awrt 5.51",
+                    "M1": "Sets 0 = \"5\"sin(2\u03b8 - 3\u03c0/8) + 2 => sin(2\u03b8 - 3\u03c0/8) = +- \"2/5\"",
+                    "dM1": "2\u03b8 - 3\u03c0/8 = arcsin(+- 2/5) => ..."
+                }
+            }
+        }
+    ],
+    "P2_June 2019 MS": [
+        {
+            "a": {
+                "B1": "a_107 = 3"
+            },
+            "b": {
+                "A1": "= 600",
+                "M1": "sum(2a_i - 1) = 5 + 1 + 5 + 1 + ... + 5 = 100 x (5 + 1)"
+            }
+        },
+        {
+            "a": {
+                "A1": "Achieves x >= sqrt(36) or x >= 6",
+                "M1": "f'(x) = 72/x + 2",
+                "dM1": "Attempts to solve f'(x) = 0"
+            },
+            "b": {
+                "A1": "36/x + 2x - 13 dx = 36ln(x) + x^2 - 13x (+c)",
+                "A1*": "Completely correct integration with either embedded values seen or calculated values",
+                "dM1": "Uses limits 9 and 2",
+                "M1": "36/x + 2x - 13 dx = 36ln(x) + x^2 - 13x (+c)"
+            },
+            "c": {
+                "i": {
+                    "B1": "For sight of 8"
+                },
+                "ii": {
+                    "A1": "k = -11",
+                    "M1": "This may be awarded in a variety of ways"
+                }
+            }
+        },
+        {
+            "a": {
+                "A1": "Rearranges to reach x^2 - 8x - 16 >= 2x - 9",
+                "A1*": "Reaches the given answer (x-4)^2 >= 2x - 9 with no errors",
+                "M1": "States (x-5)^2 >= 0 and attempts to expand"
+            },
+            "b": {
+                "B1": "Shows that it is not true for a value of n"
+            }
+        },
+        {
+            "a": {
+                "A1": "For all four terms 64 - 48x + 15x^2 - 2.5x^3 ignoring terms with greater powers",
+                "B1": "For either 2^6 or 64",
+                "M1": "For an attempt at the binomial expansion"
+            },
+            "b": {
+                "A1": "Allow a = 128, b = 30 following correct work",
+                "M1": "For adding two sequences that must be of the correct form with the correct signs",
+                "B1ft": "For one correct term (follow through)"
+            }
+        },
+        {
+            "a": {
+                "A1": "P = 136000",
+                "M1": "Substitutes their solution for dP/dx = 0 into P and attempts to find the value of P",
+                "dM1": "Sets their dP/dx = 0 and proceeds to x^k = k, k > 0"
+            },
+            "b": {
+                "A1": "Achieves x = 64, d^2P/dx^2 = -3/4 x^(-3/2) and states d^2P/dx^2 < 0 (at x = 64) then the profit is maximised",
+                "M1": "Achieves d^2P/dx^2 = kx^2 and attempts to find its value at x = \"64\""
+            }
+        },
+        {
+            "a": {
+                "A1*": "Completes proof with at least one intermediate \"solvable\" line namely 27k = 243 -> k = 9 or 27k - 243 = 0 -> k = 9",
+                "M1": "Sets f(3) = 0 -> equation in k"
+            },
+            "b": {
+                "A1": "Accept 9(x-3)(x+2/3)^2 oe",
+                "M1": "Attempt to divide or factorise out (x-3)",
+                "dM1": "Attempt at factorising their 9x^2 + 12x + 4"
+            },
+            "c": {
+                "A1": "CSO theta = 131.8, 228.2 with no additional solutions within the range 0 <= theta <= 360",
+                "M1": "A correct attempt to find one value of theta in the given range for their cos(theta) = -2/3"
+            }
+        },
+        {
+            "a": {
+                "A1": "Year 2 salary is (\u00a3)17900",
+                "M1": "For 16200 + their d (= 1700) where d has been found by an allowable method"
+            },
+            "b": {
+                "A1": "Year 2 salary in the range 17440 <= S <= 17450",
+                "M1": "For 16200 x their r (= 1.077) where r has been found by an allowable method"
+            },
+            "c": {
+                "A1": "Difference = 7480 cao",
+                "M1": "Attempts 10/2(16200 + 31500) or 16200(1.077^10 - 1)/(1.077 - 1)",
+                "dM1": "Finds +- 10/2(16200 + 31500) - 16200(1.077^10 - 1)/(1.077 - 1)"
+            }
+        },
+        {
+            "i": {
+                "A1": "=> x = log_2 3 / 3",
+                "M1": "2x+1 = log_2 6 / log_2 8"
+            },
+            "ii": {
+                "ddM1": "y^2 + 12y - 34 = 0 -> y =",
+                "A1": "y = -6 + sqrt(70) oe only",
+                "M1": "log_5 (7-2y) - log_5 (y+1) = 1 -> log_5 (7-2y)/(y+1) = 1",
+                "dM1": "log_5 (7-2y)/(y+1) = 1 -> (7-2y)/(y+1) = 5"
+            }
+        },
+        {
+            "a": {
+                "A1": "cos(theta) - 1 = 4sin^2(theta)/cos(theta) oe",
+                "A1*": "5cos^2(theta) - cos(theta) - 4 = 0",
+                "M1": "Uses sin^2(theta) = 1 - cos^2(theta) -> cos^2(theta) - cos(theta) = 4(1 - cos^2(theta)) oe"
+            },
+            "b": {
+                "A1": "x = 0, 1.25",
+                "M1": "(5cos(2x) + 4)(cos(2x) - 1) = 0",
+                "dM1": "Correct method to find x from their cos(2x) = -4/5"
+            }
+        }
+    ],
+    "P2_June 2021 MS": [
+        {
+            "a": {
+                "A1": "($u_n$) = 5 + 0.25(n-1) oe",
+                "B1": "There is a common difference (no common ratio) and so an arithmetic series should be used.",
+                "M1": "($u_n$) = 5 + (n-1)*0.25\" or \"($u_n$) = 5 + n*d\""
+            },
+            "b": {
+                "M1A1": "$\\Rightarrow 0.25n^2 + 9.75n \\geq 700 \\Rightarrow (n+19.5)^2 - 19.5^2 \\geq 2800 \\Rightarrow n = ...$",
+                "A1": "37 weeks.",
+                "M1": "Need $S_n = \\frac{n}{2}(2 \\times 5 + (n-1) \\times 0.25) \\geq 350$"
+            }
+        },
+        {
+            "a": {
+                "B1": "x intercept at log_6"
+            },
+            "b": {
+                "A1": "$x = log_2 3$ oe",
+                "M1": "$\\Rightarrow 2^{2x} - 2^x - 6 = 0 \\Rightarrow (2^x - 3)(2^x + 2) = 0 \\Rightarrow 2^x = ...$ or $(y-3)(y+2) = 0 \\Rightarrow y = ...$"
+            }
+        },
+        {
+            "i": {
+                "A1": "Each case gives a multiple of 10. As 2,3,5 and 7 are the only single digit primes, the result has been proved for all single digit primes.",
+                "M1": "At least three of: For p = 2: $2^2 + 2 = 8 + 2 = 10$ ; For p = 3: $3^2 + 3 = 27 + 3 = 30$ For p = 5: $5^2 + 5 = 125 + 5 = 130$ ; For p = 7: $7^2 + 7 = 343 + 7 = 350$ Each case gives a multiple of 10. As 2,3,5 and 7 are the only single digit primes, the result has been proved for all single digit primes."
+            },
+            "ii": {
+                "M1A1": "$(n+1)^3 - n^3 = n^3 + 3n^2 + 3n + 1 - n^3 = 3n^2 + 3n + 1 = 3(n^2 + n) + 1$",
+                "A1": "= 3(n^2 + n) + 1 which is one more than a multiple of 3, so is not divisible by 3 for any $n \\in N$"
+            }
+        },
+        {
+            "a": {
+                "A1A1": "$(2 + \\frac{x}{8})^{13} = (8192) + 6656x + 2496x^2 + 572x^3 + ...$",
+                "B1": "$(2 + \\frac{x}{8})^{13} = 8192 + ...$",
+                "M1": "$+ {^{13}C_1} (2)^{12} (\\frac{x}{8})^1 + {^{13}C_2} (2)^{11} (\\frac{x}{8})^2 + {^{13}C_3} (2)^{10} (\\frac{x}{8})^3 + ...$"
+            },
+            "b": {
+                "A1": "= 8883.132 cao",
+                "B1": "$\\frac{x}{8} = 0.0125 \\Rightarrow x = 0.1$",
+                "M1": "$2.0125^{13} \\approx 8192 + 665.6 + 24.96 + 0.572$"
+            },
+            "c": {
+                "B1": "As all the terms in the expansion are positive, the truncated series will give an underestimate of the actual value."
+            }
+        },
+        {
+            "a": {
+                "A1": "= awrt 12.33",
+                "B1": "$h = \\frac{1}{4}$",
+                "M1": "$A = (\\frac{1}{2} \\times \\frac{1}{4}) {5.453 + 5 + 2(7.764 + ... + 7.626)}$"
+            },
+            "b": {
+                "A1A1": "$\\int \\frac{3}{2}x^2 - 3x + 9 dx = \\frac{1}{2}x^3 - \\frac{3}{2}x^2 + 9x (+c)$",
+                "M1": "$\\int \\frac{3}{2}x^2 - 3x + 9 dx = kx^3 - \\frac{3}{2}x^2 + mx$ (at least two powers correct)"
+            },
+            "c": {
+                "A1": "= awrt 4.6",
+                "M1": "Area R = \"12.33\" - \"7.722\" = ..."
+            }
+        },
+        {
+            "a": {
+                "A1": "$\\Rightarrow k = 9$",
+                "M1": "$\\Rightarrow 6^2 - 4 \\times 1 \\times k = 0$"
+            },
+            "b": {
+                "A1": "= $3\\sqrt{7}$",
+                "B1": "$C$ intersects $x$ axis at $(3,0)$",
+                "M1": "Area $RST = \\frac{1}{2} \\times 2\\sqrt{7} \\times 3$"
+            }
+        },
+        {
+            "a": {
+                "A1*": "Expands and simplifies to the given cubic. Must see an intermediate step between the factorised sides and final answer.",
+                "M1": "$3log_3(2x-1) = log_3(2x-1)^3$ or $log_3\"3\" + log_3(14x-25) = log_3(\"3\"*(14x-25))$",
+                "dM1": "Uses correct log work to remove the logs. Allow slips, but all log work must have been correct.",
+                "B1": "$2 = log_3 9$ oe seen or implied by working"
+            },
+            "b": {
+                "A1": "$2(-4)^3 - 30(-4) + 56 = -128 + 120 + 56 = 0$ Hence -4 is a root of the equation.",
+                "M1": "$2(\\pm 4)^3 - 30(\\pm 4) + 56 = ...$"
+            },
+            "c": {
+                "A1": "Correct two solutions *only* identified. Withhold if -4 is listed as a solution.",
+                "M1": "Attempts to take a factor of $(x + 4)$ out of the cubic, or attempts long division by $x + 4$",
+                "dM1": "Depends on first M. Solves the resulting quadratic (any means)."
+            }
+        },
+        {
+            "i": {
+                "A1A1": "$\\theta = 36.8^\\circ$ or $216.8^\\circ$ (awrt)",
+                "B1": "$3sin(\\theta + 30^\\circ) = 7cos(\\theta + 30^\\circ) \\Rightarrow tan(\\theta + 30^\\circ) = \\frac{7}{3}$",
+                "M1": "$\\theta + 30^\\circ = arctan(\\frac{7}{3}) (= 66.8^\\circ)$"
+            },
+            "ii": {
+                "A1": "Both of $x = awrt -1.23, 1.23$",
+                "B1": "(b) $sin x = 0 \\Rightarrow x = 0$",
+                "M1": "$3cos x = 1 \\Rightarrow x = arccos (\\frac{1}{3}) (\\pm 1.23)$"
+            }
+        },
+        {
+            "a": {
+                "A1*": "$S = \\frac{250000}{h} + 2000\\sqrt{h}$",
+                "B1": "$V = hl^2 \\Rightarrow 250000 = hl^2$ or $l = \\sqrt{\\frac{250000}{h}}$ oe (may use e.g. $hl = \\sqrt{250000h}$ )",
+                "M1": "$S = l^2 + 4hl = \\frac{250000}{h} + 4h \\sqrt{\\frac{250000}{h}}$ or $\\frac{500}{\\sqrt{h}}$"
+            },
+            "b": {
+                "ddM1": "Depends on both M marks, attempts to solve an equation with a fractional index to find $h$",
+                "A1": "$h = 250^{\\frac{2}{3}}$ or states $k = \\frac{2}{3}$",
+                "M1": "$\\frac{dS}{dh} = -\\frac{250000}{h^2} + 2000 \\times \\frac{1}{2} h^{-\\frac{1}{2}}$ oe",
+                "dM1": "Sets derivative equal to zero and attempts to solve as far as a power of $h$ equal to something. Depends on first M"
+            },
+            "c": {
+                "A1": "$\\frac{d^2S}{dh^2} = 6 > 0$ hence gives the minimum value.",
+                "M1": "$\\frac{d^2S}{dh^2} = \\frac{500000}{h^3} - 500h^{-\\frac{3}{2}}$"
+            }
+        }
+    ],
+    "P2_June 2022 MS": [
+        {
+            "a": {
+                "A1": "...1920x + 1620x\u00b2 + 810x\u00b3",
+                "B1": "...1024+...",
+                "M1": "...+\u00b9\u2070C\u2081x...+\u00b9\u2070C\u2082x\u00b2...+\u00b9\u2070C\u2083x\u00b3+..."
+            }
+        },
+        {
+            "a": {
+                "A1*": "5x\u00b2 + (6 + 4k \u2013 26)x + k\u00b2 \u2013 10k + 34 \u2013 r\u00b2 = 0",
+                "dM1": "Expands both sets of brackets and collects terms in x\u00b2 and x.",
+                "M1": "Equation of circle is (x \u2013 3)\u00b2 + (y \u2013 5)\u00b2 = r\u00b2 and line is y = 2x + k"
+            },
+            "b": {
+                "A1": "5r\u00b2 = k\u00b2 + 2k + 1 = (k + 1)\u00b2",
+                "M1": "Tangent to C \u21d2 b\u00b2 \u2013 4ac = 0 \u21d2 (4k \u2013 26)\u00b2 \u2013 4 x 5 x (k\u00b2 \u2013 10k + 34 \u2013 r\u00b2) = 0"
+            },
+            "c": {
+                "A1": "k = 11/4",
+                "M1": "AB\u00b2 = 4r\u00b2 so AB\u00b2 + r\u00b2 = 5r\u00b2",
+                "dM1": "12k = 33 \u21d2 k = ..."
+            }
+        },
+        {
+            "a": {
+                "B1": "1.041 or awrt 1.041"
+            },
+            "b": {
+                "A1": "awrt 2.96",
+                "B1": "h = 0.5 seen or implied",
+                "M1": "Area \u2248 (0.5/2) x (1.319 + 2(\"1.075\"+\"1.001\"+\"1.041\"+1.223) + 1.850)"
+            },
+            "c": {
+                "A1ft": "Correct answer awrt 7.04, follow through their 2.96 if given to 3sf or better.",
+                "B1": "Writes 3 + log\u2081\u2080(sin(x)) correctly in terms of 1 \u2013 log\u2081\u2080(sin(x)). May be implied.",
+                "M1": "Integrates the K in K \u00b1 (1 \u2013 log\u2081\u2080(sin(x))) to Kx, K \u2260 3, substitutes in the limits 3 and 0.5 and subtracts oe e.g. 4x(3 \u2013 0.5) and uses the answer to (b)."
+            }
+        },
+        {
+            "i": {
+                "A1": "e.g. 6\u00b2 - 5\u00b2 = 91 = 7 x 13 so not true for n = 5, hence statement is not true.",
+                "M1": "E.g. n = 1 : 2\u00b9 - 1 = 1, n = 2 : 2\u00b2 - 3 = 1, n = 3 : 4\u00b2 - 3\u00b3 = ... Or identifies counterexample directly."
+            },
+            "ii": {
+                "A1": "Provides correct reason and conclusion with all previous marks scored.",
+                "M1": "Attempts to find the gradient of any relevant line, e.g. AC or BC or the length of any relevant line, e.g. AB/AB\u00b2 or BC/BC\u00b2 or AC/AC\u00b2 or the mid-point of line AB",
+                "dM1": "Full attempt at combining all relevant information required to solve the problem attempts product of gradients or equivalent attempts to show Pythagoras AB\u00b2 = AC\u00b2 + BC\u00b2 attempts to show MR = MC\u00b2"
+            }
+        },
+        {
+            "a": {
+                "A1": "a = 4 + 4\u221a5 and b = -4 + 4\u221a5 and no other solutions.",
+                "M1": "a = -4 \u00b1 4\u221a5 or b = -4 \u00b1 4\u221a5",
+                "dM1": "a\u00b2 \u2013 8a \u2013 64 = 0 or b\u00b2 + 8b \u2013 64 = 0"
+            }
+        },
+        {
+            "a": {
+                "A1": "Correct solutions and no others in the range.",
+                "M1": "Subtraction of 43 from sin\u207b\u00b9(their k). Implied by one correct solution for their k"
+            }
+        },
+        {
+            "a": {
+                "A1*": "3r\u00b2 - 4r - 4 = 0",
+                "M1": "Attempts to solve their two equations to get an equation in r. Look for an attempt to divide the two equations, or an attempt to find a in terms of r from one and substitute into the other."
+            },
+            "b": {
+                "A1ft": "u\u2081 = -27",
+                "B1": "r = 2/3",
+                "M1": "ar\u00b3 = 8 \u21d2 a = 8 / (2/3)\u00b3..."
+            },
+            "c": {
+                "A1": "S\u221e = 81/5",
+                "M1": "Uses the correct sum formula with their a and r where |r| < 1, to find the sum to infinity."
+            }
+        },
+        {
+            "a": {
+                "M1A1": "(x + 2) a factor \u21d2 f(-2) = 0 \u21d2 -8A + 24 + 8 + B = 0",
+                "A1": "A = \u00bd, B = -28",
+                "M1": "\u222bf(x)dx = A/4 x\u2074 + x\u00b3 - 2x\u00b2 + Bx",
+                "dM1": "Solves their two equations in A and B to find values for both constants. Depends on all previous M marks but allow this mark if the only error was to attempt f(2) = 0 at the beginning."
+            }
+        },
+        {
+            "a": {
+                "A1A1": "dy/dx = 4 x 256x\u00b3 - 304 - 2 x 27x\u207b\u00b3 oe e.g. 1024x\u00b3 - 304 - 54/x\u00b3",
+                "A1": "Coordinates are (\u00bd\u221a2, -241) and (-\u00bd\u221a2, -134)",
+                "M1": "Sets their derivative equal to zero and multiplies through by \"x\u00b3\" to achieve a polynomial equation.",
+                "dM1": "Proceeds to find the y coordinate for at least one value of x. Must cube root and not e.g. square root the solution from the quadratic first. The x must have come from a 2 or 3 term quadratic in x\u2076."
+            }
+        },
+        {
+            "d": {
+                "A1": "t = 2692.49... so item is 2700 years old",
+                "B1": "18 = 25 x 0.999878\u1d57",
+                "M1": "\u21d2 0.999878\u1d57 = 18/25 \u21d2 t = log(18/25) / log 0.999878 = ..."
+            },
+            "a": {
+                "A1": "Shape on positive correct, crosses 1 or 2 as intercept on the positive vertical axis and allow to extend to the left of the vertical axis as shown. Condone (1, 0) or (k, 0) as long as it is in the correct position. The curve should approach a horizontal asymptote that is half way between the horizontal axis and the intercept or below. Be tolerant with \"scribbles\" as it approaches the asymptote. May just \"touch\" the horizontal axis but not go below it. Labels not required on axes and ignore any that are given.",
+                "M1": "Correct shape from or passing through a point on positive vertical axis. May extend to the left of the vertical axis and allow to pass into quadrant 4. There must be no (obvious) turning points. Labels not required on axes and ignore any that are given."
+            },
+            "b": {
+                "A1*": "\u03bb = (\u00bd/k)\u00b9/\u2075\u2077\u2070\u2070 = 0.999878 to 6 d.p.*",
+                "M1": "\u00bd = k \u03bb\u2075\u2077\u2070\u2070 \u21d2 \u03bb\u2075\u2077\u2070\u2070 = \u00bd/k"
+            },
+            "c": {
+                "A1": "awrt 10.1 (grams)",
+                "M1": "When t = 3250, N = 15 = 0.999878\u00b3\u00b2\u2075\u2070 = ..."
+            }
+        }
+    ],
+    "P2_June 2023 MS": [
+        {
+            "a": {
+                "A1": "6.814",
+                "B1": "h = 0.2",
+                "M1": "1/2 x \"0.2\"x[9.2 + 8.6 + 2(8.4556 + 3.8512 + 5.0342 + 7.8297)]"
+            }
+        },
+        {
+            "a": {
+                "A1": "6k^2 - 84k + 409.2 = 2046/5 o.e. e.g. 6k^2 - 84k + 409.2 isw after a correct answer is seen, but withhold this mark if there is spurious notation such as integral or dx at either the start or end of the answer.",
+                "M1": "integral 16 1 (x^(3/2) - 2kx^(1/2) + k^2x^(-1/2)) dx = [2/5x^(5/2) - 4/3kx^(3/2) + 2k^2x^(1/2)] 16 1",
+                "dM1": "Substitutes in 16 and 1 for x and subtracts either way round. The values embedded are sufficient and condone invisible brackets. It is dependent on the previous method mark."
+            },
+            "b": {
+                "A1*": "k = 4 only *",
+                "M1": "9 = (1-k)^2 / sqrt(1) => 9 = (1-k)^2"
+            },
+            "c": {
+                "A1": "1683/10",
+                "B1": "q = 36",
+                "M1": "1/2(9 + \"36\") x 15 - (\"6\"(4)^2 - \"84\"(4) + 2046/5) = 1683/10"
+            }
+        },
+        {
+            "a": {
+                "B1": "u_3 = b - a(b-3a) = (-b - ab + 3a^2)"
+            },
+            "b": {
+                "M1": "3 + b - 3a + b - a(b-3a) = 153 oe",
+                "dM1*": "3 + (a+9) - 3a + (a+9) - a((a+9) - 3a) = 153 => 2a^2 - 10a - 132 = 0 => a^2 - 5a - 66 = 0 *"
+            },
+            "c": {
+                "A1": "21",
+                "B1": "a = -6",
+                "M1": "b = 9 - 6 = 3 => u_2 = 3 - 3(-6) = 21 or u_2 = 9 - 2a = 9 - 2 x -6 = 21"
+            }
+        },
+        {
+            "a": {
+                "A1*": "a = -3",
+                "M1": "f(3/2) = 4(3/2)^3 - 8(3/2)^2 + 5(3/2) + a = 0 => ..."
+            },
+            "b": {
+                "A1": "2x-3 | 4x^3 - 8x^2 + 5x - 3",
+                "M1": "Example where 2x-3 is a linear factor:",
+                "dM1": "(-1)^2 - 4 x 2 x 1 = -7 < 0 => no real roots so x = 3/2 is the only one real root *"
+            }
+        },
+        {
+            "a": {
+                "i": {
+                    "A1": "10",
+                    "M1": "r = sqrt((8-2)^2 + (-3-5)^2) = 10",
+                    "A1ft": "(x-2)^2 + (y-5)^2 = 100"
+                }
+            },
+            "b": {
+                "A1": "3x - 4y - 36 = 0",
+                "B1": "Gradient between centre and P = -4/3",
+                "M1": "y + 3 = 3/4(x-8)"
+            }
+        },
+        {
+            "bi": {
+                "A1": "B = 18D => 405p = 18 x 90p^3 => p^2 = 1/4 => p = -1/2",
+                "M1": "(B = ) 5 x 3^3 p = (405p) or (D = ) 10 x 3^3 p^3 = (90p^3)"
+            },
+            "ii": {
+                "A1": "135/2",
+                "M1": "(C = ) 10C3 x 3^3 x (-1/2)^2 = 135/2"
+            },
+            "a": {
+                "B1": "3^5 or 243"
+            }
+        },
+        {
+            "a": {
+                "A1": "x = 3/2 only",
+                "B1": "log_16x + log_16(x+1) = 3 + log_16(x+6)",
+                "dM1": "(2x-3)(x+2) = 0",
+                "M1": "log_a = b => a = b^2"
+            }
+        },
+        {
+            "a": {
+                "A1*": "k^2 - 7k - 60 = 0",
+                "M1": "k + 4 / 2k - 15 = k / k + 4 => k^2 + 8k + 16 = 2k^2 - 15k => k^2 - 7k - 60 = 0 *"
+            },
+            "b": {
+                "A1": "= 21300",
+                "B1": "k = 12",
+                "M1": "e.g. (\"12\"+4) x 4/3 = ... or (2x\"12\"-15) x (4/3)^3 = ..."
+            },
+            "c": {
+                "A1": "N > 16.405... => N = 17",
+                "M1": "9(4/3)^N - 1 / 1 - 4/3 > 3000 => (4/3)^N > 1009/9",
+                "dM1": "log(4/3)^N > log(1009/9) => N > log(1009/9) / log(4/3)"
+            }
+        },
+        {
+            "a": {
+                "A1": "dH/dt = t^2 + 3t + 5",
+                "M1": "H = 1/3t^3 + 3/2t^2 + 5t + 17 => dH/dt = t^2 + 3t + 5",
+                "dM1*": "e.g. 1/2 + 3/2 + 5 = 0 => t^2 + 3t + 5 = 0 => 5t^2 - 18t - 20 = 0 *"
+            },
+            "b": {
+                "B1": "a = 9 + sqrt(81) / 5 = awrt 4.491"
+            },
+            "c": {
+                "A1*": "dH/dt = (-0.3...) < 0 => max *",
+                "M1": "d^2H/dt^2 = -1/4t^2 + 3/8t + 3/5 => d^2H/dt^2 = (4.49)^2 + 3(4.49) + 5"
+            }
+        },
+        {
+            "i": {
+                "A1*": "Eg 7^2 + 11^2 = 170 => 170 is a multiple of 10 so the statement is untrue *",
+                "M1": "Eg 7^2 + 11^2 = 170 => 170 is a multiple of 10 so the statement is untrue *"
+            },
+            "ii": {
+                "A1": "Check first if they have multiplied the inequality e.g. by 4 to give 4 < 4x^2 - xy < 60",
+                "A1*": "Concludes that 1 < x^2 - xy/4 < 15 for all x and y that are positive even integers less than 6 *",
+                "M1": "Check first if they have multiplied the inequality e.g. by 4 to give 4 < 4x^2 - xy < 60"
+            }
+        },
+        {
+            "a": {
+                "A1*": "3(1-cos^2(theta)) + 9cos(theta) = 11 - 5cos(theta) or 3cos^2(theta) - 14cos(theta) + 8 = 0 *",
+                "dM1": "3sin^2(theta) + 9cos(theta) = 11 - 5cos(theta) or 3cos(theta)(sin(theta)/cos(theta)sin(theta) + 3) = 11 - 5cos(theta)",
+                "M1": "3cos(theta)(tan(theta)sin(theta) + 3) = 11 - 5cos(theta)"
+            },
+            "b": {
+                "A1": "x = awrt 24.1, awrt 155.9, awrt 204.1, awrt 335.9",
+                "B1": "cos2x = 2/3",
+                "M1": "x = cos^-1(2/3)"
+            }
+        }
+    ],
+    "P2_June 2024 MS": [
+        {
+            "a": {
+                "A1": "For 1 -3/2 x + x^2 -7/18 x^3 ignoring terms with greater powers. Allow as a list, allow -3/2 + x etc but the fractions must be simplified. Accept 1x^2. ISW following a correct expression (e.g. if multiply through by 2). If given as decimals they must be exact (recurring if appropriate).",
+                "M1": "For an attempt at the binomial expansion. Score for a correct attempt at any term 2, 3 or 4."
+            },
+            "b": {
+                "A1": "cao for 53/6 but condone 53/6 x and isw. Accept embedded in an expansion with other terms as long as simplified to correct single x^3 term. If given as a decimal must be exact recurring.",
+                "M1": "For attempting to find 10b+3c combined to a single term for their (10x+3)(1+ax+bx^2+cx^3)"
+            }
+        },
+        {
+            "a": {
+                "A1": "Awrt 2390",
+                "M1": "Attempts 2000 x 1.03^k or 2000 x 1.03^k. May use successive iterations (finding each year) but end up at one these in effect."
+            },
+            "b": {
+                "A1": "N = 4000 x 0.98^t Accept awrt 4000 to 2sf., awrt 0.98. Must be seen as an equation not just values of a and b but allow if the equation is seen (c) (including the N = ).",
+                "M1": "Makes progress in using the model and attempting to find one of the variables a or b^6 (or b). Allow if r is used instead of b for the M's.",
+                "dM1": "Full method to find values for a and b."
+            },
+            "c": {
+                "A1": "cao T = 13.9",
+                "M1": "Makes progress towards solving the problem by forming a single term with single power T. Follow through on their equations provided that they are of the correct form. Alternatively takes logs of both sides 2000 x 1.03^T = 4000 x 0.98^T and uses addition law and power law of logs, e.g. ln 2000 + T ln 1.03 = ln 4000 + T ln 0.98",
+                "dM1": "Full and complete attempt to find T. Dependent upon previous method but may be implied for the correct value for their a = b^T"
+            }
+        },
+        {
+            "a": {
+                "A1": "For d = 20, a = -98",
+                "B1": "Both equations correct. May be un-simplified (isw after correct equations seen).",
+                "M1": "Solves their two equations in a and d (one of which must be correct) and finds at least a or d. There may be slips, but score for any attempt that reaches a value provided at least one equation was correct and both attempted. Implied by correct answers following correct equations stated."
+            },
+            "b": {
+                "A1": "n = 35",
+                "M1": "Attempts [n/2][2x-98+(n-1)x20]...8000",
+                "dM1": "5n^2 - 54n - 4000...0 => n = (34.2)"
+            }
+        },
+        {
+            "a": {
+                "A1": "x = -6 only following the award of all previous marks (all log work must have been correct). The x = 26 solution must be rejected if seen.",
+                "B1": "One correct log law seen or used in relation to the equation e.g. 2log_2(2-x) => log_2(2-x)^2 or 4 => log_2 16(which may appear as log_2 2^4 or log_2 4^2). May be seen anywhere and allow if on incorrect terms.",
+                "M1": "Correct attempt to solve a 3TQ in x achieving a real root (may be by calculator). B1 must have been scored but not all log work need be correct."
+            },
+            "b": {
+                "B1": "12 clearly identified as the answer. Condone a = 12 as long as 12 is clearly the answer being offered."
+            }
+        },
+        {
+            "a": {
+                "B1": "21"
+            },
+            "b": {
+                "A1": "=> k = 11 *",
+                "M1": "Sets f(+-1/2) = 0 => equation in k"
+            },
+            "c": {
+                "A1": "Concludes f(x) = 0 has 1 root (at x = 1/2)",
+                "M1": "Attempts to find the number of roots of their (x^2+x+1)",
+                "dM1": "Attempts to divide by or factor out (2x-1) or (x-1/2) from their attempt at expanding (x-2)[2x^2+5x+11] + 21."
+            }
+        },
+        {
+            "a": {
+                "A1": "As x and y are positive numbers (y-x) > 0 => y > x *",
+                "M1": "(x-y)^3 = x^3 - 3x^2y + 3xy^2 - y^3",
+                "dM1": "=> 3xy(y-x) > 0"
+            },
+            "b": {
+                "A1": "Shows that ((3--1))^3 > (3)^3 - (-1)^3 as 64 > 28 (BUT -1 < 3)",
+                "M1": "Chooses a suitable counter example. E.g. x = 3, y = -1"
+            }
+        },
+        {
+            "a": {
+                "A1": "Fully correct",
+                "B1": "Intercept",
+                "M1": "Shape or asymptote"
+            },
+            "b": {
+                "A1": "= awrt 2.34",
+                "B1": "h = 0.3",
+                "M1": "Area = 0.3/2 [0+4.3137 + 2x(0.3246+0.8629+1.6643+2.7896)]"
+            },
+            "c": {
+                "A1ft": "= 2.34 + 16.5 = 18.84",
+                "B1": "For 2x their \"2.34\" = 4.68 ((awrt to 3s.f.) must be evaluated). Follow through on their answer to (b).",
+                "M1": "For realising that integral of (2^x + 2x) dx = integral of (2^x - 2x + 4x) dx = 2.34 + [2x^2]^3.5"
+            }
+        },
+        {
+            "a": {
+                "A1": "Exact radius sqrt(70)",
+                "M1": "Attempts (x+4)^2 + (y-5)^2 = ..."
+            },
+            "b": {
+                "A1": "States that distance between centres = sqrt(250) = 15.81, sum of radii = sqrt(70) + sqrt(52) = 15.58, concludes as sum of radii < distance between centres, result proven *",
+                "M1": "Attempts distance (or distance^2) from \"(-4,5)\" to \"(5,-8)\"",
+                "dM1": "Full method. E.g. compares their sqrt(9^2 + 13^2) to (sqrt(70) + sqrt(52))"
+            }
+        },
+        {
+            "i": {
+                "A1": "awrt x = 1.91 (following cos x = -1/3) and no other values in the range.",
+                "B1": "States or uses tan x = sin x / cos x",
+                "M1": "Solves a 3TQ in cos x leading to at least one value for cos x"
+            },
+            "ii": {
+                "A1": "Allow awrt 2 s.f. answers for evidence.",
+                "B1": "cao 22^oC Condone just 22.",
+                "dM1": "Takes arcsin leading to a value for 6k + 18. Accept radian values seen for this mark. (0.985, 2.16).",
+                "M1": "Attempts to use the given information and proceeds to sin(6k + 18)^o = c, or may be implied by Asin(6k + 18)^o = B => 6k + 18 = arcsin B"
+            },
+            "b": {
+                "A1": "cao Time of day = 11:14 o.e. (e.g. 11h 14m is acceptable).",
+                "M1": "Sets \"6.41\"t + 18 = 90 => t = ... May be implied by 11.23."
+            },
+            "c": {
+                "a": "22^oC"
+            }
+        },
+        {
+            "a": {
+                "A1": "x = 12/5 from correct work. Ignore reference to x = 0. Watch for incorrect methods of solving, such as (12x^2 - 5x^3) = 0 => 144x - 25x^2 = 0 => x = 12/5, which score A0.",
+                "M1": "Complete attempt to differentiate.",
+                "dM1": "Sets dy/dx = 0 and attempts to solve to find a non-zero value for x. Do not be concerned about the method of solving for this mark."
+            },
+            "b": {
+                "A1": "k = 28/5 (ignore references to k = 0 ) Accept as decimal 5.6.",
+                "M1": "Complete attempt to integrate. Writes as a sum of two terms and increases the power of at least one term by 1. For attempts at integrating by parts they must proceed through the second integration to score the mark.",
+                "dM1": "Substitutes x = k in their 16/5 x^(5/2) - 4/7 x^(7/2) = 0 and solves. Alternatively, applies limits 0 and 4 to find the area R_1 = (1024/35) and sets equal to the negative of the expression from limits 4 to k (or reverses the limits and sets equal) and proceeds to reach a value for k."
+            }
+        }
+    ],
+    "P2_October 2019 MS": [
+        {
+            "a": {
+                "A1": "x >= 0, x <= 10/3",
+                "B1": "y = 2x^2(x-5) = 2x^3 - 10x^2",
+                "dM1": "Sets dy/dx = 0 => 6x^2 - 20x = 0 => x = 0, 10/3 oe",
+                "M1": "dy/dx = 6x^2 - 20x"
+            },
+            "b": {
+                "A1": "x >= 0, x <= 10/3",
+                "M1": "Sets dy/dx = 0 => 6x^2 - 20x = 0 => x = 0, 10/3 oe"
+            }
+        },
+        {
+            "a": {
+                "A1": "b = 1/3 or exact equivalent",
+                "M1": "Substitutes x = 2, dy/dx = 7 into dy/dx = 3ax^2 - 6x + 3 to get an equation in a (dy/dx must be correct)"
+            },
+            "b": {
+                "A1*": "Achieves 4x^2 - 6x + 3 = 0, b^2 - 4ac = -12 and states -12 < 0 and so there are no real roots so no turning points or achieve complex roots and state that no real roots so no turning points",
+                "dM1": "Attempts to find b^2 - 4ac or roots via the formula",
+                "M1": "Sets their dy/dx = 0 with their value of a"
+            }
+        },
+        {
+            "a": {
+                "A1": "32340 or 32341",
+                "B1": "States or uses r = 1.02",
+                "M1": "Attempts 25000 x 1.02^n+2 or 25000 x r^n+13"
+            },
+            "b": {
+                "A1": "1997 000",
+                "M1": "Attempts a(r^n - 1) / (r - 1) = 25000(1.02^14 - 1) / (1.02 - 1) or 125000(1.02^14 - 1) / (1.02 - 1)"
+            }
+        },
+        {
+            "a": {
+                "A1": "33/8 x^2 + 55/16 x^3",
+                "B1": "1 + 3x",
+                "M1": "(1 + x/4)^12"
+            },
+            "b": {
+                "A1": "77/8 oe eg 9.625",
+                "M1": "For attempting to add their \"55/16\" to 8 x 12C5 (1/4)^12",
+                "B1ft": "Sight of a term independent of x = 55/16 or 8 x 12C5 (1/4)^12"
+            }
+        },
+        {
+            "a": {
+                "B1": "-35"
+            },
+            "b": {
+                "A1*": "-7/3 (2 + a) = 35 => a = -17",
+                "M1": "Attempts f(2/3) = 0 => (2/3)(3(2/3)^2 + a(2/3) + a) - 35 = 0"
+            },
+            "c": {
+                "A1": "=(3x - 2)(x + 2)(x - 4)",
+                "B1": "f(x) = (3x - 2)(3x^2 + x - 17) - 35 = 3x^3 - 8x^2 - 20x + 16",
+                "M1": "=(3x - 2)(x^2 - 2x - 8)"
+            }
+        },
+        {
+            "a": {
+                "A1": "Fully correct",
+                "M1": "Shape or intercept at 1"
+            },
+            "b": {
+                "A1": "awrt 19.0",
+                "B1": "h = 0.5",
+                "M1": "Area = 0.5/2 {4.25 + 16.06 + 2 x (6.427 + 9.125 + 12.34)}"
+            },
+            "c": {
+                "A1ft": "1.0235 but accept awrt 1.0 or follow through on their answer or their unrounded answer from (b) - 18 provided M1 has been scored.",
+                "M1": "For realising that integral(x(x-3) + (1/2)^x) dx = integral(x^2 + (1/2)^x - 3x) dx = (b) - [3/2 x^2]^4_2"
+            }
+        },
+        {
+            "a": {
+                "A1": "y = -2x + 7",
+                "M1": "Attempts line with gradient -2 and point (4, -1)"
+            },
+            "b": {
+                "A1": "(x - 4)^2 + (y + 1)^2 = 36/5 or (x - 4)^2 + (y + 1)^2 = 7.2 or 5(x - 4)^2 + 5(y + 1)^2 = 36 only",
+                "M1": "y = 1/2 x meets their y = -2x + 7 when 1/2 x = -2x + 7 => x = 14/5, y = 7/5 oe",
+                "dM1": "Attempts r^2 = (4 - 14/5)^2 + (-1 - 7/5)^2 = 36/5"
+            }
+        },
+        {
+            "iii": {
+                "A1": "1325k",
+                "M1": "Either uses the sum formula for an AP in terms of k on part or all of the expression with n = 50, d = k, a = k or n = 50, d = k, a = 2k"
+            },
+            "i": {
+                "A1": "1/2 - k oe",
+                "M1": "log_a (sqrt(a) / b) = 1/2 log_a a - log_a b = 1/2 - k"
+            },
+            "ii": {
+                "A1": "2 + k / 3k or 2 + k / 3k",
+                "M1": "log_a (a^2 b) / log_a (b^3) = 2 log_a a + log_a b / 3 log_a b = 2 + k / 3k"
+            }
+        },
+        {
+            "i": {
+                "A1": "4 sqrt(2) - 37/8 or exact equivalent (eg 4 sqrt(2) - 4.625 or 32 sqrt(2) - 37 / 8)",
+                "B1": "8 sqrt(x) - 5 / 2x^2 => 4x^(-3/2) - 5/2 x^(-2)",
+                "dM1": "Substitutes 4 and 2 into an integrated function and subtracts either way round",
+                "M1": "integral(4x^(-3/2) - 5/2 x^(-2)) dx = -8x^(-1/2) + 5/2 x^(-1)"
+            },
+            "ii": {
+                "A1": "k = 29/18 or exact equivalent eg 1.61 but do not allow 1.6 or 1.61 or 1.61...",
+                "M1": "Attempts to integrate integral(1/2 x^2 + k) with one term correct unsimplified so allow eg 1/6 x^3 or kx but the index must be processed",
+                "dM1": "Substitutes 6 and -3 into 1/6 x^3 + kx, subtracts, sets = 55 and proceeds to k = ..."
+            }
+        },
+        {
+            "i": {
+                "A1": "Both of theta = awrt 14.7 degrees, 85.3 degrees and no others in the range",
+                "M1": "3 sin(2 theta - 10 degrees) = 1 => (2 theta - 10 degrees) = arcsin(1/3)",
+                "dM1": "theta = 19.47 + 10 / 2"
+            },
+            "ii": {
+                "a": {
+                    "M1": "Writes 1 - sin alpha / tan alpha = 2 sin alpha - 1 / tan alpha oe",
+                    "dM1": "2 cos alpha / 2 = 3 sin alpha => 2 cos alpha = 3 sin alpha * sin alpha",
+                    "A1*": "Uses tan alpha = sin alpha / cos alpha within an equation involving 1 / tan alpha, sin alpha & 2 sin alpha"
+                },
+                "b": {
+                    "A1": "alpha = awrt 5.517 radians and no others in the given range",
+                    "M1": "Attempts to solve 3 cos^2 alpha + 2 cos alpha - 3 = 0 => cos alpha = -2 +- sqrt(40) / 6 oe",
+                    "dM1": "Attempts to solve 3 cos^2 alpha + 2 cos alpha - 3 = 0 => cos alpha = -2 +- sqrt(40) / 6 oe"
+                }
+            }
+        }
+    ],
+    "P2_October 2020 MS": [
+        {
+            "a": {
+                "A1": "Apply isw once a correct answer is seen.",
+                "B1": "and the correct power of 2 but condone omission of brackets.",
+                "M1": "Attempts the correct binomial expansion to get the third and/or fourth term with an acceptable structure."
+            },
+            "b": {
+                "A1": "Correct value. Must be \"extracted\" if a complete expansion is found above.",
+                "M1": "Correct expansion. May be implied by their work to find the constant."
+            }
+        },
+        {
+            "a": {
+                "A1*": "Cso. With e.g. 2log 2 seen as log 4 or log 2^2 or implied at some point.",
+                "B1": "One correct log law seen or implied anywhere in their working. No bracketing errors allowed for this mark.",
+                "M1": "Proceeds to isolate the terms in y on the lhs and combines the constants on the rhs"
+            },
+            "b": {
+                "A1": "A correct answer implies both marks"
+            }
+        },
+        {
+            "a": {
+                "B1": "Correct strip width. May be implied"
+            },
+            "b": {
+                "A1": "awrt 0.624 or accept 0.6265569683...",
+                "M1": "Correct application of the trapezium rule with their h. Must be a correct application of the rule so e.g."
+            }
+        },
+        {
+            "a": {
+                "A1*": "Correct equation with no errors and at least one line of intermediate working if starting with e.g.",
+                "M1": "Attempts to set f(-4) = -108 to obtain an equation in a and b. Score when you see \"-4\" embedded in the equation or 2 correct terms (excluding the \"+ 4\") on lhs."
+            },
+            "b": {
+                "A1": "Correct values",
+                "M1": "Attempts to solve 16a + b = 24 simultaneously with their equation in a and b. This may be implied if values of a and b are obtained (e.g. calculator)"
+            },
+            "c": {
+                "B1ft": "Correct derivative (follow through their a and b). Allow unsimplified and apply isw if necessary. Allow with the letters \"a\" and \"b\" and a \"made up\" \"a\" and \"b\"."
+            }
+        },
+        {
+            "a (ii)": {
+                "A1": "Correct radius",
+                "M1": "Correct strategy for the radius. Must be a correct method but allow slips. If used, but allow 1 sign slip within one of the brackets. A correct answer scores both marks. Must see the 1/2 if finding the length of the diameter."
+            },
+            "d": {
+                "A1": "Both correct points. The fractional coordinates must be exact but allow 1.3 with a dot over the 3 and 3.703 with dots over the 7 and 3. Note that it is not necessary for the points to be written as coordinates as long as the pairing is clear.",
+                "M1": "Uses at least one of their x values to find a value for y using their f(x) where x is from an attempt to solve f'(x) = 0. You may need to check their y values if working is not shown."
+            },
+            "a": {
+                "B1": "x = -7 and y = 9"
+            },
+            "b": {
+                "A1": "Correct equation in any form",
+                "M1": "Correct attempt at circle equation using their values. Allow for"
+            },
+            "c": {
+                "A1": "Allow any integer multiple",
+                "M1": "Uses a correct straight line method for the tangent using the point Q. Must be fully correct work here so must be a clear attempt at the tangent not the radius. So if the radius gradient is found previously, must apply negative reciprocal rule to their radius gradient."
+            }
+        },
+        {
+            "d": {
+                "A1": "Correct values (ignore how they are labelled e.g. allow x = ...).",
+                "M1": "Attempts to solve their quadratic. This may be implied by correct answers. Apply general guidance if necessary but must reach at least one value for n. (Allow them to either factorise or use formula e.g. allow x = ...)"
+            },
+            "e": {
+                "B1": "States (n =) 65 and gives a suitable reason - see below for examples of acceptable comments. There must be no contradictory statements and any calculations must be correct."
+            },
+            "a": {
+                "A1": "Cao. Correct answer with no working scores both marks.",
+                "M1": "Uses u + (n-1)d with u = 100, d = 5 and n = 40. This may be implied by a correct expression e.g. 100 + 39 x 5"
+            },
+            "b": {
+                "A1": "Cao. Correct answer with no working scores 3 marks. Apply isw if necessary and award this mark once a correct answer is seen.",
+                "M1": "Uses a correct sum formula with u = 100, d = 5 and n = 60 or n = 40. May be implied by a correct numerical expression."
+            },
+            "c": {
+                "A1*": "Obtains the printed answer with at least one intermediate line and no errors. Allow other variables to be used for n but the final answer must be as printed including \"= 0\"",
+                "M1": "Attempts to use a correct sum formula with a = 600, d = -10 and sets = 18 200. Condone poor use of brackets."
+            }
+        },
+        {
+            "a": {
+                "A1": "Correct values from a correct cubic.",
+                "M1": "Attempts to factorise using (x - 1) as a factor or uses long division by (x - 1) to obtain a quadratic factor and proceeds to solve quadratic or factorise and solve"
+            }
+        },
+        {
+            "i": {
+                "A1*": "Correct proof with no notation errors or missing variables but allow \"= >\" instead of \"=\" if there are any spurious \"= 0\"s alongside the proof score A0.",
+                "dM1": "Uses sin\u03b8 = cos\u03b8/tan\u03b8 and attempts common denominator of sin\u03b8cos\u03b8 with a 2 term numerator one of which is correct. Or attempts 2 separate fractions with a denominator of sin\u03b8cos\u03b8 one of which is correct. Depends on the first mark.",
+                "M1": "Uses tan\u03b8 = sin\u03b8/cos\u03b8 on both terms"
+            }
+        },
+        {
+            "a": {
+                "A1": "Obtains either equation where S, both sides must be seen unfactorised unless the \"a\" was factored out earlier",
+                "A1*": "Factorises both sides and divides by 1 - r to obtain the printed answer",
+                "M1": "Writes down at least 3 correct terms of a geometric series and multiplies their sequence by r. There may be extra incorrect terms but allow this mark if there are 3 correct terms in both sequences and at least one \"+\" in both sequences but see special case below"
+            }
+        },
+        {
+            "i": {
+                "A1": "x = 86/161",
+                "B1": "4 = log81 4 or 4 = log3 2",
+                "M1": "May be implied by e.g. log81 x+5/2x-1 = 4 => x+5/2x-1 = 3^4 (or 81)"
+            },
+            "ii": {
+                "A1*": "Cso. Reaches the given answer with no errors and all steps shown with 2^y appearing as 4^y at some point.",
+                "B1": "One correct index law seen or implied anywhere in their working",
+                "M1": "Isolates the terms in y (as powers of 3 and 2(or 4)) on the lhs and the constants on the rhs. There must be no incorrect work to combine terms e.g. 3^y x 3^y = 27^y etc."
+            }
+        }
+    ],
+    "P2_October 2021 MS": [
+        {
+            "a": {
+                "A1": "p = 15/2",
+                "M1": "States/uses either 16k = -4 or 16x15/2 k = p"
+            },
+            "b": {
+                "A1": "Term in -125x^2. Must include the x^2. Do not allow as part of an expansion for this mark.",
+                "M1": "Attempts one of the two relevant terms or coefficients. E.g. 2p(x^2) or 16x/x(3!/16x15x14)k^3(x^3)",
+                "dM1": "Must have attempted at least one of the terms correctly. Attempts sum of their 2x^p(x^2) and their 16x/x(3!/16x15x14)k^3(x^3) which must be arising from correct combination of powers from the expanded brackets though the coefficients need not be correct. Must be numerical terms. May be part of an attempt at a full expansion."
+            }
+        },
+        {
+            "i": {
+                "A1": "x = -pi/24, 11pi/24, 5pi/24, 7pi/24",
+                "M1": "tan^2(2x + pi/4) = 3 => 2x + pi/4 = +- pi/3",
+                "dM1": "=> x = (pi/4) +- (pi/3) + 2"
+            },
+            "ii": {
+                "A1": "tan(theta) = 3/4",
+                "B1": "theta = 53.1, 233.1, 180",
+                "dM1": "Attempts to use sin^2(theta) + cos^2(theta) = 1 => 4sin^2(theta) - 4sin(theta)cos(theta) + cos^2(theta) = 1 => 4sin^2(theta) - 4sin(theta)cos(theta) = sin^2(theta)",
+                "M1": "(2sin(theta) - cos(theta))^2 = 1 => 2sin(theta) - cos(theta) = +- 1"
+            }
+        },
+        {
+            "a": {
+                "A1": "u_3 = k(6k + 3) + 3",
+                "M1": "Attempts to substitute u_2 = 6k + 3 in u_3 (= ku_2 + 3)"
+            },
+            "b": {
+                "A1": "k = 7/2 ONLY",
+                "M1": "Sets their u_1 + u_2 + u_3 = 117 to produce an equation in just k.",
+                "dM1": "Solves a 3TQ by any valid method to find at least one value for k."
+            }
+        },
+        {
+            "a": {
+                "A1*": "Reaches 10.10 (or allow 10.1) following at least one correct intermediate line and no incorrect lines that would give a significantly different answer.",
+                "B1": "States or uses h = 3",
+                "M1": "An attempt at the trapezium rule with their value of h. Look for 3/2{log_10 2 + log_10 14 + 2x{.....}} where the ..... is an attempt at at least two intermediate terms and does not repeat the end points. The bracket structure must be correct or implied. (Use of h = 4 is likely to have two terms in this inner bracket.) Allow with values correct to 2 s.f. for the first and last terms."
+            },
+            "b": {
+                "B1": "Increase the number of strips"
+            },
+            "c": {
+                "i": {
+                    "B1": "log_10 sqrt(x) dx = 5.05"
+                },
+                "ii": {
+                    "A1": "54.30",
+                    "M1": "log_10 100x^3 dx = [2x]_2^14 + 3x10.10",
+                    "B1": "log_10 100x^2 = 2 + 3log_10 x"
+                }
+            }
+        },
+        {
+            "a": {
+                "B1": "States -21"
+            },
+            "b": {
+                "A1*": "Achieves f(3) = 0 => (x-3) is a factor of f(x)",
+                "M1": "Attempts f(3) = (3^2-2)(2x3-3)-21"
+            },
+            "c": {
+                "i": {
+                    "A1": "f(x) = (x-3)(2x^2 + 3x + 5)",
+                    "M1": "f(x) = (x-3)(2x^2 + 3x + 5)",
+                    "B1": "f(x) = 2x^3 - 3x^2 - 4x - 15 = (x-3)(2x^2 .... +-5)"
+                },
+                "ii": {
+                    "M1": "Attempts b^2 - 4ac for their 2x^2 + 3x + 5",
+                    "A1*": "Achieves b^2 - 4ac < 0 and states that only root is x = 3 o.e."
+                }
+            }
+        },
+        {
+            "a": {
+                "A1": "= 285 tonnes",
+                "M1": "Attempts 489 + 13x - 15"
+            },
+            "b": {
+                "A1": "Sets N/2{960 - 15N + 15} = 7770",
+                "A1*": "N^2 - 65N + 1036 = 0",
+                "M1": "Sets N/2{2x480 + (N-1)x-15} = 7770"
+            },
+            "c": {
+                "B1": "States 28 only"
+            }
+        },
+        {
+            "a": {
+                "A1": "x^2 + y^2 + 10x - 12y = k",
+                "M1": "Attempts (x +- 5)^2 + (y +- 6)^2 ..... = 0"
+            },
+            "b": {
+                "i": {
+                    "A1": "k > -61",
+                    "M1": "Sets k + (5)^2 + (6)^2 > 0"
+                },
+                "ii": {
+                    "A1": "p = 3 + sqrt(165) only",
+                    "M1": "Centre is (3, -2) ; radius is 13"
+                }
+            }
+        },
+        {
+            "i": {
+                "A1": "n = 129",
+                "B1": "States or implies that 4x6^(n-1) > 10^100",
+                "M1": "Takes logs correctly to produce an equation without powers"
+            },
+            "ii": {
+                "d": {
+                    "A1": "S_4 = 24.96 o.e.",
+                    "M1": "Attempts S_4 = a(1-r^4)/1-r with n = 4, r = their(c) and a = -6"
+                },
+                "a": {
+                    "M1": "Combines to form an equation in r",
+                    "B1": "states ar = -6 and a/1-r = 25",
+                    "A1*": "Proceeds to 25r^2 - 25r - 6 = 0 showing at least one correct simplified intermediate line and no errors"
+                },
+                "b": {
+                    "B1": "r = 6/5 or 1.2"
+                },
+                "c": {
+                    "B1": "r = -1/5 as |r| < 1 (for S_inf to exist)"
+                }
+            }
+        },
+        {
+            "a": {
+                "A1*": "k = 28",
+                "dM1": "uses x = 2, dy/dx = 0 => 0 = 16 - 44 + k => k = 28",
+                "M1": "y = 4/3x^3 - 11x^2 + 28x => dy/dx = 4x^2 - 22x + k"
+            },
+            "b": {
+                "A1": "x < 2, x > 7/2",
+                "M1": "dy/dx = 4x^2 - 22x + 28 = 0 => (2x - 4)(2x - 7) = 0 => x = ..."
+            },
+            "c": {
+                "A1": "40/3 or exact equivalent",
+                "B1": "Correct y coordinate of M = 68/3",
+                "M1": "Complete method to find R = 2x68/3 - int(4/3x^3 - 11x^2 + 28x) dx"
+            }
+        },
+        {
+            "a": {
+                "Alt 2": {
+                    "A1": "Rearranges => x^2 + 2xy + y^2 ... 4xy => (x+y)^2 ... 4xy",
+                    "M1": "States (x-y)^2 ... 0 => x^2 - 2xy + y^2 ... 0",
+                    "A1*": "States that as x, y positive, so x+y > 0 (and xy > 0) => (x+y)/2 = sqrt(4xy)/2 = sqrt(xy)"
+                },
+                "Alt 1": {
+                    "A1": "=> x^2 - 2xy + y^2 ... 0 => (x-y)^2 ... 0",
+                    "M1": "x+y/2 - sqrt(xy) => (x+y)^2/4 ... xy => x^2 + ... xy + y^2/4 ... xy",
+                    "A1*": "States both of the following o.e. (x-y)^2 ... 0 as it is a square number or x+y/2 - sqrt(xy) is true"
+                },
+                "Alt 3": {
+                    "A1": "=> x + y/2 - sqrt(xy)",
+                    "M1": "(sqrt(x) - sqrt(y))^2 ... 0 => x - 2sqrt(xy) + y ... 0",
+                    "A1*": "=> x+y/2 - sqrt(xy)"
+                }
+            },
+            "b": {
+                "B1": "States for example when x = -8, y = -2, x+y/2 = -5, sqrt(xy) = 4 so x+y/2 < sqrt(xy)"
+            },
+            "c": {
+                "A1": "40/3 or exact equivalent",
+                "B1": "Correct y coordinate of M = 68/3. Accept awrt 22.7 for this mark. May be seen anywhere e.g. on the sketch",
+                "M1": "Complete method to find R = 2x68/3 - int(4/3x^3 - 11x^2 + 28x) dx OR int(4/3x^3 - 11x^2 + 28x) dx The lower limit may be implied. The integral must be a changed function."
+            }
+        }
+    ],
+    "P2_October 2022 MS": [
+        {
+            "a": {
+                "A1*": "Finds all three valid combinations with correct products seen and somewhere/shows why this is exhaustive and concludes.",
+                "B1": "Any one correct row for b = 1, b = 2 or b = 3. Products do not need to be found for this mark.",
+                "M1": "Attempts the product abc for at least 2 valid combinations."
+            }
+        },
+        {
+            "a": {
+                "i": {
+                    "B1": "2a"
+                }
+            },
+            "b": {
+                "A1A1": "1/2a - 4",
+                "M1": "Uses the subtraction rule for logs to write log_a(\u221a5/16) = log_a\u221a5 - log_a16 seen or implied."
+            }
+        },
+        {
+            "a": {
+                "A1*": "k = 2/5 with no errors and sufficient working shown.",
+                "M1": "f(5/4) = (2-k x (5/4)^2) = 243/32 = \u221a(243/32) => k = ..."
+            },
+            "b": {
+                "A1A1": "32 - 32x + 64/5x^2",
+                "M1": "\u00b1^5C1 x 2^4 x (2/5x)^1 or \u00b1^5C2 x 2^3 x (2/5x)^2"
+            },
+            "c": {
+                "A1ft": "f'(0) = -32",
+                "M1": "f'(x) = -32 + 128/5x + ... => f'(0) = ..."
+            }
+        },
+        {
+            "a": {
+                "i": {
+                    "B1": "1/4"
+                },
+                "iii": {
+                    "B1": "1"
+                },
+                "ii": {
+                    "B1": "1/4"
+                }
+            },
+            "b": {
+                "A1": "2599/2 or exact equivalent e.g. 1299.5. isw once a correct answer is seen.",
+                "M1": "Correct attempt to find \u2211cos^2(n\u03c0/3)"
+            }
+        },
+        {
+            "a": {
+                "A1*": "Fully correct proof showing a = 2^(1/10) or a = \u221a2 or a = \u221a(8/4) and obtains awrt 1.072",
+                "M1": "Correctly removes the log showing a^10 = \"2\""
+            },
+            "b": {
+                "A1": "t = 4 x 1.072^w - 5",
+                "M1": "Writes the equation as 1.072^w = f(t) and proceeds to make t the subject."
+            },
+            "c": {
+                "A1": "awrt 6.35",
+                "M1": "Substitutes w = 15 into their equation from (b) or possibly the given equation w = log_1.072((t+5)/4) and proceeds to find a value for t"
+            }
+        },
+        {
+            "a": {
+                "A1*": "Achieves 3sin^2 \u03b8 + sin \u03b8 - 1 = 0 * with no errors.",
+                "M1": "Uses sin^2 \u03b8 + cos^2 \u03b8 = 1 to obtain a quadratic equation in sine only."
+            },
+            "b": {
+                "A1A1": "Any two of awrt -1.13, -0.438, 0.225, 1.35 and no others in the range.",
+                "A1": "-1 \u00b1 \u221a13/6 or a minimum of -1 \u00b1 \u221a13/2x3 (or as decimals awrt 0.43 and awrt -0.77).",
+                "M1": "Attempts to find one angle within the range by finding the inverse sine of one of their roots and provided by 2. May be implied by their values and allow if working in degrees."
+            }
+        },
+        {
+            "a": {
+                "A1": "4.845",
+                "B1": "h = 0.5",
+                "M1": "A full attempt at the trapezium rule."
+            },
+            "b": {
+                "A1": "awrt 25.2(%) (the % symbol is not required). Do not allow -25.2% or e.g. 0.252",
+                "M1": "Attempts to integrate 2 - 1/4x^2. Award for either 2x or ...x^3.",
+                "dM1": "Attempts to find the difference (either way round) between their answer to part (a) and their attempt at the area under C, which must be positive and divides by 6"
+            }
+        },
+        {
+            "a": {
+                "A1": "y = 4/7x^(5/2), -4x^(3/2), + 26/7x^(1/2), -10x^(-1/2)",
+                "M1": "Attempts to multiply out numerator (at least 2 correct terms obtained)."
+            },
+            "b": {
+                "M1A1ft": "Differentiates to achieve an expression of the form dy/dx = ...x^(3/2)...x^(1/2)...x^(-1/2)...x^(-3/2)",
+                "A1*": "Reaches this printed answer from a correct derivative where the \"= 0\" has appeared at least once before the final answer. Must be as shown and not just e.g. x^(-3/2)(2x^3 - 10x^2 + 13x - 5) = 0"
+            },
+            "c": {
+                "A1": "x = 4 \u00b1 \u221a6/2",
+                "M1": "(2x^3 - 10x^2 + 13x - 5) \u00f7 (x-1) = (2x^2 + ...x + ...)"
+            }
+        },
+        {
+            "a": {
+                "A1*": "r = 2/3 with no errors and at least one intermediate step after 3a = a/(1-r)",
+                "M1": "Sets 3a = a/(1-r), cancels all the a's and attempts to rearrange to find a numerical value for r"
+            },
+            "b": {
+                "A1": "awrt 127.4",
+                "B1": "ar - ar^3 = 16 seen or implied.",
+                "dM1": "Substitutes their a, r = 2/3 and n = 10 into the correct sum formula.",
+                "M1": "Proceeds to a value for a from a linear equation in a using r = 2/3 and ar - ar^3 = 16"
+            },
+            "c": {
+                "A1": "x = 4 \u00b1 \u221a6/2 or exact simplified equivalents e.g. x = 2 + 1/2\u221a6, 2 - 1/2\u221a6 or 8 \u00b1 \u221a24/4",
+                "M1": "Uses x-1 is a factor to establish the quadratic factor. May be by inspection or long division leading to an expression of the form 2x^2 + \u03b1x + \u03b2"
+            }
+        },
+        {
+            "d": {
+                "A1": "28/3 or exact equivalent cso",
+                "M1": "Attempts to integrate the curve. Award for a power increasing by 1 on one of the terms.",
+                "dM1": "A correct method to find the shaded area:"
+            },
+            "a": {
+                "A1": "Correct coordinates (3, 5) or e.g. x = 3, y = 5 (ignore any work with e.g. x = 1/3 and ignore any work attempting to prove maximum/minimum points \u2013 just look for correct coordinates identified)",
+                "M1": "Differentiates the equation of the curve and sets equal to 0 which may be implied by their attempt to solve below. Do not credit this differentiation in any other parts of the question.",
+                "dM1": "Solves a 3 term quadratic equation by any valid means (including a calculator) and substitutes one of their roots in the original equation to find the y coordinate. Depends on the first mark."
+            },
+            "b": {
+                "A1": "oe e.g. (x-3)^2 + (y-5)^2 = 10",
+                "B1": "y coordinate at A is 8 (Allow this to score anywhere)",
+                "M1": "Attempts to find the radius of the circle (or radius^2) using (2,\"8\") and their minimum point."
+            },
+            "c": {
+                "A1*": "y = 1/3x + 22/3 with no errors and both previous method marks scored.",
+                "M1": "Attempts to find the equation of the straight line using x = 2, their y value at A and the negative reciprocal of what they think is the gradient of AT."
+            }
+        }
+    ],
+    "P2_October 2023 MS": [
+        {
+            "a": {
+                "A1": "Fully correct statement",
+                "B1": "One correct set a, b & c",
+                "M1": "Any two correct rows including the correct calculations for the products."
+            }
+        },
+        {
+            "ii(a)": {
+                "A1*": "5cos^2 \u03b8 - 16cos\u03b8 + 3 = 0",
+                "dM1": "8 - 16cos\u03b8 = 5 - 5cos^2 \u03b8",
+                "M1": "Attempts to use S = a/1-r = 8/5 sin^2 \u03b8 / 1 - 2cos\u03b8"
+            },
+            "i(a)": {
+                "A1": "All 3 terms correct 2nd term = 2916x, 3rd term = 4860x^2, 5th term = 2160x^4",
+                "M1": "Any correct form for any term of C_3^r 3^(3-r) (2x)^r or C_3^r 3^r (2x)^(3-r)"
+            },
+            "b": {
+                "A1": "48/125",
+                "B1": "Solves 5cos^2 \u03b8 - 16cos\u03b8 + 3 = 0 => cos \u03b8 = 1/5",
+                "M1": "Attempts ar = sin^2 \u03b8 x 2cos\u03b8 = (1 - (1/5)^2) x 2 x 1/5"
+            }
+        },
+        {
+            "a": {
+                "A1": "All 3 values correct and labelled: u_2 = 2/3, u_3 = -4 AND u_4 = 3. May be awarded from part (b)",
+                "M1": "Attempts to use the iteration formula seen at least once. E.g. Award for u_{n+1} = 2 - 4/3"
+            },
+            "b": {
+                "A1": "-8. This alone scores both marks following a correct (a), as long as there is no incorrect method.",
+                "M1": "Establishes a correct method to find the sum of 100 terms."
+            }
+        },
+        {
+            "a": {
+                "A1": "Achieves cos\u03b8 = -2/3 and finds both \u03b8 values in degrees correct to one dp.",
+                "B1": "Achieves sin\u03b8 = 0 followed by \u03b8 = 180\u00b0, 360\u00b0",
+                "dM1": "Attempts to use tan\u03b8 = sin\u03b8/cos\u03b8 o.e., cross multiplies and either factorises or cancels to form a linear equation in cos\u03b8",
+                "M1": "States or uses tan\u03b8 = sin\u03b8/cos\u03b8"
+            },
+            "b": {
+                "A1": "x = awrt 45.9\u00b0",
+                "M1": "Sets 2x + 40\u00b0 = 131.8\u00b0 \u21d2 x = ..."
+            }
+        },
+        {
+            "a": {
+                "A1*": "a + b + 14 = 0 => 4b = -56",
+                "M1": "sets f(1/2) = 0"
+            },
+            "b": {
+                "A1": "4a + b = 1",
+                "M1": "sets f(2) = -25"
+            },
+            "c": {
+                "(ii)": {
+                    "A1": "cso",
+                    "M1": "4x^3 + ax^2 - 29x + b = (2x + 1)(2x^2 + kx + 15)"
+                },
+                "(i)": {
+                    "A1": "a = 4, b = -15",
+                    "M1": "Solves a + 4b = -56 with their 4a + b = 1 => a = ..., b = ..."
+                }
+            }
+        },
+        {
+            "i": {
+                "A1": "a = log 70 / log 3 = 3.867",
+                "M1": "3^70 = a => log 3 = log 70"
+            },
+            "ii": {
+                "A1": "=> b = sqrt[5/81]",
+                "B1": "4 = log_b 81 or 3log_b b = log_b b^3 or log_b 5b = log_b 5 + log_b b",
+                "dM1": "=> 81b^3 = 5b => b = ...",
+                "M1": "4 + 3log_b b = log_b 5b => log_b 81b^3 = log_b 5b"
+            }
+        },
+        {
+            "a": {
+                "A1": "= 31.38 m^2",
+                "B1": "Identifies h = 3",
+                "M1": "Area = 3/2 [0 + 2(1.52 + 2.74 + 3.12 + 3.08)]"
+            },
+            "b": {
+                "A1": "= awrt 2800 m^3",
+                "M1": "Calculates \"31.38\" x 1.5 x 60"
+            },
+            "c": {
+                "B1": "Underestimate with valid reason, e.g. area of trapezia are smaller than cross sectional area"
+            }
+        },
+        {
+            "a": {
+                "A1*": "5y + 15 = -2x + 8 => 2x + 5y + 7 = 0",
+                "B1": "States or implies that gradient XN = 2/5",
+                "M1": "Uses (4, -3) with a gradient of 2/5 to form equation of XN"
+            },
+            "b": {
+                "(ii)": {
+                    "A1": "(x - 4)^2 + (y + 3)^2 = 29",
+                    "M1": "Attempts \"(9\" - 4)^2 + \"(-5\" + 3)^2"
+                },
+                "(i)": {
+                    "A1": "N = (9, -5)",
+                    "M1": "Solves 2x + 5y + 7 = 0 and y = 2/5 x - 55/2 => x = ..., y = ..."
+                }
+            }
+        },
+        {
+            "a": {
+                "A1": "=> 2a + 36 = 72 => a = 18",
+                "M1": "Uses S_10 = 360 => 10/2 [2 x a + 9 x 4] = 360"
+            },
+            "b": {
+                "A1*": "=> n[16 + 2n] = 2146 => n^2 + 8n - 1073 = 0",
+                "M1": "Uses S_n = 2146 => n/2 [2 x \"18\" + (n - 1) x 4] = 2146"
+            },
+            "c": {
+                "(ii)": {
+                    "A1": "Maximum number of seats = 130 which may be labelled l = 130",
+                    "M1": "Attempts \"18\" + (\"29\" - 1) x 4 = 130"
+                },
+                "(i)": {
+                    "B1": "States 29"
+                }
+            }
+        },
+        {
+            "a": {
+                "A1": "States x > 9/4 or x > 9/4 o.e. following the award of both M's. Do not accept other ranges such as x < 0",
+                "M1": "Attempts dy/dx with one index correct. Allow for x^2 -> x^1 or sqrt(x) -> x^-1/2",
+                "dM1": "Attempts to find where dy/dx > 0 and proceeds to x^2 > k or x^2 > k following correct squaring"
+            },
+            "b": {
+                "ddM1": "Area of R = [2/9 x^-6x + 13x]_0^9 - 1/2 x 40 x (109/21)",
+                "A1": "Area R = 857/21",
+                "M1": "Substitutes x = 9 into dy/dx = 4/3 x^-9/2sqrt(x) => dy/dx = (21/2)",
+                "dM1": "Finds where tangent meets x-axis 0 - 40 = (21/2)(x - 9) => x = 109/21"
+            }
+        }
+    ],
+    "P2_October 2024 MS": [
+        {
+            "a": {
+                "A1": "= 30.9",
+                "B1": "h=1.25",
+                "M1": "A = 1/2 x 1.25 {3.479 + 5.182 + 2(6.101 + 7.448 + 6.823)}"
+            },
+            "b": {
+                "A1ft": "= 30.9 + 60 = 90.9",
+                "M1": "\u222b(f(x) + 4x) dx = 30.9 + [2x^2]^5.5_0.5 = 30.9 + 2x5.5^2 - 2x0.5^2"
+            }
+        },
+        {
+            "a": {
+                "A1": "Radius \u221a20",
+                "M1": "x^2 + y^2 + 4x - 30y + 209 = 0 => (x+2)^2 + (y\u00b115)^2 = ..."
+            },
+            "b": {
+                "A1*": "(4-28m)^2 - 4(1+m^2)180 = 0 => 16 - 224m + 784m^2 - 720 - 720m^2 = 0 => 2m^2 - 7m - 22 = 0*",
+                "dM1": "x^2 + m^2x^2 + 4x - 28mx + 180 = 0 => b^2 - 4ac = 0 => (4-28m)^2 - 4(1+m^2)x180 = 0",
+                "M1": "y = mx + 1 => (x+2)^2 + (mx + 1 - 15)^2 = 20 or y = mx + 1 => x^2 + 4x + (mx + 1)^2 + 4x - 30(mx + 1) + 209 = 0"
+            },
+            "c": {
+                "A1": "(12/5, 71/5) and (-6, 13) oe",
+                "M1": "m = 11/2 => y = 11/2 x - 150x + 180 = 0 => x = ... => y = 71/5 or m = -2 => 5x^2 + 60x + 180 = 0 => x = -6 => y = 13"
+            }
+        },
+        {
+            "i": {
+                "A1": "245 is not a prime number or e.g. 245 is divisible by 5 so not true",
+                "M1": "E.g. n = 5 => 3^3 + 2 = 245"
+            }
+        },
+        {
+            "a": {
+                "M1A1": "u_2 = k-7 => u_3 = k-7 = k - (2k-7)",
+                "A1*": "u_3 = k - (k-7) = 7*",
+                "B1": "u_1 = 7 => u_1 = k-7"
+            },
+            "b": {
+                "A1cso": "k = 15",
+                "M1": "\u2211u_r = 30 => 7 + k-7 + k-7 + k-7 = 30 => k = ..."
+            },
+            "c": {
+                "A1cso": "= 1125",
+                "M1": "\u2211u_r = 37x30 + 7 + \"15\" - 7"
+            }
+        },
+        {
+            "a": {
+                "A1*": "-54 - 9 - 3A + B = 55 => 3A - B = -118*",
+                "M1": "2(-3)^3 - (-3)^2 + A(-3) + B = 55"
+            }
+        },
+        {
+            "a": {
+                "M1A1": "y = x^2 + 9x + 3 => dy/dx = 2x - 9/x^2"
+            },
+            "b": {
+                "A1": "x = 9/4 oe e.g. 2.25",
+                "M1": "dy/dx = 0 => 2x = 9/x^2 => 4x - 9 = 0 => x = ..."
+            }
+        },
+        {
+            "a": {
+                "A1A1": "= 64 + 192ax + 240a^2x^2 + ...",
+                "M1": "(2 + ax)^6 = 2^6 + (6 choose 1) 2^5 (ax) + ..."
+            },
+            "b": {
+                "A1": "a = 24/5",
+                "B1": "(3 + 1/x)^2 = 9 + 6/x + 1/x^2",
+                "dM1": "f(x) = (9 + 6/x + 1/x^2)(64 + 192ax + 240a^2x^2 + ...) => Constant term is 9x64 + 6x192a + 240a^2 => 576 + 1152a + 240a^2 = 576 => 1152a + 240a^2 = 0"
+            }
+        },
+        {
+            "a": {
+                "A1": "x = -1/8 oe e.g. -0.125",
+                "B1": "2log_4(x+1) = log_4(x+1)^2",
+                "M1": "=> 8x^2 + 17x + 2 = 0 => x = ..."
+            }
+        },
+        {
+            "a": {
+                "B1*": "{u_100} = 20 + 99(0.5) = (\u00a3)69.50*"
+            },
+            "b": {
+                "A1": "= (\u00a3)28425",
+                "M1": "S_300 = 1/2 (300) {2x20 + 299(0.5)} = ... or S_300 = 1/2 (300) {20 + 169.50} = ..."
+            },
+            "c": {
+                "A1": " (\u00a3)1060",
+                "M1": "S_300 = 20(1-r^300)/(1-r) = (27362.948...)"
+            }
+        },
+        {
+            "a": {
+                "A1": "x = 1, x = 3",
+                "M1": "=> (x^2 - 1)(x^2 - 9) = 0 => x^2 = ..."
+            }
+        },
+        {
+            "a": {
+                "A1*": "3sin^2\u03b8 + 2sin\u03b8 - 3 = 0*",
+                "M1": "2sin\u03b8 = 3cos^2\u03b8 => 2sin\u03b8 = 3(1-sin^2\u03b8) => 3sin^2\u03b8 + 2sin\u03b8 - 3 = 0*"
+            },
+            "b": {
+                "A1A1ft": "2x + \u03c0/3 = sin^-1(0.7207...) => x = ... -0.121, -2.50, 0.645, 3.02",
+                "M1": "NB decimal roots are: -1.387..., 0.7207..."
+            }
+        }
+    ]
+}

@@ -1,0 +1,539 @@
+{
+    "1": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "One correct set a, b & c",
+            "expected_answer": "One correct row",
+            "mark_type": "B"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Two correct rows",
+            "expected_answer": "Two correct rows including the correct calculations for the products.",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Fully correct + statement",
+            "expected_answer": "All values of abc are multiples of 4",
+            "mark_type": "A"
+        }
+    ],
+    "2a": [
+        {
+            "point_id": 1,
+            "marks": 3,
+            "criteria": "Correct values",
+            "expected_answer": "u_2 = 2/3, u_3 = -4, u_4 = 3",
+            "mark_type": "M1, A1, A1"
+        }
+    ],
+    "2b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Establishes a correct method to find the sum of 100 terms",
+            "expected_answer": "33x(3 + 2/3 + -4) + 3 OR 34x(3 + 2/3 + -4) - 2/3 - -4",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct answer",
+            "expected_answer": "-8",
+            "mark_type": "A"
+        }
+    ],
+    "3a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "States or uses tan\u03b8 = sin\u03b8/cos\u03b8",
+            "expected_answer": "2sin\u03b8/cos\u03b8 + 3sin\u03b8 = 0 -> sin\u03b8(2/cos\u03b8 + 3) = 0",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Attempts to use tan\u03b8 = sin\u03b8/cos\u03b8",
+            "expected_answer": "2/cos\u03b8 + 3 = 0 -> cos\u03b8 = -2/3",
+            "mark_type": "dM"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Achieves cos\u03b8 = -2/3 and finds one correct \u03b8 value to the nearest degree",
+            "expected_answer": "cos\u03b8 = -2/3 -> \u03b8 = awrt 131.8\u00b0 OR awrt 228.2\u00b0",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "Achieves cos\u03b8 = -2/3 and finds both \u03b8 values in degrees correct to one dp",
+            "expected_answer": "awrt 131.8\u00b0 and awrt 228.2\u00b0",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 5,
+            "marks": 1,
+            "criteria": "Achieves sin\u03b8 = 0 followed by \u03b8 = 180\u00b0, 360\u00b0",
+            "expected_answer": "sin\u03b8 = 0 -> \u03b8 = 0, 180\u00b0, 360\u00b0",
+            "mark_type": "B"
+        }
+    ],
+    "3b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Sets 2x + 40\u00b0 = their 131.8\u00b0 -> x = ...",
+            "expected_answer": "2x + 40\u00b0 = their 131.8\u00b0 -> x = ...",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct answer",
+            "expected_answer": "x = awrt 45.9\u00b0",
+            "mark_type": "A"
+        }
+    ],
+    "4a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Sets f(1/2) = 0 -> 4x(1/2)^3 - ax^2 - 29x + b = 0 -> 1/2 a + b + 14 = 0 -> a + b = -56 *",
+            "expected_answer": "Sets f(1/2) = 0 -> 4x(1/2)^3 - ax^2 - 29x + b = 0 -> 1/2 a + b + 14 = 0 -> a + b = -56",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Completes proof with at least one intermediate simplified and correct line such as 1/2 a + b = -14",
+            "expected_answer": "1/2 a + b = -14",
+            "mark_type": "A"
+        }
+    ],
+    "4b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Sets f(-2) = -25 -> 4x(-2)^3 - a(-2)^2 - 29(-2) + b = -25 -> -32 - 4a + 58 + b = -25",
+            "expected_answer": "Sets f(-2) = -25 -> 4x(-2)^3 - a(-2)^2 - 29(-2) + b = -25",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Simplifies to 4a - b = 1",
+            "expected_answer": "4a - b = 1",
+            "mark_type": "A"
+        }
+    ],
+    "4ci": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Solves a + b = -56 with their 4a - b = 1 -> a = ..., b = ...",
+            "expected_answer": "Solves a + b = -56 with their 4a - b = 1",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "a = 4, b = -15",
+            "expected_answer": "a = 4, b = -15",
+            "mark_type": "A"
+        }
+    ],
+    "4cii": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to divide or factorise out (2x + 1) from their 4x^3 + ax^2 - 29x + b or multiple thereof",
+            "expected_answer": "Attempts to divide or factorise out (2x + 1) from their 4x^3 + ax^2 - 29x + b",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct quadratic factor 2x^2 + x - 15",
+            "expected_answer": "2x^2 + x - 15",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "cso (2x + 1)(2x - 5)(x + 3)",
+            "expected_answer": "(2x + 1)(2x - 5)(x + 3)",
+            "mark_type": "A"
+        }
+    ],
+    "5i": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Takes 3^a = 70 -> a log 3 = log 70",
+            "expected_answer": "3^a = 70 -> a log 3 = log 70",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct answer",
+            "expected_answer": "a = log 70 / log 3 = 3.867",
+            "mark_type": "A"
+        }
+    ],
+    "5ii": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "One correct log law used on a term of the initial equation",
+            "expected_answer": "4 = log_b 81 OR 3log_b b = log_b b^3 OR log_b 5b = log_b 5 + log_b b",
+            "mark_type": "B"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correctly combines two terms of the initial equation to form a log equation of the correct form",
+            "expected_answer": "log_b ... = log_b ... OR log_b ... = \u00b14",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Removes the logs correctly and proceeds to a value for b using a correct method",
+            "expected_answer": "Removes the logs correctly and proceeds to a value for b using a correct method",
+            "mark_type": "dM"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "Correct answer",
+            "expected_answer": "b = sqrt[5]{81} OR sqrt[5]{9} OR exact equivalent",
+            "mark_type": "A"
+        }
+    ],
+    "6a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Identifies h = 3",
+            "expected_answer": "h = 3",
+            "mark_type": "B"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct method of finding area using the trapezium rule",
+            "expected_answer": "3/2 {0 + 0 + 2(1.52 + 2.74 + 3.12 + 3.08)}",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Correct answer",
+            "expected_answer": "31.38 m^2",
+            "mark_type": "A"
+        }
+    ],
+    "6b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Calculates \"31.38\" x 1.5 x 60",
+            "expected_answer": "\"31.38\" x 1.5 x 60",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Correct answer",
+            "expected_answer": "awrt 2800 m^3",
+            "mark_type": "A"
+        }
+    ],
+    "6c": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Underestimate with valid reason",
+            "expected_answer": "Underestimate with valid reason, e.g. area of trapezia are smaller than cross sectional area",
+            "mark_type": "B"
+        }
+    ],
+    "7a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "States or implies that gradient XN = -2/5",
+            "expected_answer": "gradient XN = -2/5",
+            "mark_type": "B"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Uses (4, -3) with a gradient of -2/5 to form equation of XN",
+            "expected_answer": "y + 3 = -2/5 (x - 4)",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Shows sufficient working and proceeds to 2x + 5y + 7 = 0",
+            "expected_answer": "5y + 15 = -2x + 8 -> 2x + 5y + 7 = 0",
+            "mark_type": "A"
+        }
+    ],
+    "7bi": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to solve 2x + 5y + 7 = 0 and y = x - 55/2 -> x = ..., y = ...",
+            "expected_answer": "Attempts to solve 2x + 5y + 7 = 0 and y = x - 55/2",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "N = (9, -5)",
+            "expected_answer": "N = (9, -5)",
+            "mark_type": "A"
+        }
+    ],
+    "7bii": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts (their \"9\" - 4)^2 + (their \"-5\" + 3)^2",
+            "expected_answer": "(their \"9\" - 4)^2 + (their \"-5\" + 3)^2",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct form of equation E.g. (x - 4)^2 + (y + 3)^2 = (their \"9\" - 4)^2 + (their \"-5\" + 3)^2",
+            "expected_answer": "(x - 4)^2 + (y + 3)^2 = (their \"9\" - 4)^2 + (their \"-5\" + 3)^2",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "(x - 4)^2 + (y + 3)^2 = 29",
+            "expected_answer": "(x - 4)^2 + (y + 3)^2 = 29",
+            "mark_type": "A"
+        }
+    ],
+    "8a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Uses S_10 = 360 = 10/2 (2 x a + 9 x 4) = 360",
+            "expected_answer": "S_10 = 360 = 10/2 (2 x a + 9 x 4) = 360",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "a = -36",
+            "expected_answer": "a = -36",
+            "mark_type": "A"
+        }
+    ],
+    "8b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Uses S_n = 2146 = n/2 (2 x \"-36\" + (n - 1) x 4) = 2146",
+            "expected_answer": "S_n = 2146 = n/2 (2 x \"-36\" + (n - 1) x 4) = 2146",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Proceeds to n^2 + 8n - 1073 = 0 showing sufficient working",
+            "expected_answer": "n^2 + 8n - 1073 = 0",
+            "mark_type": "A"
+        }
+    ],
+    "8ci": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "States 29",
+            "expected_answer": "29",
+            "mark_type": "B"
+        }
+    ],
+    "8cii": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts \"18\" + (\"29\" - 1) x 4 = 130",
+            "expected_answer": "\"18\" + (\"29\" - 1) x 4 = 130",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Maximum number of seats = 130",
+            "expected_answer": "130",
+            "mark_type": "A"
+        }
+    ],
+    "9a": [
+        {
+            "point_id": 1,
+            "marks": 2,
+            "criteria": "Attempts to differentiate",
+            "expected_answer": "dy/dx = 4/3 x^-2/3 - 9/2 x^-1/2",
+            "mark_type": "M1, A1"
+        },
+        {
+            "point_id": 2,
+            "marks": 2,
+            "criteria": "Attempts to solve dy/dx > 0 -> x > k",
+            "expected_answer": "dy/dx > 0 -> 27/8 > x^(5/6) -> x > (27/8)^(6/5)",
+            "mark_type": "dM1, A1"
+        }
+    ],
+    "9b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to integrate",
+            "expected_answer": "2/3 x^(3/2) - 9sqrt(x) + 13x",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct integration",
+            "expected_answer": "2/3 x^(3/2) - 9sqrt(x) + 13x",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Substitutes x = 9 into dy/dx",
+            "expected_answer": "dy/dx = 4/3 x^-2/3 - 9/2 x^-1/2",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "Finds where tangent meets x-axis 0 - 40 = 21/2 (x - 9) -> x = 109/21",
+            "expected_answer": "Finds where tangent meets x-axis 0 - 40 = 21/2 (x - 9) -> x = 109/21",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 5,
+            "marks": 1,
+            "criteria": "Correct area",
+            "expected_answer": "Area of R = [2/3 x^(3/2) - 9sqrt(x) + 13x] - 1/2 x 40 x 21/2",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 6,
+            "marks": 1,
+            "criteria": "Complete method of finding the area of R",
+            "expected_answer": "Complete method of finding the area of R",
+            "mark_type": "ddM1"
+        },
+        {
+            "point_id": 7,
+            "marks": 1,
+            "criteria": "Correct answer",
+            "expected_answer": "Area R = 857/21",
+            "mark_type": "A1"
+        }
+    ],
+    "10ai": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Any correct form for any term of (3 + 2x)^6",
+            "expected_answer": "C_3^6 3^3 (2x)^3 OR C_3^6 (2x)^3 OR C_3^6 (2x)^3 (3)^3",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Any two correct",
+            "expected_answer": "t(2) = 6 x 3^5 x (2x), t(3) = 15 x 3^4 x (2x)^2, t(5) = 15 x 3^2 x (2x)^4",
+            "mark_type": "A"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "All 3 terms correct",
+            "expected_answer": "2nd term = 2916x, 3rd term = 4860x^2, 5th term = 2160x^4",
+            "mark_type": "A"
+        }
+    ],
+    "10b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Method using consecutive terms of a GP e.g.",
+            "expected_answer": "2160x^4 / 4860x^2 = 4860x^2 / 2916x",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct answer",
+            "expected_answer": "x = 15/4",
+            "mark_type": "A"
+        }
+    ],
+    "10iia": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to use S_\u221e = a / (1 - r)",
+            "expected_answer": "S_\u221e = a / (1 - r)",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Uses identity sin^2 \u03b8 = 1 - cos^2 \u03b8 to form an equation in just cos \u03b8",
+            "expected_answer": "sin^2 \u03b8 = 1 - cos^2 \u03b8",
+            "mark_type": "dM"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Completes proof with sufficient working",
+            "expected_answer": "5cos^2 \u03b8 - 16cos \u03b8 + 3 = 0",
+            "mark_type": "A"
+        }
+    ],
+    "10iib": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "States or uses cos \u03b8 = 1/5",
+            "expected_answer": "cos \u03b8 = 1/5",
+            "mark_type": "B"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Attempts ar = sin^2 \u03b8 x 2cos \u03b8 = (1 - (1/5)^2) x 2 x 1/5",
+            "expected_answer": "ar = sin^2 \u03b8 x 2cos \u03b8 = (1 - (1/5)^2) x 2 x 1/5",
+            "mark_type": "M"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Correct answer",
+            "expected_answer": "48/125",
+            "mark_type": "A"
+        }
+    ]
+}

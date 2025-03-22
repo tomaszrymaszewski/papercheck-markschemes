@@ -1,0 +1,556 @@
+{
+    "1": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Sets f(2) = 3",
+            "expected_answer": "f(2) = a(2)^3 + 3(2)^2 - 8(2) + 2 = 3",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Solves a linear equation in a arising from setting f(2) = 3",
+            "expected_answer": "8a - 5 = 0 => a = 5/8",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "a = 5/8 or exact equivalent",
+            "expected_answer": "a = 5/8",
+            "mark_type": "A1"
+        }
+    ],
+    "2": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Combines a correct binomial coefficient with (3/8)^5 and either (4x)^7, 4^7 or x^7",
+            "expected_answer": "Term in x^7 is 12C7 (3/8)^5 (4x)^7 or coefficient of x^7 is 12C7 (3/8)^5 4^7",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct unsimplified term or coefficient e.g. 12C7 (3/8)^5 x^4^7 or e.g. 12!/5!7! (3/8)^5 4^7",
+            "expected_answer": "Term in x^7 is 12C7 (3/8)^5 (4x)^7 or coefficient of x^7 is 12C7 (3/8)^5 4^7",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Coefficient is 96228",
+            "expected_answer": "96228",
+            "mark_type": "A1"
+        }
+    ],
+    "3a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts (8-3)^2 + (5--7)^2 = ...",
+            "expected_answer": "(8-3)^2 + (5--7)^2 = ...",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Writes (x-3)^2 + (y-5)^2 = k",
+            "expected_answer": "(x-3)^2 + (y-5)^2 = k",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "(x-3)^2 + (y-5)^2 = 169",
+            "expected_answer": "(x-3)^2 + (y-5)^2 = 169",
+            "mark_type": "A1"
+        }
+    ],
+    "3b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts d^2 + (2sqrt(22))^2 = 169 => d = ...",
+            "expected_answer": "d^2 + (2sqrt(22))^2 = 169 => d = ...",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "States or uses (y-5) = 5 + d",
+            "expected_answer": "(y-5) = 5 + d",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "y = 14",
+            "expected_answer": "y = 14",
+            "mark_type": "A1"
+        }
+    ],
+    "4a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Correct shape",
+            "expected_answer": "Correct shape",
+            "mark_type": "B1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct intercept",
+            "expected_answer": "Correct intercept",
+            "mark_type": "B1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Correct equation for asymptote",
+            "expected_answer": "Correct equation for asymptote",
+            "mark_type": "B1"
+        }
+    ],
+    "4b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Strip width = 2.5",
+            "expected_answer": "Strip width = 2.5",
+            "mark_type": "B1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct application of the trapezium rule with all the y values and their h",
+            "expected_answer": "2.5/2 {13 + 4.009 + 2(6.280 + 4.577 + 4.146 + 4.037)}",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "awrt 69",
+            "expected_answer": "58.86125(= awrt 69)",
+            "mark_type": "A1"
+        }
+    ],
+    "4c": [
+        {
+            "point_id": 1,
+            "marks": 2,
+            "criteria": "Attempts at redoing the trapezium rule with new values",
+            "expected_answer": "Attempts 69 + 4x(8.5 - 4) OR 69 + integral between 8.5 and 4",
+            "mark_type": "M1, A1ft"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "awrt 138",
+            "expected_answer": "awrt 138",
+            "mark_type": "B1ft"
+        }
+    ],
+    "5i": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "r = 0.25",
+            "expected_answer": "r = 0.25",
+            "mark_type": "B1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "S_inf = 1.5/(1-0.25)",
+            "expected_answer": "S_inf = 1.5/(1-0.25)",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "cao following evidence of the use of the sum to infinity formula",
+            "expected_answer": "S_inf = 1.5/(1-0.25)",
+            "mark_type": "A1"
+        }
+    ],
+    "5ii": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Uses the recurrence relation correctly at least once.",
+            "expected_answer": "{u_1 = 3}, u_2 = 0, u_3 = 3/2, u_4 = 3, ...",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "{u_1 = 3}, u_2 = 0, u_3 = 3/2, u_4 = 3, ... and e.g. states that u_i - u_i, so sequence will repeat (is periodic)",
+            "expected_answer": "{u_1 = 3}, u_2 = 0, u_3 = 3/2, u_4 = 3, ... and e.g. states that u_i - u_i, so sequence will repeat (is periodic)",
+            "mark_type": "A1"
+        }
+    ],
+    "5ii(b)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "(Order) 3",
+            "expected_answer": "(Order) 3",
+            "mark_type": "A1"
+        }
+    ],
+    "5ii(c)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Establishes a correct method of finding sum from n=1 to 70 u_n for their periodic sequence of order 3 found in (a).",
+            "expected_answer": "sum from n=1 to 70 (23 x 3 + 10 + 3/2)",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "106.5 or exact equivalent",
+            "expected_answer": "106.5",
+            "mark_type": "A1"
+        }
+    ],
+    "6a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "2log_4(x+3) = log_4(x+3)^2 or 1/2 log_4 o.e",
+            "expected_answer": "2log_4(x+3) = log_4(x+3)^2 or 1/2 log_4 o.e",
+            "mark_type": "B1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Combines two terms e.g. 2log_4(x+3) + log_4 x = log_4 x(x+3)^2",
+            "expected_answer": "2log_4(x+3) + log_4 x = log_4 x(x+3)^2",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "e.g. x(x+3)^2 = 8x + 4",
+            "expected_answer": "x(x+3)^2 = 8x + 4",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "e.g. x^3 + 6x^2 + 9x = 8x + 4 => x^3 + 6x^2 + x - 4 = 0 *",
+            "expected_answer": "x^3 + 6x^2 + 9x = 8x + 4 => x^3 + 6x^2 + x - 4 = 0",
+            "mark_type": "A1*"
+        }
+    ],
+    "6b(i)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Divides by (x-1). May be implied by a correct quadratic.",
+            "expected_answer": "x^3 + 6x^2 + x - 4 = (x+1)(x^2 + 5x - 4)",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Attempts to find the roots of their quadratic factor (usual rules for solving a quadratic).",
+            "expected_answer": "x = (-5 +- sqrt(25 + 16))/2 => x = (-5 +- sqrt(41))/2",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "x = (-5 + sqrt(41))/2 or exact equivalent",
+            "expected_answer": "x = (-5 + sqrt(41))/2",
+            "mark_type": "A1"
+        }
+    ],
+    "6b(ii)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "x = (-5 + sqrt(41))/2",
+            "expected_answer": "x = (-5 + sqrt(41))/2",
+            "mark_type": "B1"
+        }
+    ],
+    "7a": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to use 4000 = 300 + 11d to find d",
+            "expected_answer": "4000 = 300 + 11d",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Uses 300 + 3*d",
+            "expected_answer": "300 + 3*d",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Wheat production in year 4 is awrt 1310 (to the nearest 10) (tonnes)",
+            "expected_answer": "awrt 1310",
+            "mark_type": "A1"
+        }
+    ],
+    "7b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to use 4000 = 300r^11 to find r",
+            "expected_answer": "4000 = 300r^11",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Finds r = (1.266...) and MULTIPLIES this by 300",
+            "expected_answer": "r = (1.266...)",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Wheat production in year 2 is awrt 380 (to the nearest 10) (tonnes)",
+            "expected_answer": "awrt 380",
+            "mark_type": "A1"
+        }
+    ],
+    "7c": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts 12/2 (300 + 4000) OR 300(1.266...^12 - 1)/(1.266... - 1)",
+            "expected_answer": "12/2 (300 + 4000) OR 300(1.266...^12 - 1)/(1.266... - 1)",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Finds 12/2 (300 + 4000) - 300(1.266...^12 - 1)/(1.266... - 1) = (25800 - 17935)",
+            "expected_answer": "12/2 (300 + 4000) - 300(1.266...^12 - 1)/(1.266... - 1) = (25800 - 17935)",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Difference = 7860 but allow 7870 (tonnes) (not AWRT)",
+            "expected_answer": "Difference = 7860",
+            "mark_type": "A1"
+        }
+    ],
+    "8i": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Substitutes a value e.g. n = 6 into n^2 + 3n + 1 where n^2 + 3n + 1 is not prime",
+            "expected_answer": "Substitutes a value e.g. n = 6 into n^2 + 3n + 1 where n^2 + 3n + 1 is not prime",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct calculation for that value e.g. n^2 + 3n + 1 = 55 and conclusion \"which is not prime\"",
+            "expected_answer": "Correct calculation for that value e.g. n^2 + 3n + 1 = 55 and conclusion \"which is not prime\"",
+            "mark_type": "A1"
+        }
+    ],
+    "8ii": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to find n^2 - 2 for either odds or evens",
+            "expected_answer": "Attempts (2p + 1)^2 - 2 or (2p)^2 - 2",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Achieves either (2p-1)^2 - 2 = 4p^2 + 4p - 1 or (2p)^2 - 2 = 4p^2 - 2 and shows or gives a reason why the expression is not a multiple of 4 where required",
+            "expected_answer": "Achieves either (2p-1)^2 - 2 = 4p^2 + 4p - 1 or (2p)^2 - 2 = 4p^2 - 2 and shows or gives a reason why the expression is not a multiple of 4 where required",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Attempts to find n^2 - 2 for both odds and evens",
+            "expected_answer": "Attempts to find n^2 - 2 for both odds and evens",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "Achieves both (2p-1)^2 - 2 = 4p^2 + 4p - 1 and (2p)^2 - 2 = 4p^2 - 2 and shows or gives reasons why these are not multiples of 4 where required",
+            "expected_answer": "Achieves both (2p-1)^2 - 2 = 4p^2 + 4p - 1 and (2p)^2 - 2 = 4p^2 - 2 and shows or gives reasons why these are not multiples of 4 where required",
+            "mark_type": "A1*"
+        }
+    ],
+    "9i": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "States or uses tan x = sin x / cos x",
+            "expected_answer": "tan x = sin x / cos x",
+            "mark_type": "B1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "cos x + 5 sin x = 5 => sin^2 x = 1 - cos^2 x => 1 - cos^2 x = 5 cos x",
+            "expected_answer": "cos x + 5 sin x = 5 => sin^2 x = 1 - cos^2 x => 1 - cos^2 x = 5 cos x",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "cos^2 x + 5 cos x - 1 = 0 => {cos x = (-5 +- sqrt(26))/2} => x = awr 78.9, 281.1",
+            "expected_answer": "cos^2 x + 5 cos x - 1 = 0 => {cos x = (-5 +- sqrt(26))/2} => x = awr 78.9, 281.1",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "cos^2 x + 5 cos x - 1 = 0 => {cos x = (-5 +- sqrt(26))/2} => x = awr 78.9, 281.1",
+            "expected_answer": "cos^2 x + 5 cos x - 1 = 0 => {cos x = (-5 +- sqrt(26))/2} => x = awr 78.9, 281.1",
+            "mark_type": "D1"
+        },
+        {
+            "point_id": 5,
+            "marks": 1,
+            "criteria": "cos^2 x + 5 cos x - 1 = 0 => {cos x = (-5 +- sqrt(26))/2} => x = awr 78.9, 281.1",
+            "expected_answer": "cos^2 x + 5 cos x - 1 = 0 => {cos x = (-5 +- sqrt(26))/2} => x = awr 78.9, 281.1",
+            "mark_type": "A1"
+        }
+    ],
+    "9ii(a)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "A = 5",
+            "expected_answer": "A = 5",
+            "mark_type": "B1"
+        }
+    ],
+    "9ii(b)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "2theta - 3pi/8 = pi/2 => theta = ...",
+            "expected_answer": "2theta - 3pi/8 = pi/2 => theta = ...",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "theta = 15pi/16",
+            "expected_answer": "theta = 15pi/16",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "y coordinate Q = -3 (or 2 - \"A\")",
+            "expected_answer": "y coordinate Q = -3",
+            "mark_type": "B1ft"
+        }
+    ],
+    "9ii(c)": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Sets 0 = '5' sin(2theta - 3pi/8) + 2 => sin(2theta - 3pi/8) = -2/5",
+            "expected_answer": "0 = '5' sin(2theta - 3pi/8) + 2 => sin(2theta - 3pi/8) = -2/5",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "sin(2theta - 3pi/8) = +-2/5 => 2theta - 3pi/8 = arcsin(+-2/5) = ...",
+            "expected_answer": "sin(2theta - 3pi/8) = +-2/5 => 2theta - 3pi/8 = arcsin(+-2/5) = ...",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "One of 0.38, 2.4, 3.5, 5.5, 6.7, 8.6, 9.8, ...",
+            "expected_answer": "One of 0.38, 2.4, 3.5, 5.5, 6.7, 8.6, 9.8, ...",
+            "mark_type": "A1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "theta = awrt 5.51",
+            "expected_answer": "theta = awrt 5.51",
+            "mark_type": "A1"
+        }
+    ],
+    "10a": [
+        {
+            "point_id": 1,
+            "marks": 2,
+            "criteria": "Attempts to differentiate with one index correct",
+            "expected_answer": "d/dx (y) = x - 2187x^(-1/2)",
+            "mark_type": "M1, A1"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "Either solves their dy/dx = 0 of the form x = ...x^k = 0 where m is a fraction via x^a = A or x = A^a",
+            "expected_answer": "Sets x - 2187x^(-1/2) = 0 => x = 2187^(2/3) (or e.g. x = (sqrt(2187))^2) => x = 9 *",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "Correct calculations and working leading to prove that the x coordinate of P is 9.",
+            "expected_answer": "Sets x - 2187x^(-1/2) = 0 => x = 2187^(2/3) (or e.g. x = (sqrt(2187))^2) => x = 9 *",
+            "mark_type": "A1*"
+        }
+    ],
+    "10b": [
+        {
+            "point_id": 1,
+            "marks": 1,
+            "criteria": "Attempts to integrate with one index correct",
+            "expected_answer": "integral (x + 1458x^(1/2) - 74) dx",
+            "mark_type": "M1"
+        },
+        {
+            "point_id": 2,
+            "marks": 1,
+            "criteria": "Correct integration",
+            "expected_answer": "integral (x + 1458x^(1/2) - 74) dx = 1/2 x^2 + 2916x^(3/2) - 74x",
+            "mark_type": "A1ft"
+        },
+        {
+            "point_id": 3,
+            "marks": 1,
+            "criteria": "y value at P is 20.5",
+            "expected_answer": "y value at P is 20.5",
+            "mark_type": "B1"
+        },
+        {
+            "point_id": 4,
+            "marks": 1,
+            "criteria": "Full method to find the area of R. They do not need to proceed as far as finding a value for the area, the values embedded is sufficient.",
+            "expected_answer": "Area R = integral between 1 and 9 (1/2 x^2 + 2916x^(3/2) - 74x) - (9-4) * 20.5",
+            "mark_type": "dM1"
+        },
+        {
+            "point_id": 5,
+            "marks": 1,
+            "criteria": "Correct working and calculations seen leading to the answer of 124 1/3",
+            "expected_answer": "124 1/3",
+            "mark_type": "A1"
+        }
+    ]
+}
